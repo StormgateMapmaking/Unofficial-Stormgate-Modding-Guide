@@ -561,6 +561,7 @@ Every function comes with its own `script_id` and a set of arguments. You’ll f
 **GUIDs** (Globally Unique Identifiers) ensure objects don’t conflict.
 - An entry not assigned a GUID will have one assigned to it automatically.
 - But you can generate GUIDs using tools like https://www.uuidgenerator.net/guid.
+- Best practice is to just delete all GUID parameters; they are automatically assigned then
 
 ## Stormgates
 
@@ -611,3 +612,5 @@ Use a JSON-aware editor (e.g. VS Code).
 - mismatched brackets
 
 Save often and make incremental changes.
+
+Errors in JSON syntax leads to crashing the game when attempting to test the map. Non-valid entries lead to the map not building (and not starting).
