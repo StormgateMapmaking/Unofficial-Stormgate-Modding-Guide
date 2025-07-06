@@ -1,0 +1,21 @@
+{
+  "archetypes": [
+    {
+      "directory": "archetypes",
+      "recurse": true
+    }
+  ],
+  "default_archetype_directory": "archetypes",
+  "default_loc_namespace": "pegasus_core",
+  "default_type_directory": "types",
+  "dependencies": [
+    "pegasus_1v1"
+  ],
+  "name": "Tinker Test",
+  "types": [
+    {
+      "directory": "Types",
+      "recurse": true
+    }
+  ]
+}

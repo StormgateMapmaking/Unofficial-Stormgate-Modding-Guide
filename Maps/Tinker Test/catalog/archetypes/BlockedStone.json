@@ -1,0 +1,68 @@
+{
+    "__base_type": "Destructible",
+    "based_on": "Destructible",
+    "behaviors": [],
+    "buffs": [],
+    "can_respawn": false,
+    "collision": {
+        "air": false,
+        "burrowed": false,
+        "ground": true,
+        "ground_tall": false,
+        "item": false,
+        "worker": false
+    },
+    "description": "",
+    "effect_on_kill": "BlockedStone_DeathEffect_CreateDestructible",
+    "fog_visibility": "Snapshot",
+    "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": true,
+        "unbuildable": true,
+        "vision_block_height": 0,
+        "x": 2.0,
+        "y": 2.0
+    },
+    "footprint_concealment": {
+        "angled": false,
+        "clumpable": false,
+        "snap": true,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 0.0,
+        "y": 0.0
+    },
+    "health_bar_visible": true,
+    "id": "BlockedStone",
+    "info_portrait": "None",
+    "item_drop_data": {
+        "custom_item_drop_table": {
+            "sets": []
+        },
+        "drop_source": "None",
+        "item_data": "emptyRef",
+        "item_drop_table_ref": "emptyRef"
+    },
+    "minimap_icon": "Texture2D'/Game/Pegasus/UI/Assets/Icons/Minimap/UI_Icons_Minimap_Core.UI_Icons_Minimap_Core'",
+    "minimap_icon_size": 15.0,
+    "name": "",
+    "nearby_cells": 0.0,
+    "placed_name": "",
+    "radius": 1.2,
+    "respawn_time": 180.0,
+    "sb_id": "none",
+    "selectable": true,
+    "show_name_on_hover": false,
+    "smart_command_targetable": true,
+    "starting_snowtags": [
+        "heightplane_ground",
+        "visual_minimap_always"
+    ],
+    "unreal_actor": "BP_Blocked_ResourceB_Generator_2x2",
+    "vital_health": {
+        "maximum": 200.0,
+        "regen": 0.0,
+        "starting": 200.0
+    }
+}

@@ -1,0 +1,147 @@
+{
+  "109DCFBD-4F8F-07CA-72AF-1BA35DFF2A9B": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      262144,
+      524288
+    ]
+  },
+  "1460B687-4A81-A776-BA41-3EB3290314EE": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      524288,
+      -262144
+    ]
+  },
+  "20C52314-48E7-2F29-1DD4-10A607C5FD6F": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      262144,
+      262144
+    ]
+  },
+  "21AD2028-4A05-69B1-D08F-E3A7624266B1": {
+    "facing": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 1,
+    "position": [
+      0,
+      524288
+    ]
+  },
+  "21F1DA75-49AA-AF82-10CD-AD8274005052": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -262144,
+      524288
+    ]
+  },
+  "2DB50AC0-4092-177F-C0FC-519485862F42": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -262144,
+      -524288
+    ]
+  },
+  "3F1B3ACD-49D3-B642-3F65-3BA1D4DBBFE0": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      0,
+      -262144
+    ]
+  },
+  "455D6538-4E79-20BA-620F-4B99A420B8EC": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -524288,
+      262144
+    ]
+  },
+  "4CFF54A7-4F76-3718-BCA6-FF8E7BC9B698": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -262144,
+      -262144
+    ]
+  },
+  "72485A9B-442E-2CBA-7AD3-39B81A123FD5": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -524288,
+      0
+    ]
+  },
+  "7497FA5D-46F1-177F-5BFA-F59954F1CACD": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      524288,
+      0
+    ]
+  },
+  "9299C49F-4F64-9A0D-B579-D4A0C6996182": {
+    "facing": 1610612764,
+    "kind": "Dingus",
+    "player": 1,
+    "position": [
+      -258,
+      765
+    ]
+  },
+  "9299C49F-4F64-9A0D-B579-D4A0C6996183": {
+    "facing": 1610612834,
+    "kind": "BigHoss",
+    "player": 1,
+    "position": [
+      0,
+      65536
+    ]
+  },
+  "9F8FA723-4F73-0849-3A4F-C190B4A9ED8E": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      262144,
+      -524288
+    ]
+  },
+  "BEAFE857-408E-179C-CB08-50895D685CF9": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      0,
+      262144
+    ]
+  },
+  "DDB0972B-4815-8F1C-15AD-218D89E90EC5": {
+    "facing": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 2,
+    "position": [
+      0,
+      -524288
+    ]
+  },
+  "version": 1
+}

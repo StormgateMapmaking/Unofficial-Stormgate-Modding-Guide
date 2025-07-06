@@ -1,0 +1,97 @@
+﻿{
+  "actions": [
+    {
+      "function_id": "UI_SendChatMessage",
+      "guid": "FD43E7EF40434538F4D2279E60C81140",
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "Text_ToText",
+                "guid": "B6CF3C0B4CA030BCFAE9048D292629A7",
+                "parameters": [
+                  {
+                    "expressions": [
+                      {
+                        "guid": "90024D4A43E8066F33024BA96423A2E2",
+                        "type": "Value",
+                        "value": {
+                          "guid": "3CE17AAE42A56C9B45F2D98B531D66DA",
+                          "type": {
+                            "directive": "FunctionType",
+                            "implements": "",
+                            "inner_type": "",
+                            "param_id": "",
+                            "sub_directive": "None",
+                            "tags": [
+                              "to_text"
+                            ],
+                            "type": "String"
+                          },
+                          "value": "Hello, world!"
+                        }
+                      }
+                    ],
+                    "guid": "CD84CDA74BC316C44C06E09F709FA104",
+                    "id": "value"
+                  }
+                ]
+              },
+              "guid": "2CD3872A4DD80F67EAD8D299ECCBA6DF",
+              "type": "Function"
+            }
+          ],
+          "guid": "1D25CD814B40DEC7E2FED293E196FAA5",
+          "id": "message"
+        },
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "PlayerGroup_GetAllPlayers",
+                "guid": "DDDCADC6468A887788B5B7BE61ACF82F"
+              },
+              "guid": "C928B19D4191BA1AD8B0C983ADA88293",
+              "type": "Function"
+            }
+          ],
+          "guid": "592E50CD4DA157CC36EE49B025F51D00",
+          "id": "group"
+        }
+      ]
+    }
+  ],
+  "based_on": "Trigger",
+  "events": [
+    {
+      "function_id": "Timer_OnTimeElapsed",
+      "guid": "994D5B424522B96DB764EEB1F116CDDC",
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "guid": "4B281ECD4E27C558584D38863F95CF2D",
+              "type": "Value",
+              "value": {
+                "guid": "8FFEC4024796B7611622688EC1A3AE64",
+                "type": {
+                  "directive": "FunctionType",
+                  "implements": "",
+                  "inner_type": "",
+                  "param_id": "",
+                  "sub_directive": "None",
+                  "type": "Time"
+                },
+                "value": "1.0"
+              }
+            }
+          ],
+          "guid": "B76433A54480ACC5573E8C8686A7F78B",
+          "id": "duration"
+        }
+      ]
+    }
+  ],
+  "id": "HelloWorld"
+}

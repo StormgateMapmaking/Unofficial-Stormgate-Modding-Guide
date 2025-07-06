@@ -1,0 +1,16 @@
+{
+    "__base_type": "GameEffectCreateDestructible",
+    "based_on": "GameEffectCreateDestructible",
+    "editor_icon": "",
+    "effect_location": {
+        "effect_parent": "none",
+        "entity_or_point": "Point",
+        "target": "Target"
+    },
+    "id": "BlockedStone_DeathEffect_CreateDestructible",
+    "impact_fx": "BP_FXS_StunningStomp_Explosion",
+    "spawn_count": 1,
+    "spawn_destructible": "BlockedStone_Stone",
+    "tracker": "",
+    "validator": "emptyRef"
+}

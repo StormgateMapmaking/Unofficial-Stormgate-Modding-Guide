@@ -1,0 +1,9 @@
+{
+  "based_on": "Lancer",
+  "id": "Dingus",
+  "vital_health": {
+    "maximum": 123.0,
+    "regen": 0.0,
+    "starting": 123.0
+  }
+}

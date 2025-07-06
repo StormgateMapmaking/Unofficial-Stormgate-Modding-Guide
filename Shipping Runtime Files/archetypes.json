@@ -1,0 +1,2195 @@
+﻿{
+  "Enum": {
+    "AIWingmanStyle": {
+      "values": [
+        {
+          "display_name": "lobby|AIWingManStyle_NoBuddyBot",
+          "name": "NoBuddyBot",
+          "value": 0
+        },
+        {
+          "display_name": "lobby|AIWingManStyle_BuddyBot",
+          "name": "BuddyBot",
+          "value": 1
+        }
+      ]
+    },
+    "AiStyle": {
+      "values": [
+        {
+          "display_name": "lobby|AIStyle_PeacefulBot",
+          "name": "Peaceful",
+          "value": 0
+        },
+        {
+          "display_name": "lobby|AIStyle_Easy",
+          "name": "Easy",
+          "value": 1
+        },
+        {
+          "display_name": "lobby|AIStyle_Normal",
+          "name": "Normal",
+          "value": 2
+        },
+        {
+          "display_name": "lobby|AIStyle_Hard",
+          "name": "Hard",
+          "value": 3
+        }
+      ]
+    },
+    "CommanderType": {
+      "values": [
+        {
+          "display_name": "lobby|CommanderType_None",
+          "name": "None",
+          "value": 0
+        },
+        {
+          "display_name": "lobby|CommanderType_Chicken",
+          "name": "Chicken",
+          "value": 1
+        },
+        {
+          "display_name": "lobby|CommanderType_Goat",
+          "name": "Goat",
+          "value": 2
+        },
+        {
+          "display_name": "lobby|CommanderType_Deer",
+          "name": "Deer",
+          "value": 3
+        }
+      ]
+    },
+    "FactionType": {
+      "values": [
+        {
+          "display_name": "lobby|FactionType_Vanguard",
+          "name": "Vanguard",
+          "value": 0
+        },
+        {
+          "display_name": "lobby|FactionType_Infernal",
+          "name": "Infernals",
+          "value": 1
+        },
+        {
+          "display_name": "lobby|FactionType_Celestial",
+          "name": "Celestials",
+          "value": 2
+        },
+        {
+          "display_name": "lobby|FactionType_Random",
+          "name": "Random",
+          "value": 1000
+        }
+      ]
+    },
+    "SlotType": {
+      "values": [
+        {
+          "display_name": "lobby|SlotType_Closed",
+          "name": "Closed",
+          "value": 0
+        },
+        {
+          "display_name": "lobby|SlotType_Human",
+          "name": "Human",
+          "value": 1
+        },
+        {
+          "display_name": "lobby|SlotType_AI",
+          "name": "AI",
+          "value": 2
+        }
+      ]
+    },
+    "TeamNumber": {
+      "values": [
+        {
+          "display_name": "lobby|TeamNumber_1",
+          "name": "Team 1",
+          "value": 0
+        },
+        {
+          "display_name": "lobby|TeamNumber_2",
+          "name": "Team 2",
+          "value": 1
+        },
+        {
+          "display_name": "lobby|TeamNumber_3",
+          "name": "Team 3",
+          "value": 2
+        },
+        {
+          "display_name": "lobby|TeamNumber_4",
+          "name": "Team 4",
+          "value": 3
+        },
+        {
+          "display_name": "lobby|TeamNumber_5",
+          "name": "Team 5",
+          "value": 4
+        },
+        {
+          "display_name": "lobby|TeamNumber_6",
+          "name": "Team 6",
+          "value": 5
+        },
+        {
+          "display_name": "lobby|TeamNumber_7",
+          "name": "Team 7",
+          "value": 6
+        },
+        {
+          "display_name": "lobby|TeamNumber_8",
+          "name": "Team 8",
+          "value": 7
+        },
+        {
+          "display_name": "lobby|TeamNumber_9",
+          "name": "Team 9",
+          "value": 8
+        },
+        {
+          "display_name": "lobby|TeamNumber_10",
+          "name": "Team 10",
+          "value": 9
+        },
+        {
+          "display_name": "lobby|TeamNumber_11",
+          "name": "Team 11",
+          "value": 10
+        },
+        {
+          "display_name": "lobby|TeamNumber_12",
+          "name": "Team 12",
+          "value": 11
+        },
+        {
+          "display_name": "lobby|TeamNumber_13",
+          "name": "Team 13",
+          "value": 12
+        },
+        {
+          "display_name": "lobby|TeamNumber_14",
+          "name": "Team 14",
+          "value": 13
+        },
+        {
+          "display_name": "lobby|TeamNumber_15",
+          "name": "Team 15",
+          "value": 14
+        },
+        {
+          "display_name": "lobby|TeamNumber_16",
+          "name": "Team 16",
+          "value": 15
+        }
+      ]
+    },
+    "VisionType": {
+      "values": [
+        {
+          "display_name": "pegasus_core|VisionType_Hidden",
+          "name": "Hidden",
+          "value": 0
+        },
+        {
+          "display_name": "pegasus_core|VisionType_Unexplored",
+          "name": "Unexplored",
+          "value": 32
+        },
+        {
+          "display_name": "pegasus_core|VisionType_Explored",
+          "name": "Explored",
+          "value": 80
+        },
+        {
+          "display_name": "pegasus_core|VisionType_Visible",
+          "name": "Visible",
+          "value": 255
+        }
+      ]
+    }
+  },
+  "MapSettings": {
+    "DefaultMapSettings": {
+      "abyss_height_camera": 0.0,
+      "abyss_height_flyers": 0.0,
+      "allied_cascade_field": false,
+      "announcer_data": "BaseAnnouncerData",
+      "camera_bounds": {
+        "bottom_offset": 20.0,
+        "left_offset": 40.0,
+        "right_offset": 40.0,
+        "top_offset": 20.0
+      },
+      "cloud_blackboard": "",
+      "construction_preview_bp": "/Script/Engine.BlueprintGeneratedClass'/Game/Pegasus/Blueprints/Units/BP_ConstructionPreview.BP_ConstructionPreview_C'",
+      "corpse_expiration_scale": 1.0,
+      "custom_team_colors_index": -1,
+      "description": "",
+      "disable_wall_filter": false,
+      "fog": {
+        "color": {
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "density": 0,
+        "enabled": false,
+        "height": 0
+      },
+      "fog_of_war": "",
+      "fow_influence_adjustment": 0.0,
+      "lighting_settings": "DefaultLightingMidDay",
+      "loading_widget": "",
+      "map_music": "emptyRef",
+      "minimap_background_texture": "",
+      "playable_bounds": {
+        "bottom_offset": 10,
+        "left_offset": 15,
+        "right_offset": 15,
+        "top_offset": 10
+      },
+      "player_attributes": [
+        "teamAttributeDefinition",
+        "slotTypeAttributeDefinition",
+        "factionAttributeDefinition",
+        "aiStyleAttributeDefinition",
+        "colorVariationAttributeDefinition"
+      ],
+      "player_slots": [],
+      "player_start_style": "Preset",
+      "show_score_screen": true,
+      "shroud_shrink_scale": 8.0,
+      "shroud_time_per_radius_unit": 2,
+      "skybox": {
+        "actor": "",
+        "enabled": true,
+        "parallax": 1.0
+      },
+      "starting_worker_count": 6,
+      "sub_title": "",
+      "support_outline_drawing": false,
+      "tileset": "TerrainTileset_ForestAutumn",
+      "time_of_day": {
+        "dawn_sound": "SoundData_Daybreak",
+        "day_length": 240.0,
+        "dusk_sound": "SoundData_Nightfall",
+        "scale": 0.0,
+        "starting_hour": 12.0
+      },
+      "title": "",
+      "veterancy_xp_share_radius": 15.0,
+      "win_condition": "VSWinConditionStructureElimination"
+    },
+    "InstanceMapSettings": {
+      "abyss_height_camera": 0.0,
+      "abyss_height_flyers": 0.0,
+      "allied_cascade_field": false,
+      "announcer_data": "BaseAnnouncerData",
+      "camera_bounds": {
+        "bottom_offset": 20.0,
+        "left_offset": 40.0,
+        "right_offset": 40.0,
+        "top_offset": 20.0
+      },
+      "cloud_blackboard": "",
+      "construction_preview_bp": "/Script/Engine.BlueprintGeneratedClass'/Game/Pegasus/Blueprints/Units/BP_ConstructionPreview.BP_ConstructionPreview_C'",
+      "corpse_expiration_scale": 1.0,
+      "custom_team_colors_index": -1,
+      "description": "Just another Stormgate map",
+      "disable_wall_filter": false,
+      "fog": {
+        "color": {
+          "b": 255,
+          "g": 255,
+          "r": 255
+        },
+        "density": 0,
+        "enabled": false,
+        "height": 0
+      },
+      "fog_of_war": "",
+      "fow_influence_adjustment": 0.0,
+      "lighting_settings": "DefaultLightingTOD",
+      "loading_widget": "/Script/UMG.WidgetBlueprintGeneratedClass'/Game/Pegasus/UI/LoadingScreen/WBP_LoadingVersus.WBP_LoadingVersus_C'",
+      "map_music": "emptyRef",
+      "minimap_background_texture": "",
+      "playable_bounds": {
+        "bottom_offset": 10,
+        "left_offset": 15,
+        "right_offset": 15,
+        "top_offset": 10
+      },
+      "player_attributes": [
+        "teamAttributeDefinition",
+        "slotTypeAttributeDefinition",
+        "factionAttributeDefinition",
+        "aiStyleAttributeDefinition",
+        "colorVariationAttributeDefinition"
+      ],
+      "player_slots": [
+        {
+          "attribute_instance_map_settings": {
+            "additional_overrides": [],
+            "slot_type": {
+              "locked": true,
+              "value": "human"
+            },
+            "team": {
+              "locked": false,
+              "value": 0
+            }
+          }
+        },
+        {
+          "attribute_instance_map_settings": {
+            "additional_overrides": [],
+            "slot_type": {
+              "locked": false,
+              "value": "ai"
+            },
+            "team": {
+              "locked": false,
+              "value": 1
+            }
+          }
+        }
+      ],
+      "player_start_style": "Preset",
+      "show_score_screen": true,
+      "shroud_shrink_scale": 8.0,
+      "shroud_time_per_radius_unit": 2,
+      "skybox": {
+        "actor": "",
+        "enabled": true,
+        "parallax": 1.0
+      },
+      "starting_worker_count": 6,
+      "sub_title": "",
+      "support_outline_drawing": false,
+      "tileset": "TerrainTileset_SigmaStation",
+      "time_of_day": {
+        "dawn_sound": "SoundData_Daybreak",
+        "day_length": 240.0,
+        "dusk_sound": "SoundData_Nightfall",
+        "scale": 10.0,
+        "starting_hour": 12.0
+      },
+      "title": "Untitled Map",
+      "veterancy_xp_share_radius": 15.0,
+      "win_condition": "VSWinConditionStructureElimination"
+    }
+  },
+  "PlayerAttributeDefinition": {
+    "aiStyleAttributeDefinition": {
+      "attribute_id": "ai_style",
+      "default_instance_map_settings": {
+        "default_value": 0,
+        "locked": false
+      },
+      "display_name": "PegasusGeneral|AttributeDefinition_AIStyle",
+      "display_settings": {
+        "reset_on_leave": false,
+        "show_in_custom_lobby": true,
+        "show_in_internal_lobby": false,
+        "show_on_ais": true,
+        "show_on_occupied_humans": false
+      },
+      "permission_settings": {
+        "user_edit_scope": {
+          "anyone": false,
+          "lobby_owner": true,
+          "slot_occupant": true
+        },
+        "user_editing_allowed": "Noncompetitive"
+      },
+      "value_kind": 0,
+      "values": "AiStyle",
+      "values_as_typeref_enum": []
+    },
+    "aiWingmanAttributeDefinition": {
+      "attribute_id": "ai_wingman",
+      "default_instance_map_settings": {
+        "default_value": 0,
+        "locked": false
+      },
+      "display_name": "PegasusGeneral|AttributeDefinition_AIWingman",
+      "display_settings": {
+        "reset_on_leave": false,
+        "show_in_custom_lobby": true,
+        "show_in_internal_lobby": false,
+        "show_on_ais": false,
+        "show_on_occupied_humans": true
+      },
+      "permission_settings": {
+        "user_edit_scope": {
+          "anyone": false,
+          "lobby_owner": false,
+          "slot_occupant": true
+        },
+        "user_editing_allowed": "Noncompetitive"
+      },
+      "value_kind": 0,
+      "values": "AIWingmanStyle",
+      "values_as_typeref_enum": []
+    },
+    "armySkinAttributeDefinition": {
+      "attribute_id": "army_skin",
+      "default_instance_map_settings": {
+        "default_value": 0,
+        "locked": false
+      },
+      "display_name": "PegasusGeneral|AttributeDefinition_ArmyAccent",
+      "display_settings": {
+        "reset_on_leave": false,
+        "show_in_custom_lobby": false,
+        "show_in_internal_lobby": false,
+        "show_on_ais": true,
+        "show_on_occupied_humans": true
+      },
+      "permission_settings": {
+        "user_edit_scope": {
+          "anyone": false,
+          "lobby_owner": false,
+          "slot_occupant": true
+        },
+        "user_editing_allowed": "Noncompetitive"
+      },
+      "value_kind": 2,
+      "values": "emptyRef",
+      "values_as_typeref_enum": []
+    },
+    "colorVariationAttributeDefinition": {
+      "attribute_id": "color_variation",
+      "default_instance_map_settings": {
+        "default_value": 0,
+        "locked": false
+      },
+      "display_name": "PegasusGeneral|AttributeDefinition_ColorVariation",
+      "display_settings": {
+        "reset_on_leave": false,
+        "show_in_custom_lobby": false,
+        "show_in_internal_lobby": false,
+        "show_on_ais": true,
+        "show_on_occupied_humans": true
+      },
+      "permission_settings": {
+        "user_edit_scope": {
+          "anyone": false,
+          "lobby_owner": false,
+          "slot_occupant": true
+        },
+        "user_editing_allowed": "Always"
+      },
+      "value_kind": 1,
+      "values": "emptyRef",
+      "values_as_typeref_enum": []
+    },
+    "commanderLevelAttributeDefinition": {
+      "attribute_id": "commander_level",
+      "default_instance_map_settings": {
+        "default_value": 0,
+        "locked": false
+      },
+      "display_name": "PegasusGeneral|AttributeDefinition_CommanderLevel",
+      "display_settings": {
+        "reset_on_leave": false,
+        "show_in_custom_lobby": false,
+        "show_in_internal_lobby": false,
+        "show_on_ais": false,
+        "show_on_occupied_humans": false
+      },
+      "permission_settings": {
+        "user_edit_scope": {
+          "anyone": false,
+          "lobby_owner": false,
+          "slot_occupant": true
+        },
+        "user_editing_allowed": "Noncompetitive"
+      },
+      "value_kind": 1,
+      "values": "emptyRef",
+      "values_as_typeref_enum": []
+    },
+    "factionAttributeDefinition": {
+      "attribute_id": "faction_type",
+      "default_instance_map_settings": {
+        "default_value": 0,
+        "locked": false
+      },
+      "display_name": "PegasusGeneral|AttributeDefinition_Faction",
+      "display_settings": {
+        "reset_on_leave": true,
+        "show_in_custom_lobby": true,
+        "show_in_internal_lobby": false,
+        "show_on_ais": true,
+        "show_on_occupied_humans": true
+      },
+      "permission_settings": {
+        "user_edit_scope": {
+          "anyone": false,
+          "lobby_owner": false,
+          "slot_occupant": true
+        },
+        "user_editing_allowed": "Noncompetitive"
+      },
+      "value_kind": 0,
+      "values": "FactionType",
+      "values_as_typeref_enum": []
+    },
+    "fogOfWarAttributeDefinition": {
+      "attribute_id": "fog_of_war",
+      "default_instance_map_settings": {
+        "default_value": 0,
+        "locked": false
+      },
+      "display_name": "PegasusGeneral|AttributeDefinition_FogOfWar",
+      "display_settings": {
+        "reset_on_leave": false,
+        "show_in_custom_lobby": false,
+        "show_in_internal_lobby": false,
+        "show_on_ais": false,
+        "show_on_occupied_humans": false
+      },
+      "permission_settings": {
+        "user_edit_scope": {
+          "anyone": false,
+          "lobby_owner": false,
+          "slot_occupant": true
+        },
+        "user_editing_allowed": "Noncompetitive"
+      },
+      "value_kind": 2,
+      "values": "emptyRef",
+      "values_as_typeref_enum": []
+    },
+    "gear1AttributeDefinition": {
+      "attribute_id": "gear_1",
+      "default_data": "gear1AttributeData_default",
+      "default_instance_map_settings": {
+        "default_value": 0,
+        "locked": false
+      },
+      "display_name": "PegasusGeneral|AttributeDefinition_Gear1",
+      "display_settings": {
+        "reset_on_leave": false,
+        "show_in_custom_lobby": false,
+        "show_in_internal_lobby": false,
+        "show_on_ais": false,
+        "show_on_occupied_humans": false
+      },
+      "permission_settings": {
+        "user_edit_scope": {
+          "anyone": false,
+          "lobby_owner": false,
+          "slot_occupant": false
+        },
+        "user_editing_allowed": "Never"
+      },
+      "value_kind": 2,
+      "values": "emptyRef",
+      "values_as_typeref_enum": []
+    },
+    "gear2AttributeDefinition": {
+      "attribute_id": "gear_2",
+      "default_data": "gear2AttributeData_default",
+      "default_instance_map_settings": {
+        "default_value": 0,
+        "locked": false
+      },
+      "display_name": "PegasusGeneral|AttributeDefinition_Gear2",
+      "display_settings": {
+        "reset_on_leave": false,
+        "show_in_custom_lobby": false,
+        "show_in_internal_lobby": false,
+        "show_on_ais": false,
+        "show_on_occupied_humans": false
+      },
+      "permission_settings": {
+        "user_edit_scope": {
+          "anyone": false,
+          "lobby_owner": false,
+          "slot_occupant": false
+        },
+        "user_editing_allowed": "Never"
+      },
+      "value_kind": 2,
+      "values": "emptyRef",
+      "values_as_typeref_enum": []
+    },
+    "gear3AttributeDefinition": {
+      "attribute_id": "gear_3",
+      "default_data": "gear3AttributeData_default",
+      "default_instance_map_settings": {
+        "default_value": 0,
+        "locked": false
+      },
+      "display_name": "PegasusGeneral|AttributeDefinition_Gear3",
+      "display_settings": {
+        "reset_on_leave": false,
+        "show_in_custom_lobby": false,
+        "show_in_internal_lobby": false,
+        "show_on_ais": false,
+        "show_on_occupied_humans": false
+      },
+      "permission_settings": {
+        "user_edit_scope": {
+          "anyone": false,
+          "lobby_owner": false,
+          "slot_occupant": false
+        },
+        "user_editing_allowed": "Never"
+      },
+      "value_kind": 2,
+      "values": "emptyRef",
+      "values_as_typeref_enum": []
+    },
+    "globalPerkTestSlotAttributeDefinition": {
+      "attribute_id": "test_perk_slot",
+      "default_instance_map_settings": {
+        "default_value": 0,
+        "locked": false
+      },
+      "display_name": "PegasusGeneral|AttributeDefinition_GlobalPerkTestSlot",
+      "display_settings": {
+        "reset_on_leave": false,
+        "show_in_custom_lobby": false,
+        "show_in_internal_lobby": false,
+        "show_on_ais": false,
+        "show_on_occupied_humans": true
+      },
+      "permission_settings": {
+        "user_edit_scope": {
+          "anyone": false,
+          "lobby_owner": false,
+          "slot_occupant": true
+        },
+        "user_editing_allowed": "Noncompetitive"
+      },
+      "value_kind": 2,
+      "values": "emptyRef",
+      "values_as_typeref_enum": [
+        "emptyRef"
+      ]
+    },
+    "heroSkinAttributeDefinition": {
+      "attribute_id": "hero_skin",
+      "default_instance_map_settings": {
+        "default_value": 0,
+        "locked": false
+      },
+      "display_name": "PegasusGeneral|AttributeDefinition_HeroSkin",
+      "display_settings": {
+        "reset_on_leave": false,
+        "show_in_custom_lobby": false,
+        "show_in_internal_lobby": false,
+        "show_on_ais": false,
+        "show_on_occupied_humans": false
+      },
+      "permission_settings": {
+        "user_edit_scope": {
+          "anyone": false,
+          "lobby_owner": false,
+          "slot_occupant": true
+        },
+        "user_editing_allowed": "Noncompetitive"
+      },
+      "value_kind": 2,
+      "values": "emptyRef",
+      "values_as_typeref_enum": []
+    },
+    "pet1AttributeDefinition": {
+      "attribute_id": "pet_1",
+      "default_instance_map_settings": {
+        "default_value": 0,
+        "locked": false
+      },
+      "display_name": "PegasusGeneral|AttributeDefinition_Pet1",
+      "display_settings": {
+        "reset_on_leave": false,
+        "show_in_custom_lobby": false,
+        "show_in_internal_lobby": false,
+        "show_on_ais": false,
+        "show_on_occupied_humans": false
+      },
+      "permission_settings": {
+        "user_edit_scope": {
+          "anyone": false,
+          "lobby_owner": false,
+          "slot_occupant": false
+        },
+        "user_editing_allowed": "Never"
+      },
+      "value_kind": 2,
+      "values": "emptyRef",
+      "values_as_typeref_enum": []
+    },
+    "pet2AttributeDefinition": {
+      "attribute_id": "pet_2",
+      "default_instance_map_settings": {
+        "default_value": 0,
+        "locked": false
+      },
+      "display_name": "PegasusGeneral|AttributeDefinition_Pet2",
+      "display_settings": {
+        "reset_on_leave": false,
+        "show_in_custom_lobby": false,
+        "show_in_internal_lobby": false,
+        "show_on_ais": false,
+        "show_on_occupied_humans": false
+      },
+      "permission_settings": {
+        "user_edit_scope": {
+          "anyone": false,
+          "lobby_owner": false,
+          "slot_occupant": false
+        },
+        "user_editing_allowed": "Never"
+      },
+      "value_kind": 2,
+      "values": "emptyRef",
+      "values_as_typeref_enum": []
+    },
+    "pet3AttributeDefinition": {
+      "attribute_id": "pet_3",
+      "default_instance_map_settings": {
+        "default_value": 0,
+        "locked": false
+      },
+      "display_name": "PegasusGeneral|AttributeDefinition_Pet3",
+      "display_settings": {
+        "reset_on_leave": false,
+        "show_in_custom_lobby": false,
+        "show_in_internal_lobby": false,
+        "show_on_ais": false,
+        "show_on_occupied_humans": false
+      },
+      "permission_settings": {
+        "user_edit_scope": {
+          "anyone": false,
+          "lobby_owner": false,
+          "slot_occupant": false
+        },
+        "user_editing_allowed": "Never"
+      },
+      "value_kind": 2,
+      "values": "emptyRef",
+      "values_as_typeref_enum": []
+    },
+    "pet4AttributeDefinition": {
+      "attribute_id": "pet_4",
+      "default_instance_map_settings": {
+        "default_value": 0,
+        "locked": false
+      },
+      "display_name": "PegasusGeneral|AttributeDefinition_Pet4",
+      "display_settings": {
+        "reset_on_leave": false,
+        "show_in_custom_lobby": false,
+        "show_in_internal_lobby": false,
+        "show_on_ais": false,
+        "show_on_occupied_humans": false
+      },
+      "permission_settings": {
+        "user_edit_scope": {
+          "anyone": false,
+          "lobby_owner": false,
+          "slot_occupant": false
+        },
+        "user_editing_allowed": "Never"
+      },
+      "value_kind": 2,
+      "values": "emptyRef",
+      "values_as_typeref_enum": []
+    },
+    "slotTypeAttributeDefinition": {
+      "attribute_id": "slot_type",
+      "default_instance_map_settings": {
+        "default_value": 0,
+        "locked": false
+      },
+      "display_name": "PegasusGeneral|AttributeDefinition_SlotType",
+      "display_settings": {
+        "reset_on_leave": false,
+        "show_in_custom_lobby": true,
+        "show_in_internal_lobby": false,
+        "show_on_ais": true,
+        "show_on_occupied_humans": true
+      },
+      "is_unique_per_player": false,
+      "permission_settings": {
+        "user_edit_scope": {
+          "anyone": true,
+          "lobby_owner": true,
+          "slot_occupant": true
+        },
+        "user_editing_allowed": "Noncompetitive"
+      },
+      "value_kind": 0,
+      "values": "SlotType",
+      "values_as_typeref_enum": []
+    },
+    "teamAttributeDefinition": {
+      "attribute_id": "team",
+      "default_instance_map_settings": {
+        "default_value": 0,
+        "locked": false
+      },
+      "display_name": "PegasusGeneral|AttributeDefinition_Team",
+      "display_settings": {
+        "reset_on_leave": false,
+        "show_in_custom_lobby": true,
+        "show_in_internal_lobby": false,
+        "show_on_ais": true,
+        "show_on_occupied_humans": true
+      },
+      "permission_settings": {
+        "user_edit_scope": {
+          "anyone": false,
+          "lobby_owner": false,
+          "slot_occupant": true
+        },
+        "user_editing_allowed": "Noncompetitive"
+      },
+      "value_kind": 0,
+      "values": "TeamNumber",
+      "values_as_typeref_enum": []
+    }
+  },
+  "Score": {
+    "score_army_value": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_army_value",
+      "display_on_score_screen": true,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [
+        "score_overall"
+      ],
+      "score_id": "score_army_value",
+      "upload_with_match_results": true
+    },
+    "score_army_value_current": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_army_value",
+      "display_on_score_screen": false,
+      "gel_aggregate": true,
+      "gel_paths": [
+        "army_value_changed/value"
+      ],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "",
+      "upload_with_match_results": false
+    },
+    "score_creep_bounty_luminite": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_creep_bounty_luminite",
+      "display_on_score_screen": true,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [
+        "score_creep_resources_collected"
+      ],
+      "score_id": "score_creep_bounty_luminite",
+      "upload_with_match_results": true
+    },
+    "score_creep_bounty_therium": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_creep_bounty_therium",
+      "display_on_score_screen": true,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [
+        "score_creep_resources_collected"
+      ],
+      "score_id": "score_creep_bounty_therium",
+      "upload_with_match_results": true
+    },
+    "score_creep_camps_cleared": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_creep_camps_cleared",
+      "display_on_score_screen": true,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": true,
+      "parent_scores": [],
+      "score_id": "score_creep_camps_cleared",
+      "upload_with_match_results": true
+    },
+    "score_creep_last_hit": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_creep_last_hit",
+      "display_on_score_screen": true,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": true,
+      "parent_scores": [],
+      "score_id": "score_creep_last_hit",
+      "upload_with_match_results": true
+    },
+    "score_creep_resources_collected": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_creep_resources_collected",
+      "display_on_score_screen": true,
+      "gel_aggregate": true,
+      "gel_paths": [
+        "creep_resources_collected/resourceA",
+        "creep_resources_collected/resourceB"
+      ],
+      "gel_step_between_values": true,
+      "parent_scores": [
+        "score_overall"
+      ],
+      "score_id": "score_creep_resources_collected",
+      "upload_with_match_results": true
+    },
+    "score_kudo_badge1": {
+      "best_is_greatest": true,
+      "display_name": "",
+      "display_on_score_screen": false,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "score_kudo_badge1",
+      "upload_with_match_results": true
+    },
+    "score_luminite_current": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_luminite_current",
+      "display_on_score_screen": false,
+      "gel_aggregate": false,
+      "gel_paths": [
+        "player_resource_stats/resourcesA"
+      ],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "",
+      "upload_with_match_results": false
+    },
+    "score_luminite_mined": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_luminite_mined",
+      "display_on_score_screen": true,
+      "gel_aggregate": true,
+      "gel_paths": [
+        "resources_mined/resourcesA"
+      ],
+      "gel_step_between_values": false,
+      "parent_scores": [
+        "score_resources_mined",
+        "score_overall"
+      ],
+      "score_id": "score_luminite_mined",
+      "upload_with_match_results": true
+    },
+    "score_overall": {
+      "best_is_greatest": true,
+      "display_name": "UIGeneric|Generic_Score",
+      "display_on_score_screen": true,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "",
+      "upload_with_match_results": false
+    },
+    "score_research_spent": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_research_spent",
+      "display_on_score_screen": true,
+      "gel_aggregate": true,
+      "gel_paths": [
+        "research_spent_changed/value"
+      ],
+      "gel_step_between_values": true,
+      "parent_scores": [
+        "score_overall"
+      ],
+      "score_id": "score_research_spent",
+      "upload_with_match_results": true
+    },
+    "score_resources_mined": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_resources_mined",
+      "display_on_score_screen": true,
+      "gel_aggregate": true,
+      "gel_paths": [
+        "resources_mined/resourcesA",
+        "resources_mined/resourcesB"
+      ],
+      "gel_step_between_values": false,
+      "parent_scores": [
+        "score_overall"
+      ],
+      "score_id": "",
+      "upload_with_match_results": false
+    },
+    "score_structures_built": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_structures_built",
+      "display_on_score_screen": true,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "score_structures_built",
+      "upload_with_match_results": true
+    },
+    "score_structures_killed": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_structures_killed",
+      "display_on_score_screen": true,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "score_structures_killed",
+      "upload_with_match_results": true
+    },
+    "score_structures_lost": {
+      "best_is_greatest": false,
+      "display_name": "pegasus_core|Score_display_name_score_structures_lost",
+      "display_on_score_screen": true,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "score_structures_lost",
+      "upload_with_match_results": true
+    },
+    "score_team_xp": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_team_xp",
+      "display_on_score_screen": false,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "score_team_xp",
+      "upload_with_match_results": true
+    },
+    "score_therium_current": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_therium_current",
+      "display_on_score_screen": false,
+      "gel_aggregate": false,
+      "gel_paths": [
+        "player_resource_stats/resourcesB"
+      ],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "",
+      "upload_with_match_results": false
+    },
+    "score_therium_mined": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_therium_mined",
+      "display_on_score_screen": true,
+      "gel_aggregate": true,
+      "gel_paths": [
+        "resources_mined/resourcesB"
+      ],
+      "gel_step_between_values": false,
+      "parent_scores": [
+        "score_resources_mined",
+        "score_overall"
+      ],
+      "score_id": "score_therium_mined",
+      "upload_with_match_results": true
+    },
+    "score_townhall_count": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_townhall_count",
+      "display_on_score_screen": false,
+      "gel_aggregate": true,
+      "gel_paths": [
+        "townhall_count_changed/value"
+      ],
+      "gel_step_between_values": true,
+      "parent_scores": [],
+      "score_id": "",
+      "upload_with_match_results": false
+    },
+    "score_townhalls_built": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_townhalls_built",
+      "display_on_score_screen": true,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "score_townhalls_built",
+      "upload_with_match_results": true
+    },
+    "score_townhalls_killed": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_townhalls_killed",
+      "display_on_score_screen": true,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "score_townhalls_killed",
+      "upload_with_match_results": true
+    },
+    "score_townhalls_lost": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_townhalls_lost",
+      "display_on_score_screen": true,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "score_townhalls_lost",
+      "upload_with_match_results": true
+    },
+    "score_units_killed": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_units_killed",
+      "display_on_score_screen": true,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "score_units_killed",
+      "upload_with_match_results": true
+    },
+    "score_units_lost": {
+      "best_is_greatest": false,
+      "display_name": "pegasus_core|Score_display_name_score_units_lost",
+      "display_on_score_screen": true,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "score_units_lost",
+      "upload_with_match_results": true
+    },
+    "score_units_trained": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_units_trained",
+      "display_on_score_screen": true,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "score_units_trained",
+      "upload_with_match_results": true
+    },
+    "score_worker_count": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_worker_count",
+      "display_on_score_screen": false,
+      "gel_aggregate": true,
+      "gel_paths": [
+        "worker_count_changed/value"
+      ],
+      "gel_step_between_values": true,
+      "parent_scores": [],
+      "score_id": "",
+      "upload_with_match_results": false
+    },
+    "score_workers_killed": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_workers_killed",
+      "display_on_score_screen": true,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "score_workers_killed",
+      "upload_with_match_results": true
+    },
+    "score_workers_lost": {
+      "best_is_greatest": false,
+      "display_name": "pegasus_core|Score_display_name_score_workers_lost",
+      "display_on_score_screen": true,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "score_workers_lost",
+      "upload_with_match_results": true
+    },
+    "score_workers_trained": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_display_name_score_workers_trained",
+      "display_on_score_screen": true,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "score_workers_trained",
+      "upload_with_match_results": true
+    },
+    "score_xp": {
+      "best_is_greatest": true,
+      "display_name": "pegasus_core|Score_xp",
+      "display_on_score_screen": false,
+      "gel_aggregate": false,
+      "gel_paths": [],
+      "gel_step_between_values": false,
+      "parent_scores": [],
+      "score_id": "score_xp",
+      "upload_with_match_results": true
+    }
+  },
+  "SnowTag": {
+    "RadiationShielded": {
+      "display_name": "pegasus_campaign_vanguard|Buff_name_RadiationShielding_Buff",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": true,
+        "display_as_callout": false
+      }
+    },
+    "alignment_negative": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "alignment_neutral": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "alignment_positive": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "alliance": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "alliance_enemy": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "alliance_friendly": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "alliance_neutral": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "attribute": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "attribute_biological": {
+      "display_name": "pegasus_core|SnowTag_display_name_attribute_biological",
+      "display_name_noun_phrase": "pegasus_core|SnowTag_display_name_noun_phrase_attribute_biological",
+      "flags": {
+        "display_as_attribute": true,
+        "display_as_callout": false
+      }
+    },
+    "attribute_boss": {
+      "display_name": "pegasus_core|SnowTag_display_name_attribute_boss",
+      "display_name_noun_phrase": "pegasus_core|SnowTag_display_name_noun_phrase_attribute_boss",
+      "flags": {
+        "display_as_attribute": true,
+        "display_as_callout": false
+      }
+    },
+    "attribute_fortified": {
+      "display_name": "pegasus_core|SnowTag_display_name_attribute_fortified",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": true,
+        "display_as_callout": false
+      }
+    },
+    "attribute_heavy": {
+      "display_name": "pegasus_core|SnowTag_display_name_attribute_heavy",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": true,
+        "display_as_callout": false
+      }
+    },
+    "attribute_hero": {
+      "display_name": "pegasus_core|SnowTag_display_name_attribute_hero",
+      "display_name_noun_phrase": "pegasus_core|SnowTag_display_name_noun_phrase_attribute_hero",
+      "flags": {
+        "display_as_attribute": true,
+        "display_as_callout": false
+      }
+    },
+    "attribute_herorespawner": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "attribute_interceptor": {
+      "display_name": "pegasus_core|SnowTag_display_name_attribute_interceptor",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "attribute_item": {
+      "display_name": "pegasus_core|SnowTag_display_name_attribute_item",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": true,
+        "display_as_callout": false
+      }
+    },
+    "attribute_light": {
+      "display_name": "pegasus_core|SnowTag_display_name_attribute_light",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": true,
+        "display_as_callout": false
+      }
+    },
+    "attribute_mechanical": {
+      "display_name": "pegasus_core|SnowTag_display_name_attribute_mechanical",
+      "display_name_noun_phrase": "pegasus_core|SnowTag_display_name_noun_phrase_attribute_mechanical",
+      "flags": {
+        "display_as_attribute": true,
+        "display_as_callout": false
+      }
+    },
+    "attribute_medium": {
+      "display_name": "pegasus_core|SnowTag_display_name_attribute_medium",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": true,
+        "display_as_callout": false
+      }
+    },
+    "attribute_melee": {
+      "display_name": "pegasus_core|SnowTag_display_name_attribute_melee",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "attribute_object": {
+      "display_name": "pegasus_core|SnowTag_display_name_attribute_object",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "attribute_ranged": {
+      "display_name": "pegasus_core|SnowTag_display_name_attribute_ranged",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "attribute_resilient": {
+      "display_name": "pegasus_core|SnowTag_display_name_attribute_resilient",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": true,
+        "display_as_callout": false
+      }
+    },
+    "attribute_stormgate": {
+      "display_name": "pegasus_core|SnowTag_display_name_attribute_stormgate",
+      "display_name_noun_phrase": "pegasus_core|SnowTag_display_name_noun_phrase_attribute_stormgate",
+      "flags": {
+        "display_as_attribute": true,
+        "display_as_callout": false
+      }
+    },
+    "attribute_summoned": {
+      "display_name": "pegasus_core|SnowTag_display_name_attribute_summoned",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "attribute_topbar": {
+      "display_name": "pegasus_core|SnowTag_display_name_attribute_topbar",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "attribute_worker": {
+      "display_name": "pegasus_core|SnowTag_display_name_attribute_worker",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "autoharvester": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "capturable": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "cheat": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "cheat_cooldown": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "cheat_food": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "cheat_free": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "cheat_tech": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "damage_melee": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "damage_ranged": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "damage_spell": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "damage_splash": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "dead": {
+      "display_name": "pegasus_core|SnowTag_display_name_dead",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "defensive": {
+      "display_name": "pegasus_core|SnowTag_display_name_defensive",
+      "display_name_noun_phrase": "pegasus_core|SnowTag_display_name_noun_phrase_defensive",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "disabled": {
+      "display_name": "pegasus_core|SnowTag_display_name_disabled",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "dispel": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "dispel_systemshock": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "dispel_technological": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "dying": {
+      "display_name": "pegasus_core|SnowTag_display_name_dying",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_actor": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_camera_shake_source": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_creepcamp": {
+      "display_name": "pegasus_core|SnowTag_display_name_entity_creepcamp",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_destructible": {
+      "display_name": "pegasus_core|SnowTag_display_name_entity_destructible",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_destructible_generator": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_destructible_tree": {
+      "display_name": "pegasus_core|SnowTag_display_name_entity_destructible_tree",
+      "display_name_noun_phrase": "pegasus_core|SnowTag_display_name_noun_phrase_entity_destructible_tree",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_item": {
+      "display_name": "pegasus_core|SnowTag_display_name_entity_item",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_pet": {
+      "display_name": "pegasus_core|SnowTag_display_name_entity_pet",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_projectile": {
+      "display_name": "pegasus_core|SnowTag_display_name_entity_projectile",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_resource": {
+      "display_name": "pegasus_core|SnowTag_display_name_entity_resource",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_resource_a": {
+      "display_name": "pegasus_core|SnowTag_display_name_entity_resource_a",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_resource_b": {
+      "display_name": "pegasus_core|SnowTag_display_name_entity_resource_b",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_resource_generator": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_resource_generator_a": {
+      "display_name": "pegasus_core|SnowTag_display_name_entity_resource_generator_a",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_resource_generator_b": {
+      "display_name": "pegasus_core|SnowTag_display_name_entity_resource_generator_b",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_unit": {
+      "display_name": "pegasus_core|SnowTag_display_name_entity_unit",
+      "display_name_noun_phrase": "pegasus_core|SnowTag_display_name_noun_phrase_entity_unit",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_unit_creep": {
+      "display_name": "pegasus_core|SnowTag_display_name_entity_unit_creep",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_unit_critter": {
+      "display_name": "pegasus_core|SnowTag_display_name_entity_unit_critter",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "entity_unit_structure": {
+      "display_name": "pegasus_core|SnowTag_display_name_entity_unit_structure",
+      "display_name_noun_phrase": "pegasus_core|SnowTag_display_name_noun_phrase_entity_unit_structure",
+      "flags": {
+        "display_as_attribute": true,
+        "display_as_callout": false
+      }
+    },
+    "heightplane_air": {
+      "display": "Air",
+      "display_name": "pegasus_core|SnowTag_display_name_heightplane_air",
+      "display_name_noun_phrase": "pegasus_core|SnowTag_display_name_noun_phrase_heightplane_air",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "heightplane_ground": {
+      "display": "Ground",
+      "display_name": "pegasus_core|SnowTag_display_name_heightplane_ground",
+      "display_name_noun_phrase": "pegasus_core|SnowTag_display_name_noun_phrase_heightplane_ground",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "immunity_persistent": {
+      "display_name": "pegasus_core|SnowTag_display_name_immunity_persistent",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "item_container": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "mapobjective": {
+      "display_name": "pegasus_core|SnowTag_display_name_mapobjective",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "mapobjective_primary": {
+      "display_name": "pegasus_core|SnowTag_display_name_mapobjective_primary",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "mapobjective_secondary": {
+      "display_name": "pegasus_core|SnowTag_display_name_mapobjective_secondary",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "preventdefeat_elimination": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "state": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "state_morphing": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "state_objective": {
+      "display_name": "pegasus_core|SnowTag_display_name_state_objective",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "state_resourcedropoff": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "state_resourcedropoff_a": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "state_resourcedropoff_b": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "state_underconstruction": {
+      "display_name": "pegasus_core|SnowTag_display_name_state_underconstruction",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "state_underwarp": {
+      "display_name": "pegasus_core|SnowTag_display_name_state_underwarp",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_burning": {
+      "display_name": "pegasus_core|SnowTag_display_name_status_burning",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_defeated": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_dormant": {
+      "display_name": "pegasus_core|SnowTag_display_name_status_dormant",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": true,
+        "display_as_callout": false
+      }
+    },
+    "status_grounded": {
+      "display_name": "pegasus_core|SnowTag_display_name_status_grounded",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_healing": {
+      "display_name": "pegasus_core|SnowTag_display_name_status_healing",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_hidden": {
+      "display_name": "pegasus_core|SnowTag_display_name_status_hidden",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_holdfire": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_immobilized": {
+      "display_name": "pegasus_core|SnowTag_display_name_status_immobilized",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_interactable": {
+      "display_name": "pegasus_core|SnowTag_display_name_status_interactable",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_invulnerable": {
+      "display_name": "pegasus_core|SnowTag_display_name_status_invulnerable",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": true,
+        "display_as_callout": false
+      }
+    },
+    "status_launched": {
+      "display_name": "pegasus_core|SnowTag_display_name_status_launched",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_lifted": {
+      "display_name": "pegasus_core|SnowTag_display_name_status_lifted",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_pacified": {
+      "display_name": "pegasus_core|SnowTag_display_name_status_pacified",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_paused": {
+      "display_name": "pegasus_core|SnowTag_display_name_status_paused",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_silenced": {
+      "display_name": "pegasus_core|SnowTag_display_name_status_silenced",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_sleeping": {
+      "display_name": "pegasus_core|SnowTag_display_name_status_sleeping",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_sleeping_retreat": {
+      "display_name": "pegasus_core|SnowTag_display_name_status_sleeping_retreat",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_slowed": {
+      "display_name": "pegasus_core|SnowTag_display_name_status_slowed",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_stealthed": {
+      "display_name": "pegasus_core|SnowTag_display_name_status_stealthed",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_stealthening": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_stunned": {
+      "display_name": "pegasus_core|SnowTag_display_name_status_stunned",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_suppressed": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_timedlife": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_weapons_alternate": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "status_weapons_alternate2": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "supply": {
+      "display_name": "pegasus_core|SnowTag_display_name_supply",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "townhall": {
+      "display_name": "pegasus_core|SnowTag_display_name_townhall",
+      "display_name_noun_phrase": "pegasus_core|SnowTag_display_name_noun_phrase_townhall",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "visual_fogofwar_ignore": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "visual_health_bar_always": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "visual_health_bar_never": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "visual_minimap": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "visual_minimap_always": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "visual_minimap_never": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "visual_progress_bar_always": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "weapon": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    },
+    "worker_blink_once": {
+      "display_name": "",
+      "display_name_noun_phrase": "",
+      "flags": {
+        "display_as_attribute": false,
+        "display_as_callout": false
+      }
+    }
+  }
+}
