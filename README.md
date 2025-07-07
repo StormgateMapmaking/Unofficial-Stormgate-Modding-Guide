@@ -431,6 +431,92 @@ You can add custom terrain layers. While the established terrain layers work wel
   "value_tiling": 2.2
 }
 ```
+### Adding WorldPoints
+
+WorldPoints and Regions are typically used by triggers to do stuff at places. Presumably, the editor will have a World Point and Region tools to manage adding these, but at time of writing you'll have to add their archetypes and placement in the map separately — like customised units.
+
+- The archetype json file should go in `<your_map>\catalog\archetypes` folder.
+- The object should be added to the `preplaced_named_objects.json` file.
+
+#### Example "YourAreHere WorldPoint Archetype"
+
+```json
+{
+  "__base_type": "WorldPoint",
+  "based_on": "WorldPointRed",
+  "id": "_WorldPoint0",
+  "placed_name": "YouAreHere",
+  "unreal_actor": "BP_IGEPlaceables_WorldPointRed"
+}
+```
+
+#### Example "YouAreHere WorldPoint Preplaced Named Object"
+
+```json
+"A3CE777A-4072-67D4-49FC-6481F292554A": {
+    "facing": 0,
+    "kind": "_WorldPoint0",
+    "player": 0,
+    "position": [
+        907478,
+        -857775
+    ]
+}
+```
+
+### Adding Regions
+
+Just like WorldPoints, Regions are split into archetypes and objects placed in the map.
+
+#### Example "WelcomeHome Region Archetype"
+
+```json
+{
+  "__base_type": "RegionBase",
+  "based_on": "Region",
+  "color": {
+    "b": 0,
+    "g": 255,
+    "r": 0
+  },
+  "id": "_Region0",
+  "placed_name": "WelcomeHome",
+  "shapes": [
+    {
+      "circle": {
+        "radius": 40.0
+      },
+      "mode": "additive",
+      "rectangle": {
+        "height": 0.0,
+        "rotation": 0,
+        "width": 0.0
+      },
+      "translation": {
+        "x": 0,
+        "y": 0
+      },
+      "type": "circle"
+    }
+  ],
+  "starting_snowtags": [],
+  "unreal_actor": "BP_IGE_Placeables_Region"
+}
+```
+
+#### Example "WelcomeHome Region Preplaced Named Object"
+
+```json
+"A3CE777A-4072-67D4-49FC-6481F292554A": {
+  "facing": 527635746,
+  "kind": "_Region0",
+  "player": 0,
+  "position": [
+      -1194624,
+      1078784
+  ]
+}
+```
 
 ### Custom Resources
 
@@ -559,9 +645,8 @@ Every function comes with its own `script_id` and a set of arguments. You’ll f
 ```
 
 **GUIDs** (Globally Unique Identifiers) ensure objects don’t conflict.
-- An entry not assigned a GUID will have one assigned to it automatically.
-- But you can generate GUIDs using tools like https://www.uuidgenerator.net/guid.
-- Best practice is to just delete all GUID parameters; they are automatically assigned then
+- Best practice is to just delete all GUID parameters; an entry not assigned a GUID will have one assigned to it automatically.
+- But if you want/need one, you can generate a GUID using tools like https://www.uuidgenerator.net/guid.
 
 ## Stormgates
 
