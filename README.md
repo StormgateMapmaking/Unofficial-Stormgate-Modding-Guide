@@ -15,6 +15,8 @@
   - [Custom Ability](#custom-ability)
   - [Custom Terrain Tileset](#custom-terrain-tileset)
   - [Custom Terrain Layer](#custom-terrain-layer)
+  - [Adding WorldPoints](#adding-worldpoints)
+  - [Adding Regions](#adding-regions)
   - [Custom Resources](#custom-resources)
 - [Trigger Editing](#trigger-editing)
   - [How Triggers Work](#how-triggers-work)
@@ -103,170 +105,45 @@ Behold my completely original OC with its deep traumatic backstory and totally r
 
 If you want to add your own fully custom abilities, or maybe just make some adjustments to existing abilities, you can do that, as well.
 
+Note that in this example, because we're changing an array, we need to instance all the values for that array item.
+
 #### Example "AbyssalCharge on 2 second cooldown"
 
 ```json
-    "_AbyssalCrushingCharge0": {
-      "ability_splat": "emptyRef",
-      "action_state": "StagedAbility",
-      "alias_snowbot": "",
-      "alignment": "Neutral",
-      "arc": 0.0,
-      "arc_slop": 11.25,
-      "autocast": {
-        "autocast_filter": {
-          "alliance": {
-            "ally": false,
-            "enemy": true,
-            "neutral": false,
-            "player": false,
-            "self": false
-          },
-          "tags": {
-            "excluded": [
-              "entity_unit_structure",
-              "status_invulnerable",
-              "dead",
-              "status_sleeping"
-            ],
-            "required": [
-              "entity_unit"
-            ]
-          }
-        },
-        "autocasts": true,
-        "exclusive_targeting": false,
-        "initially_on": true,
-        "range": 12.0,
-        "required_scan_level": "Offensive",
-        "target_sorts": [
-          "TS_DistanceFurthest"
-        ],
-        "validator": "NoValidator"
+{
+  "commands": [
+    {
+      "charges": {
+        "max_count": 0,
+        "name": "default",
+        "recharge_duration": 0,
+        "starting_count": 0
       },
-      "based_on": "AbyssalCrushingCharge",
-      "cast_duration": 0.0,
-      "cast_ebfx": "",
-      "cast_ebfx_extra_lifespan": 0.0,
-      "cast_game_effect": "AbyssalCrushingCharge_InitSet",
-      "command_visualizer": "WaypointLine",
-      "commands": [
-        {
-          "charges": {
-            "max_count": 0,
-            "name": "default",
-            "recharge_duration": 0,
-            "starting_count": 0
-          },
-          "cooldown": {
-            "duration": 2.0,
-            "name": "_AbyssalCrushingCharge0",
-            "scope": "Ability"
-          },
-          "cost_power": 0.0,
-          "cost_resources": {
-            "resource_a": 0.0,
-            "resource_b": 0.0,
-            "resource_c": 0.0,
-            "resource_d": 0.0
-          },
-          "cost_vitals": {
-            "energy": 0.0,
-            "health": 0.0
-          },
-          "cost_vitals_percentage": {
-            "energy": 0.0,
-            "health": 0.0
-          },
-          "requirement": "NoRequirement"
-        }
-      ],
-      "display_effect_area": "emptyRef",
-      "finish_duration": 0.0,
-      "flags": {
-        "best_unit": true,
-        "cast_on_spawner": false,
-        "cast_while_concealed": false,
-        "channeled": false,
-        "channeling_breaks_on_facing": true,
-        "channeling_breaks_on_range": true,
-        "channeling_breaks_on_vision": true,
-        "channeling_resists_push": true,
-        "count_as_attack": true,
-        "harvest_on_game_start": false,
-        "homogenous_interruption": false,
-        "increment_worker_count": false,
-        "preempt": false,
-        "prevent_activation": false,
-        "progress_countdown": false,
-        "reactive": false,
-        "reapproach": false,
-        "requires_vision": false,
-        "show_progress": false,
-        "silenceable": true,
-        "uninterruptible_stages": {
-          "approach": false,
-          "cast": false,
-          "channel": false,
-          "finish": false,
-          "prepare": false
-        }
+      "cooldown": {
+        "duration": 2.0,
+        "name": "_AbyssalCrushingCharge0",
+        "scope": "Ability"
       },
-      "id": "_AbyssalCrushingCharge0",
-      "no_target_error_string": "",
-      "prepare_duration": 0.0,
-      "range_indicator": "SimplePips",
-      "range_maximum": 12.0,
-      "range_minimum": 3.0,
-      "range_slop": 1.0,
-      "range_to_visualize": "range_maximum",
-      "smart": {
-        "priority": 0,
-        "smart_filter": {
-          "alliance": {
-            "ally": true,
-            "enemy": true,
-            "neutral": true,
-            "player": true,
-            "self": true
-          },
-          "tags": {
-            "excluded": [],
-            "required": []
-          }
-        }
+      "cost_power": 0.0,
+      "cost_resources": {
+        "resource_a": 0.0,
+        "resource_b": 0.0,
+        "resource_c": 0.0,
+        "resource_d": 0.0
       },
-      "stage_buffs": {
-        "approach": "emptyRef",
-        "cast": "emptyRef",
-        "channel": "emptyRef",
-        "finish": "emptyRef",
-        "prepare": "emptyRef"
+      "cost_vitals": {
+        "energy": 0.0,
+        "health": 0.0
       },
-      "stage_sounds": [],
-      "target_actor": "BlueprintGeneratedClass'/Game/Pegasus/Blueprints/Targeting/BP_BaseTargetActor.BP_BaseTargetActor_C'",
-      "target_filter": {
-        "alliance": {
-          "ally": true,
-          "enemy": true,
-          "neutral": true,
-          "player": true,
-          "self": true
-        },
-        "tags": {
-          "excluded": [],
-          "required": []
-        }
+      "cost_vitals_percentage": {
+        "energy": 0.0,
+        "health": 0.0
       },
-      "target_sort_best_unit": "emptyRef",
-      "targeting_participation_alias": [],
-      "targeting_participation_range": 0.0,
-      "targeting_type": "Unit",
-      "tooltip": "",
-      "transient": false,
-      "turret": "emptyRef",
-      "unreal_component": "BlueprintGeneratedClass'/Game/Pegasus/Blueprints/EntityComponents/AbilityComponents/AC_Ability_Channel_Work.AC_Ability_Channel_Work_C'"
+      "requirement": "NoRequirement"
     }
+  ],
+  "id": "_AbyssalCrushingCharge0",
+}
 ```
 
 ### Custom Terrain Tileset
