@@ -1,0 +1,39 @@
+{
+  "1D5651C4-4AA7-1D41-CF47-76BBB7B67F26": {
+    "facing": 0,
+    "kind": "_WorldPoint0",
+    "player": 0,
+    "position": [
+      -262144,
+      262144
+    ]
+  },
+  "48873AED-4903-3073-4047-028056214BED": {
+    "facing": 0,
+    "kind": "_WorldPoint1",
+    "player": 0,
+    "position": [
+      262144,
+      262144
+    ]
+  },
+  "64F0475C-4949-762D-46CF-D398D38CFF36": {
+    "facing": 0,
+    "kind": "_Region0",
+    "player": 0,
+    "position": [
+      -262144,
+      0
+    ]
+  },
+  "DECB6094-4B9E-12E4-7505-DFA610A045C3": {
+    "facing": 0,
+    "kind": "_Region1",
+    "player": 0,
+    "position": [
+      262144,
+      0
+    ]
+  },
+  "version": 1
+}

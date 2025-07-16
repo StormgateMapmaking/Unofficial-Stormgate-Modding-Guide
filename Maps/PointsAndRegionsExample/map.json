@@ -1,0 +1,16 @@
+{
+  "data_format_version": 0,
+  "description": "",
+  "dimensions": [
+    128,
+    128
+  ],
+  "game_mode": "Melee",
+  "gameplay_level_name": "BasicStartingLevel",
+  "id": "dbf79a3a-4288-64eb-b69b-9089d2d4d869",
+  "map_name": "Unititled Map",
+  "map_tags": [],
+  "tile_set_id": "TerrainTileset_ForestAutumn",
+  "version": "1.0.0",
+  "visibility": "Hidden"
+}

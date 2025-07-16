@@ -1,0 +1,31 @@
+﻿{
+  "__base_type": "GlobalVariable",
+  "array_size": 0,
+  "based_on": "GlobalVariable",
+  "id": "gvPointTest",
+  "initial_values": [
+    {
+      "type": "Value",
+      "value": {
+        "type": {
+          "directive": "FunctionType",
+          "type": "Vector"
+        },
+        "value": "X=-5.000 Y=10.000"
+      }
+    }
+  ],
+  "is_array": false,
+  "is_constant": false,
+  "name": "",
+  "per_element_initial_values": false,
+  "type": {
+    "directive": "FunctionType",
+    "implements": "",
+    "inner_type": "",
+    "param_id": "",
+    "sub_directive": "None",
+    "tags": [],
+    "type": "Vector"
+  }
+}

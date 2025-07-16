@@ -1,0 +1,216 @@
+﻿{
+  "actions": [
+    {
+      "function_id": "Unit_CreateUnit",
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "type": "Value",
+              "value": {
+                "type": {
+                  "directive": "FunctionType",
+                  "type": "Integer"
+                },
+                "value": "1"
+              }
+            }
+          ],
+          "id": "count"
+        },
+        {
+          "expressions": [
+            {
+              "type": "Value",
+              "value": {
+                "type": {
+                  "directive": "TypeRef",
+                  "type": "UnitData"
+                },
+                "value": "Lancer"
+              }
+            }
+          ],
+          "id": "unit_data"
+        },
+        {
+          "expressions": [
+            {
+              "type": "Value",
+              "value": {
+                "type": {
+                  "directive": "FunctionType",
+                  "type": "Player"
+                },
+                "value": "1"
+              }
+            }
+          ],
+          "id": "player"
+        },
+        {
+          "expressions": [
+            {
+              "type": "Variable",
+              "variable": {
+                "variable_id": "gvPointRight"
+              }
+            }
+          ],
+          "id": "position"
+        }
+      ]
+    },
+    {
+      "function_id": "UnitGroup_IssueOrderTargetingPos",
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "UnitGroup_GetLastCreatedUnits",
+                "is_enabled": true,
+                "parameters": [],
+                "sub_functions": []
+              },
+              "type": "Function"
+            }
+          ],
+          "id": "unit_group"
+        },
+        {
+          "expressions": [
+                        {
+              "type": "Variable",
+              "variable": {
+                "variable_id": "gvPointLeft"
+              }
+            }
+          ],
+          "id": "target_pos"
+      },
+      {
+        "expressions": [
+          {
+            "type": "Value",
+            "value": {
+              "guid": "",
+              "type": {
+                "directive": "TypeRef",
+                "implements": "ability_data",
+                "inner_type": "",
+                "param_id": "",
+                "sub_directive": "None",
+                "tags": [],
+                "type": ""
+              },
+              "value": "attackData"
+            }
+          }
+        ],
+        "id": "order"
+      }
+    ]
+  },
+    {
+      "function_id": "UI_SendChatMessage",
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "Text_ToText",
+                "parameters": [
+                  {
+                    "expressions": [
+                      {
+                        "type": "Value",
+                        "value": {
+                          "type": {
+                            "directive": "FunctionType",
+                            "tags": [
+                              "to_text"
+                            ],
+                            "type": "String"
+                          },
+                          "value": "Entered Right Region! And created 1 unit at point right and issued command"
+                        }
+                      }
+                    ],
+                    "id": "value"
+                  }
+                ]
+              },
+              "type": "Function"
+            }
+          ],
+          "id": "message"
+        },
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "PlayerGroup_GetAllPlayers"
+              },
+              "type": "Function"
+            }
+          ],
+          "id": "group"
+        }
+      ]
+    }
+  ],
+  "based_on": "Trigger",
+  "conditions": [],
+  "dev_only": false,
+  "enabled": true,
+  "events": [
+    {
+      "function_id": "Unit_OnUnitEntersExitsRegion",
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "preset": {
+                "preset_id": "Region_EntersExits",
+                "value_id": "enters"
+              },
+              "type": "Preset"
+            }
+          ],
+          "id": "state"
+        },
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "Region_GetRegionFromPlacedName",
+                "parameters": [
+                  {
+                    "expressions": [
+                      {
+                        "type": "Value",
+                        "value": {
+                          "type": {
+                            "directive": "FunctionType",
+                            "type": "String"
+                          },
+                          "value": "RegionRight"
+                        }
+                      }
+                    ],
+                    "id": "name"
+                  }
+                ]
+              },
+              "type": "Function"
+            }
+          ],
+          "id": "region"
+        }
+      ]
+    }
+  ],
+  "id": "RegionRightInteraction",
+  "variables": []
+}

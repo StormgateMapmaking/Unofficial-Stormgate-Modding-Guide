@@ -1,0 +1,104 @@
+﻿{
+  "actions": [
+    {
+      "function_id": "UI_SendChatMessage",
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "Text_ToText",
+                "parameters": [
+                  {
+                    "expressions": [
+                      {
+                        "type": "Value",
+                        "value": {
+                          "type": {
+                            "directive": "FunctionType",
+                            "tags": [
+                              "to_text"
+                            ],
+                            "type": "String"
+                          },
+                          "value": "Entered Left Region!"
+                        }
+                      }
+                    ],
+                    "id": "value"
+                  }
+                ]
+              },
+              "type": "Function"
+            }
+          ],
+          "id": "message"
+        },
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "PlayerGroup_GetAllPlayers"
+              },
+              "type": "Function"
+            }
+          ],
+          "id": "group"
+        }
+      ]
+    }
+  ],
+  "based_on": "Trigger",
+  "conditions": [],
+  "dev_only": false,
+  "enabled": true,
+  "events": [
+    {
+      "function_id": "Unit_OnUnitEntersExitsRegion",
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "preset": {
+                "preset_id": "Region_EntersExits",
+                "value_id": "enters"
+              },
+              "type": "Preset"
+            }
+          ],
+          "id": "state"
+        },
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "Region_GetRegionFromPlacedName",
+                "parameters": [
+                  {
+                    "expressions": [
+                      {
+                        "type": "Value",
+                        "value": {
+                          "type": {
+                            "directive": "FunctionType",
+                            "type": "String"
+                          },
+                          "value": "RegionLeft"
+                        }
+                      }
+                    ],
+                    "id": "name"
+                  }
+                ]
+              },
+              "type": "Function"
+            }
+          ],
+          "id": "region"
+        }
+      ]
+    }
+  ],
+  "id": "RegionLeftInteraction",
+  "variables": []
+}

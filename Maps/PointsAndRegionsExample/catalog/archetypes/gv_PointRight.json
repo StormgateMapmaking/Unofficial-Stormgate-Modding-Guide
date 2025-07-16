@@ -1,0 +1,57 @@
+﻿{
+  "__base_type": "GlobalVariable",
+  "array_size": 0,
+  "based_on": "GlobalVariable",
+  "id": "gvPointRight",
+  "initial_values": [
+    {
+      "function": {
+        "function_id": "Actor_GetPosition",
+        "parameters": [
+          {
+            "expressions": [
+              {
+                "function": {
+                  "function_id": "Point_GetPointFromPlacedName",
+                  "parameters": [
+                    {
+                      "expressions": [
+                        {
+                          "type": "Value",
+                          "value": {
+                            "type": {
+                              "directive": "FunctionType",
+                              "type": "String"
+                            },
+                            "value": "PointRight"
+                          }
+                        }
+                      ],
+                      "id": "name"
+                    }
+                  ]
+                },
+                "type": "Function"
+              }
+            ],
+            "id": "actor"
+          }
+        ]
+      },
+      "type": "Function"
+    }
+  ],
+  "is_array": false,
+  "is_constant": false,
+  "name": "",
+  "per_element_initial_values": false,
+  "type": {
+    "directive": "FunctionType",
+    "implements": "",
+    "inner_type": "",
+    "param_id": "",
+    "sub_directive": "None",
+    "tags": [],
+    "type": "Vector"
+  }
+}

@@ -1,0 +1,70 @@
+﻿{
+  "map": {
+    "_Region0": {
+      "based_on": "Region",
+      "color": {
+        "b": 122,
+        "g": 255,
+        "r": 0
+      },
+      "id": "_Region0",
+      "placed_name": "RegionLeft",
+      "shapes": [
+        {
+          "circle": {
+            "radius": 0.0
+          },
+          "mode": "additive",
+          "rectangle": {
+            "height": 2.0,
+            "rotation": 0,
+            "width": 2.0
+          },
+          "translation": {
+            "x": 0,
+            "y": 0
+          },
+          "type": "rectangle"
+        }
+      ]
+    },
+    "_Region1": {
+      "based_on": "Region",
+      "color": {
+        "b": 122,
+        "g": 255,
+        "r": 0
+      },
+      "id": "_Region1",
+      "placed_name": "RegionRight",
+      "shapes": [
+        {
+          "circle": {
+            "radius": 0.0
+          },
+          "mode": "additive",
+          "rectangle": {
+            "height": 2.0,
+            "rotation": 0,
+            "width": 2.0
+          },
+          "translation": {
+            "x": 0,
+            "y": 0
+          },
+          "type": "rectangle"
+        }
+      ]
+    },
+    "_WorldPoint0": {
+      "based_on": "WorldPointRed",
+      "id": "_WorldPoint0",
+      "placed_name": "PointLeft"
+    },
+    "_WorldPoint1": {
+      "based_on": "WorldPointRed",
+      "id": "_WorldPoint1",
+      "placed_name": "PointRight"
+    }
+  }
+}
