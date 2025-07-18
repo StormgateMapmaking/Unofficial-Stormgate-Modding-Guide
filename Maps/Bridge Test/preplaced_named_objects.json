@@ -1,0 +1,75 @@
+{
+  "0C107726-47E1-4BEE-1E74-75B3C0314BD6": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      163840,
+      -163840
+    ]
+  },
+  "17084CCA-4C96-7BE7-B671-2B8A06393D4F": {
+    "facing": 1893589447,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 2,
+    "position": [
+      -163840,
+      -163840
+    ]
+  },
+  "23801899-48B8-8A22-5B75-218D40618D64": {
+    "facing": 940339173,
+    "kind": "locationMarkerPlayerStart",
+    "player": 1,
+    "position": [
+      0,
+      -163840
+    ]
+  },
+  "24041D9C-4ADD-6D67-0713-EF848751486E": {
+    "facing": 1216581913,
+    "kind": "Empath",
+    "player": 1,
+    "position": [
+      76465,
+      -97010
+    ]
+  },
+  "489B8926-4DCF-020A-7F59-6E94D3A0BF4E": {
+    "facing": 1057848802,
+    "kind": "Empath",
+    "player": 1,
+    "position": [
+      -78445,
+      -96584
+    ]
+  },
+  "61D7D2A9-4825-7F7F-C1C2-9BB725392296": {
+    "facing": 1504162641,
+    "kind": "locationMarkerPlayerStart",
+    "player": 2,
+    "position": [
+      0,
+      163840
+    ]
+  },
+  "C2FD9862-4B36-AA04-0FE4-5A81DADCE27C": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      163840,
+      163840
+    ]
+  },
+  "EA3757ED-48BD-E439-7DD8-72A37618BB4E": {
+    "facing": 1182567706,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 2,
+    "position": [
+      -163840,
+      163840
+    ]
+  },
+  "version": 1
+}

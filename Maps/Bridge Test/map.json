@@ -1,0 +1,16 @@
+{
+  "data_format_version": 0,
+  "description": "",
+  "dimensions": [
+    32,
+    32
+  ],
+  "game_mode": "Melee",
+  "gameplay_level_name": "BasicStartingLevel",
+  "id": "59bac70f-4102-e1c1-7a42-709c0f366128",
+  "map_name": "Unititled Map",
+  "map_tags": [],
+  "tile_set_id": "TerrainTileset_Mayhem",
+  "version": "1.0.0",
+  "visibility": "Hidden"
+}
