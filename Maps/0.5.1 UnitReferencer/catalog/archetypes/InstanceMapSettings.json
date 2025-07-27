@@ -1,0 +1,44 @@
+﻿{
+  "based_on": "DefaultMapSettings",
+  "camera_bounds": {
+    "bottom_offset": 0.0,
+    "left_offset": 0.0,
+    "right_offset": 0.0,
+    "top_offset": 0.0
+  },
+  "description": "Just another Stormgate map",
+  "id": "InstanceMapSettings",
+  "playable_bounds": {
+    "bottom_offset": 0,
+    "left_offset": 0,
+    "right_offset": 0,
+    "top_offset": 0
+  },
+  "player_slots": [
+    {
+      "attribute_instance_map_settings": {
+        "slot_type": {
+          "locked": true,
+          "value": "human"
+        },
+        "team": {
+          "locked": false,
+          "value": 0
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "slot_type": {
+          "locked": false,
+          "value": "ai"
+        },
+        "team": {
+          "locked": false,
+          "value": 1
+        }
+      }
+    }
+  ],
+  "title": "Untitled Map"
+}

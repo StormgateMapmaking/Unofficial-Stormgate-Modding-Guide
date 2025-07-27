@@ -1,0 +1,5079 @@
+{
+  "0121BF9C-48D7-B1A3-8402-3D94B186A7E6": {
+    "facing": 1157991290,
+    "kind": "AILab",
+    "player": 1,
+    "position": [
+      175718,
+      1479912
+    ]
+  },
+  "0152DA8C-40B6-FDC7-4FA6-CC856DA1EDBF": {
+    "facing": 1157991290,
+    "kind": "Aberrant",
+    "player": 1,
+    "position": [
+      1752650,
+      1609313
+    ]
+  },
+  "016B61A4-4337-A048-7700-07BFAC852E61": {
+    "facing": 1157991506,
+    "kind": "AberrantCreep",
+    "player": 1,
+    "position": [
+      -287697,
+      -1276582
+    ]
+  },
+  "01FCC435-4302-868E-BACD-A680ADEFFF3B": {
+    "facing": 1157991344,
+    "kind": "AberrantZombie",
+    "player": 1,
+    "position": [
+      1369162,
+      43746
+    ]
+  },
+  "02EF3554-410E-6C5B-632D-90B7E6F2A693": {
+    "facing": 1157991344,
+    "kind": "Aberrant_3v3_Creep",
+    "player": 1,
+    "position": [
+      1627434,
+      1221867
+    ]
+  },
+  "032360F4-4A25-D8F8-9CA2-58BCCF168A80": {
+    "facing": 1157991236,
+    "kind": "AbyssalGateBase",
+    "player": 1,
+    "position": [
+      -344064,
+      -884736
+    ]
+  },
+  "035D6918-4C9B-D097-D1D8-059EAADBC384": {
+    "facing": 1157991290,
+    "kind": "AbyssalMagmadon",
+    "player": 1,
+    "position": [
+      1103063,
+      1218814
+    ]
+  },
+  "03616776-4BE2-061E-A611-70B15127C13C": {
+    "facing": 1157991371,
+    "kind": "AbyssalWeaver",
+    "player": 1,
+    "position": [
+      244329,
+      -1347198
+    ]
+  },
+  "03A99AC7-4F3A-139A-3087-3BA582046558": {
+    "facing": 1157991236,
+    "kind": "AmaraMirrorImage",
+    "player": 1,
+    "position": [
+      -1144306,
+      1609997
+    ]
+  },
+  "0413145F-45CB-4C82-8551-04B18473132F": {
+    "facing": 1157991506,
+    "kind": "AmaraThronos",
+    "player": 1,
+    "position": [
+      -740610,
+      -579061
+    ]
+  },
+  "046721E3-431F-8D1A-DE10-55BFB6BEDE79": {
+    "facing": 1915541732,
+    "kind": "AncientCrab",
+    "player": 1,
+    "position": [
+      -1869171,
+      -1212199
+    ]
+  },
+  "04837644-4D36-A5F7-E721-05AC71CF158F": {
+    "facing": 1157991290,
+    "kind": "Animancer",
+    "player": 1,
+    "position": [
+      1677758,
+      -1282146
+    ]
+  },
+  "04AF6ADF-4F77-F6BF-5EC3-AABBD4AF0FBA": {
+    "facing": 1157991479,
+    "kind": "AnimancerMatrix",
+    "player": 1,
+    "position": [
+      1081344,
+      -880282
+    ]
+  },
+  "04F21029-45C5-233E-F7C3-EAB94DF50202": {
+    "facing": 1668462244,
+    "kind": "AntiAirReward",
+    "player": 1,
+    "position": [
+      -1673227,
+      -1078936
+    ]
+  },
+  "0614AA1B-4B9F-BC4B-1BFC-CBA90BA89CEA": {
+    "facing": 1157991344,
+    "kind": "Archangel",
+    "player": 1,
+    "position": [
+      1807260,
+      -1475038
+    ]
+  },
+  "06799B04-4071-54EB-AE40-26B8943808E3": {
+    "facing": 1157991425,
+    "kind": "ArchangelFlying",
+    "player": 1,
+    "position": [
+      1860364,
+      -1473359
+    ]
+  },
+  "072423C2-47AF-8F37-2115-DB8C42D40B52": {
+    "facing": 1157991344,
+    "kind": "ArchangelGate",
+    "player": 1,
+    "position": [
+      1547174,
+      -876534
+    ]
+  },
+  "072682F0-4ED4-AFA6-1690-A3A87B90A656": {
+    "facing": 1157991452,
+    "kind": "ArcshipTier1",
+    "player": 1,
+    "position": [
+      1097728,
+      -557056
+    ]
+  },
+  "07372325-4772-C6E1-9694-2E8D29F3AD6F": {
+    "facing": 1157991560,
+    "kind": "ArcshipTier1Flying",
+    "player": 1,
+    "position": [
+      1087069,
+      -492786
+    ]
+  },
+  "07E6A568-41C7-6832-E31D-42A5624FDCE6": {
+    "facing": 1157991560,
+    "kind": "ArcshipTier2",
+    "player": 1,
+    "position": [
+      1284397,
+      -559699
+    ]
+  },
+  "08F42A2D-4333-D8BF-3B6C-359CF2B3D3E8": {
+    "facing": 1157991344,
+    "kind": "ArcshipTier2Flying",
+    "player": 1,
+    "position": [
+      1284959,
+      -504183
+    ]
+  },
+  "09943B5B-44F8-B750-6AAF-C28F354407A9": {
+    "facing": 1157991560,
+    "kind": "ArcshipTier3",
+    "player": 1,
+    "position": [
+      1474560,
+      -557056
+    ]
+  },
+  "0A08E5CF-4A1F-F403-517E-79BA0E351A8E": {
+    "facing": 1157991479,
+    "kind": "ArcshipTier3Flying",
+    "player": 1,
+    "position": [
+      1478468,
+      -495062
+    ]
+  },
+  "0AD8CB28-4254-110B-23E3-E29E85C34298": {
+    "facing": 1157991344,
+    "kind": "Argent",
+    "player": 1,
+    "position": [
+      1345714,
+      -1215957
+    ]
+  },
+  "0BF9E65D-4B06-8D78-CDC4-F291EFB9E6A8": {
+    "facing": 1157991506,
+    "kind": "ArgentChamber",
+    "player": 1,
+    "position": [
+      1081344,
+      -814746
+    ]
+  },
+  "0C03A467-4F59-FC45-9978-0189F888629B": {
+    "facing": 1157991506,
+    "kind": "ArgentGuardian",
+    "player": 1,
+    "position": [
+      1345731,
+      -1349549
+    ]
+  },
+  "0C332783-4FF7-140D-B542-A292EDEFBECB": {
+    "facing": 1157991479,
+    "kind": "ArkhosArcshipTier1",
+    "player": 1,
+    "position": [
+      1216423,
+      -561300
+    ]
+  },
+  "0C3BBCAE-438E-3DBE-4805-D283DCB7EBA8": {
+    "facing": 1157991533,
+    "kind": "ArkhosArcshipTier1Flying",
+    "player": 1,
+    "position": [
+      1219359,
+      -496587
+    ]
+  },
+  "0C55BE3E-48C2-3588-09F8-50952019C315": {
+    "facing": 1157991479,
+    "kind": "ArkhosArcshipTier2Flying",
+    "player": 1,
+    "position": [
+      1417500,
+      -489172
+    ]
+  },
+  "0D76EB5A-4CAB-5B83-5CDF-DA8533FEA09C": {
+    "facing": 1157991479,
+    "kind": "ArkhosArcshipTier3Flying",
+    "player": 1,
+    "position": [
+      1607906,
+      -495091
+    ]
+  },
+  "0D88FF78-43AE-92E2-EDDB-94B5AE40D64C": {
+    "facing": 1157991398,
+    "kind": "ArtilleryMech",
+    "player": 1,
+    "position": [
+      -1458352,
+      -495012
+    ]
+  },
+  "0E1B9026-4D8B-717C-4B29-96A9A0A9974B": {
+    "facing": 1157991452,
+    "kind": "ArtilleryMechDeployed",
+    "player": 1,
+    "position": [
+      -1463397,
+      -442368
+    ]
+  },
+  "0E214D38-4D2B-A3A5-E219-4F9BA47CBDCD": {
+    "facing": 1157991425,
+    "kind": "AscensionChamber",
+    "player": 1,
+    "position": [
+      1402174,
+      -880587
+    ]
+  },
+  "0E51F229-4766-91F5-B360-0BB38E74F7F4": {
+    "facing": 1157991182,
+    "kind": "AssemblyPlant",
+    "player": 1,
+    "position": [
+      -352275,
+      1999674
+    ]
+  },
+  "0ECA6CD5-4F9C-3393-8522-0AB205633198": {
+    "facing": 1157991236,
+    "kind": "AstralMonolith",
+    "player": 1,
+    "position": [
+      710537,
+      566319
+    ]
+  },
+  "0EDBC092-477D-A327-CC7F-E4A3F77575E9": {
+    "facing": 1157991290,
+    "kind": "AtlasAndEvacBay",
+    "player": 1,
+    "position": [
+      839368,
+      1221034
+    ]
+  },
+  "0F0B3FD3-4AEC-6E5D-61FA-B78BA4856E9C": {
+    "facing": 1157991344,
+    "kind": "AtlasBay",
+    "player": 1,
+    "position": [
+      -739642,
+      -86755
+    ]
+  },
+  "1015DC65-4A8B-6557-B8B6-AD915CBEF17E": {
+    "facing": 1157991236,
+    "kind": "AttackWaveLeaderArtillery",
+    "player": 1,
+    "position": [
+      -1528640,
+      954246
+    ]
+  },
+  "1055666C-4051-E958-E984-24BD379803A8": {
+    "facing": 1157991290,
+    "kind": "AttackWaveLeaderBase",
+    "player": 1,
+    "position": [
+      1488956,
+      1611532
+    ]
+  },
+  "10F62DFE-4582-A2FE-22E1-8AA127271CE4": {
+    "facing": 1157991452,
+    "kind": "AttackWaveLeaderHaste",
+    "player": 1,
+    "position": [
+      -92411,
+      -787346
+    ]
+  },
+  "111D3EB3-4404-F35C-EFC0-798006C29E4E": {
+    "facing": 1157991344,
+    "kind": "AttackWaveLeaderHealer",
+    "player": 1,
+    "position": [
+      -827994,
+      -1273880
+    ]
+  },
+  "11F6F781-48A1-FD02-9F45-BF8F575A4E7A": {
+    "facing": 1157991371,
+    "kind": "AttackWaveLeaderImps",
+    "player": 1,
+    "position": [
+      -628349,
+      -1064517
+    ]
+  },
+  "12AF5C9C-4D35-7550-13F1-3E86C4B84372": {
+    "facing": 1157991290,
+    "kind": "AttackWaveLeaderKnockback",
+    "player": 1,
+    "position": [
+      -634524,
+      -1273944
+    ]
+  },
+  "137E482A-4E21-D233-8C05-D38BE8CE95F4": {
+    "facing": 1157991344,
+    "kind": "Auralanna",
+    "player": 1,
+    "position": [
+      -970713,
+      -589509
+    ]
+  },
+  "13AE7D6F-422B-39D3-0185-2299D85C5D7A": {
+    "facing": 1157991344,
+    "kind": "AuralannaSaber",
+    "player": 1,
+    "position": [
+      1611702,
+      -1474480
+    ]
+  },
+  "14FC075B-4B1C-99F5-FEE9-9180CA0915D3": {
+    "facing": 1157991182,
+    "kind": "AuralannaTopBarCaster",
+    "player": 1,
+    "position": [
+      706616,
+      1607836
+    ]
+  },
+  "153BD74E-436E-3863-0776-35B58F115B2D": {
+    "facing": 1157991371,
+    "kind": "AvatarRelic",
+    "player": 1,
+    "position": [
+      -1539242,
+      -954327
+    ]
+  },
+  "158EDB9D-477C-F779-822F-1EA1FEDBDB96": {
+    "facing": 1157991344,
+    "kind": "Barracks",
+    "player": 1,
+    "position": [
+      565507,
+      302038
+    ]
+  },
+  "16F2D2A1-49A6-82F2-F4FF-3FA2FE221636": {
+    "facing": 1157991344,
+    "kind": "BarrowFarm",
+    "player": 1,
+    "position": [
+      161104,
+      -629161
+    ]
+  },
+  "16FBA01A-4D6F-0E6E-DA9E-459251CEE2F3": {
+    "facing": 1157991236,
+    "kind": "BaseDefenseTower",
+    "player": 1,
+    "position": [
+      834086,
+      1872087
+    ]
+  },
+  "16FDFF8A-41A1-B357-0EAB-DB86CA26C985": {
+    "facing": 1157991290,
+    "kind": "BaseUnit",
+    "player": 1,
+    "position": [
+      171562,
+      1352747
+    ]
+  },
+  "17A32A16-49EF-A242-CD5D-1FAAFD265DE4": {
+    "facing": 1157991236,
+    "kind": "BaseUnit_CapturableStructure",
+    "player": 1,
+    "position": [
+      -754438,
+      1608243
+    ]
+  },
+  "17B2B700-4478-F540-3189-42AC535051D7": {
+    "facing": 1157991236,
+    "kind": "BaseUnit_Celestial",
+    "player": 1,
+    "position": [
+      717456,
+      828354
+    ]
+  },
+  "17E69A1A-443D-A9EF-26D1-FFA08CD329F8": {
+    "facing": 1157991128,
+    "kind": "BaseUnit_CelestialHero",
+    "player": 1,
+    "position": [
+      -1277216,
+      2004238
+    ]
+  },
+  "17F32DD9-4EB1-0CC1-57CA-F4B500F0D49D": {
+    "facing": 1157991290,
+    "kind": "BaseUnit_CelestialS",
+    "player": 1,
+    "position": [
+      1370768,
+      830833
+    ]
+  },
+  "181082BB-42D2-81A8-5360-61A728560C6D": {
+    "facing": 1157991236,
+    "kind": "BaseUnit_CelestialU",
+    "player": 1,
+    "position": [
+      -94837,
+      1867142
+    ]
+  },
+  "18E6D5CE-4BA4-4E0B-740F-15A8B1EA956E": {
+    "facing": 1157991344,
+    "kind": "BaseUnit_Creep",
+    "player": 1,
+    "position": [
+      315951,
+      173716
+    ]
+  },
+  "1920AB07-4120-BF9A-9696-C094B1D4F644": {
+    "facing": 1157991290,
+    "kind": "BaseUnit_Critter",
+    "player": 1,
+    "position": [
+      846484,
+      829571
+    ]
+  },
+  "19471ACC-4EB7-7036-5A55-2FA185CB7F95": {
+    "facing": 1157991344,
+    "kind": "BaseUnit_Infernal",
+    "player": 1,
+    "position": [
+      985191,
+      -87592
+    ]
+  },
+  "1A582E44-47E3-B51A-23A4-BA82A10CF891": {
+    "facing": 1157991344,
+    "kind": "BaseUnit_InfernalHero",
+    "player": 1,
+    "position": [
+      -994756,
+      -86647
+    ]
+  },
+  "1AB83381-48B2-1906-FB13-89B91C65F2A3": {
+    "facing": 1157991344,
+    "kind": "BaseUnit_InfernalS",
+    "player": 1,
+    "position": [
+      1757240,
+      433620
+    ]
+  },
+  "1AEFD3CB-4F97-708F-349D-53A0915A6CB5": {
+    "facing": 1157991452,
+    "kind": "BaseUnit_InfernalU",
+    "player": 1,
+    "position": [
+      446693,
+      -351139
+    ]
+  },
+  "1B3A2FDD-4F80-9A45-FB57-528A7B79930E": {
+    "facing": 1157991452,
+    "kind": "BaseUnit_NeutralStructure",
+    "player": 1,
+    "position": [
+      182999,
+      -348920
+    ]
+  },
+  "1CA14126-4A79-7009-7C56-1C869579EFB7": {
+    "facing": 1157991398,
+    "kind": "BaseUnit_Pet",
+    "player": 1,
+    "position": [
+      179394,
+      41773
+    ]
+  },
+  "1CD8FECA-4499-75FA-F6F6-0EA8091FC827": {
+    "facing": 1157991290,
+    "kind": "BaseUnit_StormgateAbilityHolder",
+    "player": 1,
+    "position": [
+      1758208,
+      1480883
+    ]
+  },
+  "1D1A0D10-45F5-3B15-602A-6E8627E00582": {
+    "facing": 1157991344,
+    "kind": "BaseUnit_TopBarCaster",
+    "player": 1,
+    "position": [
+      99366,
+      951494
+    ]
+  },
+  "1D4361EE-4C5C-A675-A47B-6DB2D2C54812": {
+    "facing": 1157991290,
+    "kind": "BaseUnit_Vanguard",
+    "player": 1,
+    "position": [
+      -477864,
+      954811
+    ]
+  },
+  "1D7939B1-4B43-2E05-1A3F-69B92C9CFBF8": {
+    "facing": 1157991290,
+    "kind": "BaseUnit_VanguardHero",
+    "player": 1,
+    "position": [
+      1490555,
+      702439
+    ]
+  },
+  "1E1F02BA-4476-C82C-AD80-D6A33840B309": {
+    "facing": 1157991344,
+    "kind": "BaseUnit_VanguardS",
+    "player": 1,
+    "position": [
+      1374720,
+      -84683
+    ]
+  },
+  "1E510C50-494E-4F7F-BEC0-C5BC91A07567": {
+    "facing": 1157991344,
+    "kind": "BaseUnit_VanguardU",
+    "player": 1,
+    "position": [
+      -1790332,
+      -221316
+    ]
+  },
+  "1E88D48A-4D72-F9E6-728D-60807D01A35D": {
+    "facing": 1157991182,
+    "kind": "BasicTurret",
+    "player": 1,
+    "position": [
+      -1148188,
+      2005455
+    ]
+  },
+  "1E959CC0-4341-70E0-930A-C79B139FCB86": {
+    "facing": 1157991452,
+    "kind": "Bastion",
+    "player": 1,
+    "position": [
+      1342754,
+      -816048
+    ]
+  },
+  "1E9C1BD7-4276-6AB3-A166-1D8BD2C693B4": {
+    "facing": 1157991236,
+    "kind": "BatteryTower",
+    "player": 1,
+    "position": [
+      970399,
+      1607406
+    ]
+  },
+  "1FB20AFF-4C76-C4F3-D5C2-39A3E41AC834": {
+    "facing": 1157991290,
+    "kind": "BatteryTowerSubmerged",
+    "player": 1,
+    "position": [
+      840926,
+      958001
+    ]
+  },
+  "1FFB090D-4F05-24E8-14DD-2994FA046A81": {
+    "facing": 1157991344,
+    "kind": "BatteryTower_RewardPickup",
+    "player": 1,
+    "position": [
+      -562935,
+      -1476448
+    ]
+  },
+  "20DEFF83-46EF-57AB-3710-F09716D2DCE9": {
+    "facing": 1157991236,
+    "kind": "Battlebomber",
+    "player": 1,
+    "position": [
+      1485076,
+      2006990
+    ]
+  },
+  "21226EAA-45A9-A3CB-54F5-CABC458FB394": {
+    "facing": 1157991236,
+    "kind": "BigMech",
+    "player": 1,
+    "position": [
+      1361330,
+      1354720
+    ]
+  },
+  "213D8AC8-4AEE-4144-5887-BDA3BEF4B0DF": {
+    "facing": 1157991398,
+    "kind": "BigMechB",
+    "player": 1,
+    "position": [
+      574820,
+      -88410
+    ]
+  },
+  "2196C44E-494B-2C3C-7601-45B9406A2748": {
+    "facing": 1157991398,
+    "kind": "BigMechC",
+    "player": 1,
+    "position": [
+      443088,
+      39554
+    ]
+  },
+  "22167CA8-4B07-47A1-D1DA-37983F23847F": {
+    "facing": 1157991182,
+    "kind": "BlastFurnace",
+    "player": 1,
+    "position": [
+      -613734,
+      1867680
+    ]
+  },
+  "22252878-46CE-9A97-318D-EDA991BDE39F": {
+    "facing": 1889045941,
+    "kind": "BloodScribe",
+    "player": 0,
+    "position": [
+      740084,
+      -1427903
+    ]
+  },
+  "2267BEFE-4773-2BAD-0B92-DEB684A6E2ED": {
+    "facing": 1157991398,
+    "kind": "BossCreep",
+    "player": 1,
+    "position": [
+      517592,
+      -918017
+    ]
+  },
+  "229793B2-4794-417E-6A6F-42B392FA221A": {
+    "facing": 1157991398,
+    "kind": "BossCreepReward",
+    "player": 1,
+    "position": [
+      615510,
+      -1009078
+    ]
+  },
+  "23C99DD1-4117-182A-3299-85B12E1D16B7": {
+    "facing": 1157991452,
+    "kind": "BossTower",
+    "player": 1,
+    "position": [
+      -491520,
+      -1409024
+    ]
+  },
+  "2450D969-4A31-2810-A3E9-6E8E21091C9E": {
+    "facing": 1157991452,
+    "kind": "BotPersonaMajorGaltArtilleryMech",
+    "player": 1,
+    "position": [
+      1765489,
+      -347949
+    ]
+  },
+  "24FF87D3-4CEC-EA9E-07AB-26B5213EBC40": {
+    "facing": 1157991236,
+    "kind": "Bruiser",
+    "player": 1,
+    "position": [
+      -753475,
+      -1281783
+    ]
+  },
+  "25941AD9-45AB-82EF-891D-2F836FDB3CA7": {
+    "facing": 1157991344,
+    "kind": "BruiserCreep",
+    "player": 1,
+    "position": [
+      -686048,
+      -1280514
+    ]
+  },
+  "25B174DE-4DB3-17A9-2738-6EACEFB970E1": {
+    "facing": 1157991128,
+    "kind": "BruiserEasy",
+    "player": 1,
+    "position": [
+      -1921089,
+      1477871
+    ]
+  },
+  "26519389-4AF0-8FEA-6546-DDA60E9B7A5F": {
+    "facing": 1157991479,
+    "kind": "BruiserHard",
+    "player": 1,
+    "position": [
+      -755718,
+      -1604200
+    ]
+  },
+  "26612EDF-4B9D-302B-A595-5089FA24D39F": {
+    "facing": 1157991182,
+    "kind": "BruiserMedium",
+    "player": 1,
+    "position": [
+      -1408639,
+      1734620
+    ]
+  },
+  "2734BE23-433A-73F7-1A7D-0583872E2EA7": {
+    "facing": 1157991290,
+    "kind": "BruiserVeryEasy",
+    "player": 1,
+    "position": [
+      1364321,
+      1088119
+    ]
+  },
+  "27773718-49D7-A177-A84A-869890608C7B": {
+    "facing": 1157991425,
+    "kind": "Bruiser_3v3_Creep",
+    "player": 1,
+    "position": [
+      -508394,
+      -1264836
+    ]
+  },
+  "2784EB4F-4ED2-74BE-5950-D7845B7F57EA": {
+    "facing": 1157991344,
+    "kind": "Brute",
+    "player": 1,
+    "position": [
+      298097,
+      -1139429
+    ]
+  },
+  "2807DF50-46BD-D491-8337-9188BF8ADEE0": {
+    "facing": 1157991263,
+    "kind": "BruteVault",
+    "player": 1,
+    "position": [
+      425014,
+      -622774
+    ]
+  },
+  "29E8FFE0-4EB5-7E97-A2D9-B59DCDBAEAD3": {
+    "facing": 1157991371,
+    "kind": "BurnedOne_Gargantuan",
+    "player": 1,
+    "position": [
+      638157,
+      -1585642
+    ]
+  },
+  "2A536B80-467F-F5A0-4A1A-9482FFBD678A": {
+    "facing": 1157991236,
+    "kind": "BurnedOne_Large",
+    "player": 1,
+    "position": [
+      638138,
+      -1676902
+    ]
+  },
+  "2B20CA82-4DC1-1DD5-F320-969A88AC6020": {
+    "facing": 1157991182,
+    "kind": "BurnedOne_Medium",
+    "player": 1,
+    "position": [
+      633676,
+      -1749674
+    ]
+  },
+  "2B2A10CD-4769-B918-DC8E-319BD7E53A7F": {
+    "facing": 1157991290,
+    "kind": "BurnedOne_Small",
+    "player": 1,
+    "position": [
+      631223,
+      -1813466
+    ]
+  },
+  "2C11BADB-439E-F5AF-9D3D-2B8240591861": {
+    "facing": 1157991290,
+    "kind": "BurningEffigy",
+    "player": 1,
+    "position": [
+      491520,
+      -802816
+    ]
+  },
+  "2CA44D27-4245-E3AD-043C-DC8E7258F039": {
+    "facing": 1157991344,
+    "kind": "Cabal",
+    "player": 1,
+    "position": [
+      1492877,
+      570015
+    ]
+  },
+  "2D3B627B-4406-75E7-BC1F-A18D5B7FB471": {
+    "facing": 1157991290,
+    "kind": "CabalNexus",
+    "player": 1,
+    "position": [
+      1277952,
+      -880282
+    ]
+  },
+  "2D4E8F4A-4423-09D3-9FC4-2294CB73B1D0": {
+    "facing": 1157991236,
+    "kind": "CampaignWidgetHolder",
+    "player": 1,
+    "position": [
+      166280,
+      2003800
+    ]
+  },
+  "2EA5FF4F-4B11-E3DA-CB58-9CB67E0CDAA8": {
+    "facing": 1157991236,
+    "kind": "CannonTurret",
+    "player": 1,
+    "position": [
+      1104897,
+      1478403
+    ]
+  },
+  "2EB29FCE-4113-718E-D8D8-1DBFA145FA3B": {
+    "facing": 1157991236,
+    "kind": "CapturePoint_3v3_Tower",
+    "player": 1,
+    "position": [
+      1098450,
+      1735690
+    ]
+  },
+  "2F914E6F-448B-BD59-B7E5-74BDD9441A31": {
+    "facing": 1157991290,
+    "kind": "Carnivex",
+    "player": 1,
+    "position": [
+      1868234,
+      -1611667
+    ]
+  },
+  "3018A153-4F09-53E8-8852-75B685E6CB19": {
+    "facing": 1157991236,
+    "kind": "CasterEasy",
+    "player": 1,
+    "position": [
+      1224624,
+      1736155
+    ]
+  },
+  "302946F1-4A6E-9969-FAEC-748AECAE7062": {
+    "facing": 1157991290,
+    "kind": "CasterHard",
+    "player": 1,
+    "position": [
+      560028,
+      1606588
+    ]
+  },
+  "302F4EC7-48DD-9AF1-FE53-B08D4CEDD530": {
+    "facing": 1157991290,
+    "kind": "CasterMedium",
+    "player": 1,
+    "position": [
+      1490358,
+      1355937
+    ]
+  },
+  "3058CD7D-4A5E-2667-7A93-998DDA72F56C": {
+    "facing": 1157991506,
+    "kind": "Cat",
+    "player": 1,
+    "position": [
+      -357875,
+      -1670657
+    ]
+  },
+  "30ADD1F7-4862-9DEF-0B04-C781363C9192": {
+    "facing": 1157991344,
+    "kind": "Catapult",
+    "player": 1,
+    "position": [
+      1634550,
+      830404
+    ]
+  },
+  "30AFAE6A-43BB-8DBF-62F6-8B8002CA6C84": {
+    "facing": 1157991479,
+    "kind": "CaveGolem",
+    "player": 1,
+    "position": [
+      -1931386,
+      -1210319
+    ]
+  },
+  "30C04BE4-4048-2F96-C73B-2896CDBABA98": {
+    "facing": 1157991371,
+    "kind": "CelestialAutoHarvester",
+    "player": 1,
+    "position": [
+      1204867,
+      -1340966
+    ]
+  },
+  "3118CE4C-45DE-040C-ECD5-20B875671693": {
+    "facing": 1157991344,
+    "kind": "CelestialExpansionHQ",
+    "player": 1,
+    "position": [
+      1032192,
+      -557056
+    ]
+  },
+  "31691CE7-4D14-B0F2-B801-C0A730D7CE78": {
+    "facing": 1157991371,
+    "kind": "CelestialHQ",
+    "player": 1,
+    "position": [
+      1474560,
+      -880282
+    ]
+  },
+  "327430B2-4E3A-FB48-DBB8-F59405A150AB": {
+    "facing": 1157991236,
+    "kind": "CelestialTopBarCaster",
+    "player": 1,
+    "position": [
+      -348393,
+      1604216
+    ]
+  },
+  "32A61C03-4A1A-142C-C834-AEA475597684": {
+    "facing": 1157991290,
+    "kind": "Chicken",
+    "player": 1,
+    "position": [
+      -278104,
+      -1670327
+    ]
+  },
+  "32AD4292-4CB3-610E-E8B5-AE8CD09EFA69": {
+    "facing": 1157991344,
+    "kind": "Chimera",
+    "player": 1,
+    "position": [
+      332985,
+      -1493184
+    ]
+  },
+  "339DE2E5-4DD2-CF12-5F1F-D8979F0AE646": {
+    "facing": 1157991479,
+    "kind": "ChimeraSpire",
+    "player": 1,
+    "position": [
+      163840,
+      -753664
+    ]
+  },
+  "3433123E-49BE-EAB2-FB0F-1495A1401F12": {
+    "facing": 1157991290,
+    "kind": "ChocBear",
+    "player": 1,
+    "position": [
+      -306489,
+      -1716241
+    ]
+  },
+  "348DCEBD-4BDC-7D85-33E1-37AC1487017D": {
+    "facing": 1157991290,
+    "kind": "CivilianFemale",
+    "player": 1,
+    "position": [
+      1878824,
+      1609778
+    ]
+  },
+  "34A45247-45A8-4945-315B-7FA21C28B5DA": {
+    "facing": 1157991290,
+    "kind": "CivilianMale",
+    "player": 1,
+    "position": [
+      1363652,
+      1222296
+    ]
+  },
+  "352F14DD-4D7D-7DD7-504E-9C8DD26D3E5D": {
+    "facing": 1157991344,
+    "kind": "Cleaver",
+    "player": 1,
+    "position": [
+      -883082,
+      -1150238
+    ]
+  },
+  "35DA71B8-47D0-0E68-CF99-37BA3742D753": {
+    "facing": 1157991182,
+    "kind": "CleaverCreep",
+    "player": 1,
+    "position": [
+      -1532325,
+      696205
+    ]
+  },
+  "37C95E18-45DF-A0AC-99B9-A1908DFD92F5": {
+    "facing": 1157991344,
+    "kind": "Cleaver_3v3_Creep",
+    "player": 1,
+    "position": [
+      1757043,
+      1087118
+    ]
+  },
+  "38D098FA-42B5-15AD-64F7-BD9C665BF8BD": {
+    "facing": 1157991479,
+    "kind": "CloningMatrix",
+    "player": 1,
+    "position": [
+      -1480119,
+      -952628
+    ]
+  },
+  "3947AE41-4102-4A23-57FA-1DB92B45E46E": {
+    "facing": 1157991425,
+    "kind": "CollectionArray",
+    "player": 1,
+    "position": [
+      1015808,
+      -688128
+    ]
+  },
+  "39529EB7-4A44-D437-F3C8-57ADA6625EB9": {
+    "facing": 1157991371,
+    "kind": "CollectionArrayFlying",
+    "player": 1,
+    "position": [
+      1151237,
+      -692471
+    ]
+  },
+  "3A2B4A7E-4E50-58E4-9FEA-2D8571336B35": {
+    "facing": 1157991425,
+    "kind": "CombatMedic",
+    "player": 1,
+    "position": [
+      -1718285,
+      -495970
+    ]
+  },
+  "3A4E533F-49E3-CFF5-38E5-02BC2EDA411F": {
+    "facing": 1157991236,
+    "kind": "CombatMedicBarracks",
+    "player": 1,
+    "position": [
+      971998,
+      698313
+    ]
+  },
+  "3A69F6BA-4A1A-94ED-70D1-0E80041A78AE": {
+    "facing": 1157991317,
+    "kind": "CombatMedicCreep",
+    "player": 1,
+    "position": [
+      -1749126,
+      -492568
+    ]
+  },
+  "3AA63485-4427-BDC8-151C-7FA8817D5704": {
+    "facing": 1157991479,
+    "kind": "CombatMedicCreepReward",
+    "player": 1,
+    "position": [
+      -1873552,
+      -1078337
+    ]
+  },
+  "3B1A89BE-43CC-C1D2-13CE-B88AB61C425C": {
+    "facing": 1157991533,
+    "kind": "CombatMedicSuper",
+    "player": 1,
+    "position": [
+      -1730968,
+      -620397
+    ]
+  },
+  "3B6CB1C4-4417-0AF6-7760-2EA8EE0C7B0B": {
+    "facing": 1157991398,
+    "kind": "CommandDroid",
+    "player": 1,
+    "position": [
+      -1941604,
+      -949353
+    ]
+  },
+  "3BA62B5F-4262-2033-A38D-01801F3E9FAC": {
+    "facing": 1157991479,
+    "kind": "CommandDroidCelestial",
+    "player": 1,
+    "position": [
+      -1741458,
+      -950532
+    ]
+  },
+  "3BBE4501-47B8-5934-729B-3199FB707309": {
+    "facing": 1157991587,
+    "kind": "CommandDroidInfernal",
+    "player": 1,
+    "position": [
+      -1805330,
+      -947854
+    ]
+  },
+  "3C87A7F4-4998-7BC3-DFFB-A99D919C7471": {
+    "facing": 1157991317,
+    "kind": "CommandDroidVanguard",
+    "player": 1,
+    "position": [
+      -1869397,
+      -950537
+    ]
+  },
+  "3D12693C-4DFB-2C4B-C7C4-0AAFCE50B219": {
+    "facing": 1157991479,
+    "kind": "Conclave",
+    "player": 1,
+    "position": [
+      294912,
+      -688128
+    ]
+  },
+  "3DAFDCA5-426E-FA88-EBC1-CDBB5529F19C": {
+    "facing": 1157991452,
+    "kind": "Conclave_Maloc",
+    "player": 1,
+    "position": [
+      360448,
+      -688128
+    ]
+  },
+  "3DBF445C-4752-6E3B-0EC7-968D560EE1C1": {
+    "facing": 1157991344,
+    "kind": "Convoy",
+    "player": 1,
+    "position": [
+      1494238,
+      960480
+    ]
+  },
+  "3E304042-4146-FE6F-B516-4094E1F3DFD0": {
+    "facing": 1157991236,
+    "kind": "CoreObjective",
+    "player": 1,
+    "position": [
+      -879013,
+      698685
+    ]
+  },
+  "411BA2A5-4DDA-C6E9-9617-3890C710098D": {
+    "facing": 1157991236,
+    "kind": "Coyote",
+    "player": 1,
+    "position": [
+      -1268742,
+      433087
+    ]
+  },
+  "416F2F66-4C36-54A2-631A-DCB98F4A4DFE": {
+    "facing": 1157991479,
+    "kind": "CreationChamber",
+    "player": 1,
+    "position": [
+      1009305,
+      -810659
+    ]
+  },
+  "41AFC94E-4600-A1C3-CF42-DF9746B30FF1": {
+    "facing": 1157991290,
+    "kind": "CreepCampPickupVisionUnit",
+    "player": 1,
+    "position": [
+      -1640578,
+      -366386
+    ]
+  },
+  "41D356E8-4C9B-FB35-68CD-E78F405098E4": {
+    "facing": 1157991290,
+    "kind": "CreepCampRespawnPlaceholder",
+    "player": 1,
+    "position": [
+      -971864,
+      -1590682
+    ]
+  },
+  "4235FB69-467D-4DFB-2442-01A2E0BAC900": {
+    "facing": 1157991398,
+    "kind": "CreepMelee",
+    "player": 1,
+    "position": [
+      842925,
+      -219781
+    ]
+  },
+  "4250F793-41DC-4DBB-D6D7-FEADAACD732A": {
+    "facing": 1157991236,
+    "kind": "CreepMelee01",
+    "player": 1,
+    "position": [
+      -1793893,
+      1219499
+    ]
+  },
+  "42B13F2E-4C90-F3C3-4F6F-43B0EBF95D57": {
+    "facing": 1157991290,
+    "kind": "CreepMelee02",
+    "player": 1,
+    "position": [
+      -344470,
+      562699
+    ]
+  },
+  "42FCECFB-4236-8D8E-1A8E-AD802306282A": {
+    "facing": 1157991182,
+    "kind": "CreepMelee03",
+    "player": 1,
+    "position": [
+      1221633,
+      2002756
+    ]
+  },
+  "430AF2F4-4EC3-FDD0-C322-C9A1CB33131A": {
+    "facing": 1157991290,
+    "kind": "CreepRanged",
+    "player": 1,
+    "position": [
+      -749154,
+      957191
+    ]
+  },
+  "4330DF77-47FF-CC12-D4F4-04A5BEC0BC49": {
+    "facing": 1157991344,
+    "kind": "Crusader",
+    "player": 1,
+    "position": [
+      -1859195,
+      -626274
+    ]
+  },
+  "4398121D-4C89-D95E-E1A3-90854A37DA39": {
+    "facing": 1157991344,
+    "kind": "CrusaderLab",
+    "player": 1,
+    "position": [
+      -1867776,
+      -262144
+    ]
+  },
+  "43AEA281-4382-36CC-CEF1-BA9084529BE0": {
+    "facing": 1157991182,
+    "kind": "Crusher",
+    "player": 1,
+    "position": [
+      -1792061,
+      1479088
+    ]
+  },
+  "43E8432E-45F5-504D-610C-52955CA8998A": {
+    "facing": 1157991398,
+    "kind": "CryoTank",
+    "player": 1,
+    "position": [
+      1540989,
+      -1475530
+    ]
+  },
+  "442E5656-4BA9-7DF8-246F-3D8A5BA472DE": {
+    "facing": 1157991371,
+    "kind": "DarkKri",
+    "player": 1,
+    "position": [
+      1406289,
+      -1273522
+    ]
+  },
+  "4446036C-44D5-8235-C067-A29ABA4C7F5F": {
+    "facing": 1157991344,
+    "kind": "Deathmaw",
+    "player": 1,
+    "position": [
+      563949,
+      565071
+    ]
+  },
+  "44565BDB-4CFB-58A7-1F9B-059C996B165C": {
+    "facing": 1157991344,
+    "kind": "Deer",
+    "player": 1,
+    "position": [
+      1763687,
+      176333
+    ]
+  },
+  "452D2C81-41DC-824F-1F73-9AA6EA06BEFD": {
+    "facing": 1157991236,
+    "kind": "DefenseTower",
+    "player": 1,
+    "position": [
+      -1268050,
+      957728
+    ]
+  },
+  "45D696ED-4A0C-180B-2E9D-0CB4FF014164": {
+    "facing": 1157991344,
+    "kind": "DemoAir",
+    "player": 1,
+    "position": [
+      175639,
+      303792
+    ]
+  },
+  "4661DEE0-4D69-148A-A6FB-76BE00EBF1B4": {
+    "facing": 1157991290,
+    "kind": "DemoGround",
+    "player": 1,
+    "position": [
+      981436,
+      174426
+    ]
+  },
+  "46AF0243-4DBD-C82D-59F3-75A678685E64": {
+    "facing": 1157991479,
+    "kind": "Desolator",
+    "player": 0,
+    "position": [
+      971596,
+      -1322181
+    ]
+  },
+  "47AEAD3C-4860-0E6A-A0FE-BE975833FECC": {
+    "facing": 1157991452,
+    "kind": "DetectionWard",
+    "player": 1,
+    "position": [
+      1891663,
+      -347484
+    ]
+  },
+  "4804C0C7-4F1E-2846-B1AD-6CBD4EE0752B": {
+    "facing": 1157991182,
+    "kind": "Effigy",
+    "player": 1,
+    "position": [
+      491520,
+      -753664
+    ]
+  },
+  "49B5C221-439B-15EA-8BA7-A19553C6847B": {
+    "facing": 1157991371,
+    "kind": "ElderShrine",
+    "player": 1,
+    "position": [
+      484056,
+      -555978
+    ]
+  },
+  "4A5C27AA-49F9-0338-C53F-1AA3B3AAAFB1": {
+    "facing": 1157991398,
+    "kind": "ElderShrineMaloc",
+    "player": 1,
+    "position": [
+      622592,
+      -557056
+    ]
+  },
+  "4A73AA47-4FAE-B28A-8200-DFB7BD4C04B4": {
+    "facing": 1157991398,
+    "kind": "ElderShrineWarz",
+    "player": 1,
+    "position": [
+      557056,
+      -557056
+    ]
+  },
+  "4AF7DB8B-4983-3625-6029-539532FBEBDE": {
+    "facing": 1157991425,
+    "kind": "Empath",
+    "player": 1,
+    "position": [
+      -1244156,
+      -538545
+    ]
+  },
+  "4C4BD9BA-4A4C-2E09-1D62-8792EBEA5B8B": {
+    "facing": 1157991560,
+    "kind": "EnergyTower",
+    "player": 1,
+    "position": [
+      -1015808,
+      -1409024
+    ]
+  },
+  "4C78892C-41B3-29DE-E19F-0CA6E90A76ED": {
+    "facing": 1157991371,
+    "kind": "EnflamedImpChamber",
+    "player": 1,
+    "position": [
+      492272,
+      -691576
+    ]
+  },
+  "4DA4D8F1-416B-A0C2-E8E7-3DA478D1AC4D": {
+    "facing": 1157991452,
+    "kind": "Eradicator",
+    "player": 1,
+    "position": [
+      1349068,
+      -1292035
+    ]
+  },
+  "4EF3FBD0-477C-8AB8-FA65-28A5BB394E99": {
+    "facing": 1157991398,
+    "kind": "EradicatorChamber",
+    "player": 1,
+    "position": [
+      1146880,
+      -814746
+    ]
+  },
+  "50016F0D-404E-2BDE-3E6C-758F74627CBD": {
+    "facing": 1154657316,
+    "kind": "EradicatorLevel2",
+    "player": 1,
+    "position": [
+      1347045,
+      -1412923
+    ]
+  },
+  "51493CA3-4960-DBA4-4483-3B94EF9FEC40": {
+    "facing": 1157991344,
+    "kind": "Evac",
+    "player": 1,
+    "position": [
+      1883217,
+      1087583
+    ]
+  },
+  "516F948B-4D3D-EBA4-4B87-C982EC58E9A4": {
+    "facing": 1157991344,
+    "kind": "ExoBarracks",
+    "player": 1,
+    "position": [
+      1492680,
+      1223513
+    ]
+  },
+  "522C300D-4C20-AE31-BE5E-DF9C65D0C67C": {
+    "facing": 1157991344,
+    "kind": "ExpansionHarvester",
+    "player": 1,
+    "position": [
+      1081344,
+      -688128
+    ]
+  },
+  "5238ECEE-4327-C488-8AD9-C79C552C172F": {
+    "facing": 1157991533,
+    "kind": "ExploderReward",
+    "player": 1,
+    "position": [
+      -1750199,
+      -1079711
+    ]
+  },
+  "52CE6131-490C-070C-556D-B6844CF5FF84": {
+    "facing": 1157991398,
+    "kind": "Felhog",
+    "player": 1,
+    "position": [
+      97015,
+      -1016991
+    ]
+  },
+  "54435C38-45D4-1D91-E31F-488CD640F707": {
+    "facing": 1157991290,
+    "kind": "FelhogRanged",
+    "player": 1,
+    "position": [
+      165714,
+      -1019599
+    ]
+  },
+  "547C56FD-40A0-5C9F-5797-B6BB7A24FE3D": {
+    "facing": 1157991452,
+    "kind": "FelhogReward",
+    "player": 1,
+    "position": [
+      -1783946,
+      -1118494
+    ]
+  },
+  "54C7F663-4A64-7BF3-39B8-3599480ADF46": {
+    "facing": 1752767058,
+    "kind": "Felrider",
+    "player": 1,
+    "position": [
+      -440800,
+      -1249464
+    ]
+  },
+  "552639DC-4247-CF4A-CCAD-89B9BBA7FF86": {
+    "facing": 1157991398,
+    "kind": "Fiend",
+    "player": 1,
+    "position": [
+      39155,
+      -1138707
+    ]
+  },
+  "55C8411B-403E-8746-ACF0-B893EA9A2E13": {
+    "facing": 1157991236,
+    "kind": "FiendMaloch",
+    "player": 1,
+    "position": [
+      94766,
+      -1084926
+    ]
+  },
+  "56BA17E1-4D24-1F6C-46EF-11A8E0A07E91": {
+    "facing": 1157991398,
+    "kind": "FiendVault",
+    "player": 1,
+    "position": [
+      495204,
+      -626100
+    ]
+  },
+  "57632A39-4CA1-5CBA-7E27-8D9788845570": {
+    "facing": 1157991398,
+    "kind": "FiendWarz",
+    "player": 1,
+    "position": [
+      97484,
+      -1204738
+    ]
+  },
+  "57C1277B-476C-1211-E863-E49CC380A10D": {
+    "facing": 1157991479,
+    "kind": "FireGiant",
+    "player": 0,
+    "position": [
+      668524,
+      -1429797
+    ]
+  },
+  "57E21ED2-490C-597C-72E2-E88D8766F2E4": {
+    "facing": 72416181,
+    "kind": "FireGiantConclave",
+    "player": 1,
+    "position": [
+      688128,
+      -688128
+    ]
+  },
+  "58C5EBC8-44B3-AF4E-5F1C-CAB97B0AB6D9": {
+    "facing": 1157991506,
+    "kind": "Firestarter",
+    "player": 1,
+    "position": [
+      -1544853,
+      -554966
+    ]
+  },
+  "58DB98F5-4BC4-7315-F723-4B84AE7FF2CE": {
+    "facing": 1157991182,
+    "kind": "FirestarterShop",
+    "player": 1,
+    "position": [
+      -1534813,
+      1734155
+    ]
+  },
+  "59801610-4CC7-25B8-2128-78A8BD7E756E": {
+    "facing": 1157991533,
+    "kind": "FlayedDragon",
+    "player": 0,
+    "position": [
+      620494,
+      -1311419
+    ]
+  },
+  "5A124801-4CFB-7B6E-CC42-5982C8592982": {
+    "facing": 1157991479,
+    "kind": "FlayedDragonWarz",
+    "player": 1,
+    "position": [
+      530804,
+      -1330985
+    ]
+  },
+  "5AF072D5-4023-F787-1E4C-1A894FC84D83": {
+    "facing": 1157991344,
+    "kind": "Fleshling",
+    "player": 1,
+    "position": [
+      -638505,
+      -1143891
+    ]
+  },
+  "5B6787A7-4A69-C651-48F5-A9B10DD21CEC": {
+    "facing": 1157991425,
+    "kind": "FlyingTransportReward",
+    "player": 1,
+    "position": [
+      -1414329,
+      -1077092
+    ]
+  },
+  "5BAA98AC-474E-4047-C034-51A2BE0899A9": {
+    "facing": 1157991479,
+    "kind": "ForceProjector",
+    "player": 1,
+    "position": [
+      1343488,
+      -880282
+    ]
+  },
+  "5BDAA99E-4D9A-E767-D28B-BFABBD325CC6": {
+    "facing": 1157991344,
+    "kind": "GaiaSprout",
+    "player": 1,
+    "position": [
+      -335478,
+      1288909
+    ]
+  },
+  "5C041C76-4913-3E13-BAE1-A18E5E8D003D": {
+    "facing": 1157991290,
+    "kind": "Gaunt",
+    "player": 1,
+    "position": [
+      361210,
+      -1211743
+    ]
+  },
+  "5DB7A223-4865-2F4A-91B3-0B891D325B0B": {
+    "facing": 1157991425,
+    "kind": "GauntMaloc",
+    "player": 1,
+    "position": [
+      361529,
+      -1138162
+    ]
+  },
+  "5DF472F4-4F9F-0F49-5075-518F0424DCBB": {
+    "facing": 1157991182,
+    "kind": "GeneticCultivator",
+    "player": 1,
+    "position": [
+      -1271735,
+      699687
+    ]
+  },
+  "5E70507B-4B59-9CED-24BB-6B86D7109316": {
+    "facing": 1157991479,
+    "kind": "GiantExploderReward",
+    "player": 1,
+    "position": [
+      -1419015,
+      -1337385
+    ]
+  },
+  "5F2C9819-4086-68D6-9F80-7CA0FAD0CE8D": {
+    "facing": 1157991236,
+    "kind": "Goat",
+    "player": 1,
+    "position": [
+      -881501,
+      1736635
+    ]
+  },
+  "5FB833CE-4296-0EEB-04DA-4FA9B17F4BFB": {
+    "facing": 1157991479,
+    "kind": "GravenYard",
+    "player": 1,
+    "position": [
+      -1671691,
+      -170721
+    ]
+  },
+  "5FE96479-443B-FF34-E5F4-6ABDD66EEDD7": {
+    "facing": 1157991533,
+    "kind": "GreaterShrine",
+    "player": 1,
+    "position": [
+      287242,
+      -558865
+    ]
+  },
+  "6008BB65-4626-2FE3-7290-B19C9B8CF9DA": {
+    "facing": 1157991290,
+    "kind": "GreaterShrineMaloc",
+    "player": 1,
+    "position": [
+      425628,
+      -552167
+    ]
+  },
+  "601FBAA1-45D8-1F04-EC91-1B8BD871CFFF": {
+    "facing": 1157991533,
+    "kind": "GreaterShrineWarz",
+    "player": 1,
+    "position": [
+      354637,
+      -551171
+    ]
+  },
+  "604E8099-4CE7-A7D9-1EB8-E08C4ACD7227": {
+    "facing": 1157991371,
+    "kind": "GreaterStormDuplicator",
+    "player": 1,
+    "position": [
+      -1867211,
+      -1336215
+    ]
+  },
+  "60D68636-48C1-AE1B-B1BD-408733E06D6D": {
+    "facing": 1157991344,
+    "kind": "GreaterStormEmpowerer",
+    "player": 1,
+    "position": [
+      -1613066,
+      -1341071
+    ]
+  },
+  "619047D7-4D5B-6E98-BD85-A6835E7DF13C": {
+    "facing": 1157991479,
+    "kind": "GreaterWellspring",
+    "player": 1,
+    "position": [
+      -512240,
+      -883152
+    ]
+  },
+  "61A4F168-496D-7A84-818F-7FAB40571F40": {
+    "facing": 1157991290,
+    "kind": "Gremlin",
+    "player": 1,
+    "position": [
+      -343998,
+      1082021
+    ]
+  },
+  "61AA0D47-4005-489C-871F-CF9FCBED9FF7": {
+    "facing": 1157991236,
+    "kind": "GuardianCore",
+    "player": 1,
+    "position": [
+      -607584,
+      428953
+    ]
+  },
+  "61BCAD27-4269-A79E-B252-5DABD5D1003E": {
+    "facing": 1157991344,
+    "kind": "GuardianNexus",
+    "player": 1,
+    "position": [
+      1015808,
+      -880282
+    ]
+  },
+  "6231F2C2-4E77-F818-0B76-A79B680C775F": {
+    "facing": 1157991344,
+    "kind": "Guardsman",
+    "player": 1,
+    "position": [
+      -1796854,
+      -557969
+    ]
+  },
+  "62824F5D-47A0-BE11-B9A7-B19E8236802C": {
+    "facing": 1157991452,
+    "kind": "GuardsmanDeployed",
+    "player": 1,
+    "position": [
+      -1793154,
+      -501769
+    ]
+  },
+  "6306BD66-43C8-8A53-9B1B-E18C73B74D3F": {
+    "facing": 1157991236,
+    "kind": "GuardsmanYard",
+    "player": 1,
+    "position": [
+      -1402466,
+      954711
+    ]
+  },
+  "635D5DF1-44FE-23EE-AEB5-ECB01F591C93": {
+    "facing": 1157991452,
+    "kind": "Gunner",
+    "player": 1,
+    "position": [
+      -1792175,
+      -435265
+    ]
+  },
+  "63818D43-4F3C-089A-0AB4-CF96291CD8C7": {
+    "facing": 1157991236,
+    "kind": "HQTier1",
+    "player": 1,
+    "position": [
+      1227112,
+      698205
+    ]
+  },
+  "643416C9-4600-916A-F16F-55B75EAEC248": {
+    "facing": 1157991236,
+    "kind": "HQTier1Barclay",
+    "player": 1,
+    "position": [
+      717653,
+      174856
+    ]
+  },
+  "6678D3C6-47C3-F8C1-EE67-0292A6F057FB": {
+    "facing": 1157991236,
+    "kind": "HQTier2",
+    "player": 1,
+    "position": [
+      841202,
+      1480623
+    ]
+  },
+  "673FABCC-45CD-48D8-277D-288F6736FC0E": {
+    "facing": 1157991236,
+    "kind": "HQTier2Barclay",
+    "player": 1,
+    "position": [
+      971801,
+      1351811
+    ]
+  },
+  "676A8AAE-4E72-B700-1E2F-149E6C11EBC4": {
+    "facing": 1157991236,
+    "kind": "HQTier3",
+    "player": 1,
+    "position": [
+      -87721,
+      1475678
+    ]
+  },
+  "68293DC5-46CF-198A-7980-76835A278E4F": {
+    "facing": 1157991290,
+    "kind": "HQTier3Barclay",
+    "player": 1,
+    "position": [
+      974123,
+      1219387
+    ]
+  },
+  "6890A9C0-4E9A-6891-E4A8-67AB1C0D66CF": {
+    "facing": 1157991344,
+    "kind": "Habitat",
+    "player": 1,
+    "position": [
+      -1687552,
+      -262144
+    ]
+  },
+  "694C68EE-4F6C-B6FE-1775-608144630A1D": {
+    "facing": 1157991344,
+    "kind": "Hag",
+    "player": 1,
+    "position": [
+      232216,
+      -1150573
+    ]
+  },
+  "698D3B71-4FE3-CC47-E1B2-B19C113327B0": {
+    "facing": 1157991236,
+    "kind": "Halon",
+    "player": 1,
+    "position": [
+      837243,
+      699960
+    ]
+  },
+  "69DCD498-4F60-457A-5617-CDA0877770FE": {
+    "facing": 1157991182,
+    "kind": "HangarBay",
+    "player": 1,
+    "position": [
+      -606618,
+      1476216
+    ]
+  },
+  "6BD97A64-4E2A-4358-EAA2-C4A836B73CE7": {
+    "facing": 1157991344,
+    "kind": "Harbinger",
+    "player": 1,
+    "position": [
+      647438,
+      -1150160
+    ]
+  },
+  "6D10AE1C-4EEA-6A6A-336F-D3B0CE7C7F67": {
+    "facing": 1157991344,
+    "kind": "HarbingerDeployed",
+    "player": 1,
+    "position": [
+      557056,
+      -1130496
+    ]
+  },
+  "6D1AF21F-438B-D233-D2C7-3788EE9C542C": {
+    "facing": 1194735335,
+    "kind": "Haven",
+    "player": 1,
+    "position": [
+      1146880,
+      -880282
+    ]
+  },
+  "6D273972-4C8E-80BF-FBA0-EFBCF414B5EB": {
+    "facing": 1157991344,
+    "kind": "HealingFlower",
+    "player": 1,
+    "position": [
+      -886850,
+      -1472352
+    ]
+  },
+  "6D2952AD-4ED5-3AB5-FCEC-12B69463FBBF": {
+    "facing": 1157991398,
+    "kind": "HealingGlob",
+    "player": 1,
+    "position": [
+      977680,
+      -221428
+    ]
+  },
+  "6D5D4C6B-4499-33D8-A3AA-77BA96F93D8F": {
+    "facing": 1157991344,
+    "kind": "HealingWard_00",
+    "player": 1,
+    "position": [
+      1499993,
+      178552
+    ]
+  },
+  "6DDE3783-49F8-A276-849A-208703A11BC3": {
+    "facing": 1157991506,
+    "kind": "HealthRegen01_Reward",
+    "player": 1,
+    "position": [
+      -951459,
+      -1675376
+    ]
+  },
+  "70593181-4490-D4AC-04D3-7C8242621A04": {
+    "facing": 1157991398,
+    "kind": "HealthRegen02_Reward",
+    "player": 1,
+    "position": [
+      -943563,
+      -1804020
+    ]
+  },
+  "708DAF8D-4E6A-FD0A-7B8F-7BBC8D9E7D4E": {
+    "facing": 1157991452,
+    "kind": "HealthRegen03_Reward",
+    "player": 1,
+    "position": [
+      -950220,
+      -1735435
+    ]
+  },
+  "714948F4-4E69-2C09-A357-EB927598A154": {
+    "facing": 1157991479,
+    "kind": "HealthTower",
+    "player": 1,
+    "position": [
+      -360522,
+      -1411532
+    ]
+  },
+  "718E9A6E-4167-71AA-7EA2-4A8587A2A81C": {
+    "facing": 1157991587,
+    "kind": "HealthTower2",
+    "player": 1,
+    "position": [
+      -950272,
+      -1409024
+    ]
+  },
+  "722B87E7-49A5-F612-94F0-70B34D30E6C6": {
+    "facing": 1157991182,
+    "kind": "HealthTower_3v3",
+    "player": 1,
+    "position": [
+      -612176,
+      1604646
+    ]
+  },
+  "724C7176-42F4-9AED-6641-919B219862F5": {
+    "facing": 1157991236,
+    "kind": "HeavyMech",
+    "player": 1,
+    "position": [
+      710340,
+      1219817
+    ]
+  },
+  "7257ADE4-4E86-07B1-4A48-FB8D452BD645": {
+    "facing": 1157991506,
+    "kind": "Hecubah",
+    "player": 1,
+    "position": [
+      653714,
+      -1256554
+    ]
+  },
+  "72604286-4F68-146E-AD6F-3FAE686294AD": {
+    "facing": 1157991290,
+    "kind": "HedgehogBay",
+    "player": 1,
+    "position": [
+      839565,
+      567536
+    ]
+  },
+  "732A19C8-4BA7-3D9D-51DC-09BBACF0DD02": {
+    "facing": 1157991344,
+    "kind": "Helicarrier",
+    "player": 1,
+    "position": [
+      -674177,
+      691963
+    ]
+  },
+  "7346DB2E-49EE-5069-5245-2AAD8947CDD4": {
+    "facing": 1157991290,
+    "kind": "HelicarrierBay",
+    "player": 1,
+    "position": [
+      840234,
+      433360
+    ]
+  },
+  "73532ED4-4ED3-D5DD-0709-42B4A2A2515C": {
+    "facing": 1157991479,
+    "kind": "HellborneForge",
+    "player": 1,
+    "position": [
+      98110,
+      -687530
+    ]
+  },
+  "73F03802-4BE7-334E-5465-7A97E4664028": {
+    "facing": 1157991533,
+    "kind": "Hellforge",
+    "player": 1,
+    "position": [
+      32574,
+      -687530
+    ]
+  },
+  "74640362-42C7-E668-42EE-1BA9D07F9867": {
+    "facing": 1157991533,
+    "kind": "HellforgeMaloc",
+    "player": 1,
+    "position": [
+      236833,
+      -682649
+    ]
+  },
+  "74ABC6FF-4B1E-A05A-084C-30829B87D303": {
+    "facing": 1157991074,
+    "kind": "HeroRespawner",
+    "player": 1,
+    "position": [
+      -1930529,
+      2001759
+    ]
+  },
+  "752D1313-46AB-066E-A297-9CB0BF7FA4FA": {
+    "facing": 1157991236,
+    "kind": "HeroRespawnerDummyUnit",
+    "player": 1,
+    "position": [
+      1100938,
+      697740
+    ]
+  },
+  "753A6D3F-4C8B-EB18-D564-298270407810": {
+    "facing": 142597230,
+    "kind": "HexenConclave",
+    "player": 1,
+    "position": [
+      753664,
+      -688128
+    ]
+  },
+  "7581A3AE-4B9F-F785-BD22-B1AA34077FCF": {
+    "facing": 1157991479,
+    "kind": "Hoplite",
+    "player": 1,
+    "position": [
+      -1857916,
+      -567563
+    ]
+  },
+  "75A894A6-4804-24D4-436E-D681D94FBF8D": {
+    "facing": 1157991290,
+    "kind": "HopliteLab",
+    "player": 1,
+    "position": [
+      -1425408,
+      -229376
+    ]
+  },
+  "75D28549-4E24-BAC1-DEA9-FDB7EA937295": {
+    "facing": 1157991290,
+    "kind": "HornetBay",
+    "player": 1,
+    "position": [
+      -876217,
+      1085583
+    ]
+  },
+  "75D4464A-4AB6-0CC5-4CEB-FD8DA8CBBEC6": {
+    "facing": 1157991290,
+    "kind": "Immolator",
+    "player": 1,
+    "position": [
+      -1139911,
+      1087802
+    ]
+  },
+  "779E62F1-4B75-6988-9314-27AFF575650B": {
+    "facing": 1157991290,
+    "kind": "ImmolatorDeployed",
+    "player": 1,
+    "position": [
+      1110376,
+      173853
+    ]
+  },
+  "77BD4AF4-42ED-F07B-6F5A-F78FD290503E": {
+    "facing": 1157991398,
+    "kind": "Imp",
+    "player": 1,
+    "position": [
+      163793,
+      -1142889
+    ]
+  },
+  "784067D7-482B-6A0A-A4BC-E191B17ADA99": {
+    "facing": 1157991479,
+    "kind": "ImpEnflamed",
+    "player": 1,
+    "position": [
+      155743,
+      -1216896
+    ]
+  },
+  "78715F9C-49ED-2D38-F645-DCB9855FE844": {
+    "facing": 1157991398,
+    "kind": "ImpEnflamedMaloc",
+    "player": 1,
+    "position": [
+      203537,
+      -1212459
+    ]
+  },
+  "78E9B963-4113-CBED-32AE-34BB926A68CD": {
+    "facing": 1157991344,
+    "kind": "ImpEnflamedReward",
+    "player": 1,
+    "position": [
+      247443,
+      -1215227
+    ]
+  },
+  "791AA28C-4AD7-A111-09DF-77B80390EE9A": {
+    "facing": 1157991398,
+    "kind": "Incarnate",
+    "player": 1,
+    "position": [
+      717134,
+      -995931
+    ]
+  },
+  "792D8EC0-49D1-3B85-8CA4-E984954D476A": {
+    "facing": 1157991506,
+    "kind": "IncarnateCreep",
+    "player": 1,
+    "position": [
+      613854,
+      -924242
+    ]
+  },
+  "7B094271-41E1-CB3A-0D87-BC85CF3E215B": {
+    "facing": 1157991452,
+    "kind": "IncarnateCreepReward",
+    "player": 1,
+    "position": [
+      419866,
+      -929915
+    ]
+  },
+  "7BDBA27A-45B2-B4DD-1679-38A386204108": {
+    "facing": 1157991236,
+    "kind": "InfernalAutoHarvester",
+    "player": 1,
+    "position": [
+      711009,
+      1085641
+    ]
+  },
+  "7C0AD256-40F2-7545-E6A0-E8996A6046CD": {
+    "facing": 1157991371,
+    "kind": "InfernalExpansionHQ",
+    "player": 1,
+    "position": [
+      23979,
+      -564286
+    ]
+  },
+  "7CD10E5B-4CB4-38AB-FC34-31A7B7F56676": {
+    "facing": 1157991344,
+    "kind": "InfernalMalocTopBarCaster",
+    "player": 1,
+    "position": [
+      174081,
+      566825
+    ]
+  },
+  "7CEBC131-4CCD-B46A-BD95-D2BAB741C95D": {
+    "facing": 1157991344,
+    "kind": "InfernalTopBarCaster",
+    "player": 1,
+    "position": [
+      -468352,
+      -89135
+    ]
+  },
+  "7DA6A012-4A7F-51D5-9658-DABE42411E09": {
+    "facing": 1157991236,
+    "kind": "InfernalWarzTopBarCaster",
+    "player": 1,
+    "position": [
+      837046,
+      1353458
+    ]
+  },
+  "7F779D16-420A-13A8-DC98-1F855019B722": {
+    "facing": 1157991398,
+    "kind": "InterceptorBomber",
+    "player": 1,
+    "position": [
+      983238,
+      -349856
+    ]
+  },
+  "7FD3C069-4791-48A9-0A03-65A9222A3E5B": {
+    "facing": 1157991182,
+    "kind": "InterceptorFighter",
+    "player": 1,
+    "position": [
+      -1799177,
+      1870552
+    ]
+  },
+  "7FD9206B-447C-BC9D-B898-13BB05FC9E89": {
+    "facing": 1157991344,
+    "kind": "IronVault",
+    "player": 1,
+    "position": [
+      294912,
+      -622592
+    ]
+  },
+  "7FFAD827-4D6E-F20C-68DE-ABB9457A0894": {
+    "facing": 1157991425,
+    "kind": "IronVaultMaloch",
+    "player": 1,
+    "position": [
+      362145,
+      -621139
+    ]
+  },
+  "80131267-44E8-3FCB-B202-2B8A969A770A": {
+    "facing": 1157991344,
+    "kind": "Jet",
+    "player": 1,
+    "position": [
+      1628103,
+      1087691
+    ]
+  },
+  "819049C5-49AD-4A7E-D1FF-E18BDC094341": {
+    "facing": 1157991506,
+    "kind": "Kastiel",
+    "player": 1,
+    "position": [
+      -899692,
+      -582448
+    ]
+  },
+  "823190CF-427A-52A3-2CB6-73AD7BF7DC35": {
+    "facing": 1157991398,
+    "kind": "KastielCollectionArray",
+    "player": 1,
+    "position": [
+      1212416,
+      -688128
+    ]
+  },
+  "82795E66-4DBF-72A0-4383-58BB9E83F389": {
+    "facing": 1157991425,
+    "kind": "KastielCollectionArrayFlying",
+    "player": 1,
+    "position": [
+      1275726,
+      -692581
+    ]
+  },
+  "8318C888-408F-D4F0-A295-6DAF1A393521": {
+    "facing": 1157991398,
+    "kind": "KastielTopBarCaster",
+    "player": 1,
+    "position": [
+      1767442,
+      -85685
+    ]
+  },
+  "835B66E3-445D-DF05-3185-159EFAE6D244": {
+    "facing": 1157991344,
+    "kind": "Kri",
+    "player": 1,
+    "position": [
+      1407647,
+      -1344521
+    ]
+  },
+  "83E0D5F6-4808-4DA9-8990-8CB6A0D840D0": {
+    "facing": 1157991425,
+    "kind": "KriNexus",
+    "player": 1,
+    "position": [
+      1212416,
+      -880282
+    ]
+  },
+  "83F8DBE8-4FE7-045D-0E21-CAA2C5CE54EA": {
+    "facing": 1157991344,
+    "kind": "Lancer",
+    "player": 1,
+    "position": [
+      -1862912,
+      -434813
+    ]
+  },
+  "841F6313-43A6-4390-95E6-6F82570F8631": {
+    "facing": 1157991479,
+    "kind": "LancerEchelon",
+    "player": 1,
+    "position": [
+      -1863993,
+      -490120
+    ]
+  },
+  "84869035-4BEE-723B-0D3B-2F89B9EE40A6": {
+    "facing": 1157991290,
+    "kind": "LeaderTest",
+    "player": 1,
+    "position": [
+      -1155589,
+      299863
+    ]
+  },
+  "84F0DA0C-4B86-2C19-3FF2-F9B29644533D": {
+    "facing": 1157991452,
+    "kind": "LesserShrine",
+    "player": 1,
+    "position": [
+      89526,
+      -552396
+    ]
+  },
+  "85461B9C-4C60-FB9C-7BFC-24A55AD8D9C4": {
+    "facing": 1157991398,
+    "kind": "LesserShrineMaloc",
+    "player": 1,
+    "position": [
+      229376,
+      -557056
+    ]
+  },
+  "856F40F6-4300-9406-6DF3-CC92023EC9C6": {
+    "facing": 1157991425,
+    "kind": "LesserShrineWarz",
+    "player": 1,
+    "position": [
+      163840,
+      -557056
+    ]
+  },
+  "85AA0E9A-4F5E-9BD8-0197-2FAF1A1F8CA0": {
+    "facing": 1157991452,
+    "kind": "LesserStormDuplicator",
+    "player": 1,
+    "position": [
+      -1753092,
+      -1325618
+    ]
+  },
+  "86DFC69A-436D-3033-F118-96904282CE8B": {
+    "facing": 2063323356,
+    "kind": "LesserWellspring",
+    "player": 1,
+    "position": [
+      -1048576,
+      -851968
+    ]
+  },
+  "8728FECD-4306-D03A-C049-9098D176D3AE": {
+    "facing": 1157991425,
+    "kind": "LinkNode",
+    "player": 1,
+    "position": [
+      1146880,
+      -945818
+    ]
+  },
+  "8748CE55-4956-42AA-BDFC-28A6A24C24D2": {
+    "facing": 1157991479,
+    "kind": "LinkNodeKastiel",
+    "player": 1,
+    "position": [
+      1212416,
+      -945818
+    ]
+  },
+  "8767A7E4-49DD-FB5F-7466-9E8492CC1F18": {
+    "facing": 1157991506,
+    "kind": "Lizard",
+    "player": 1,
+    "position": [
+      -1819675,
+      -1204821
+    ]
+  },
+  "8770C4B2-4550-843A-7C56-C9A677C85B98": {
+    "facing": 1157991290,
+    "kind": "MachineGunTurret",
+    "player": 1,
+    "position": [
+      303356,
+      1869730
+    ]
+  },
+  "87B9E337-4DAE-5AEF-66B4-E8905769049E": {
+    "facing": 1157991290,
+    "kind": "Machinelord",
+    "player": 1,
+    "position": [
+      1936819,
+      -1473585
+    ]
+  },
+  "887B9AF7-45F8-65DB-3401-578D14A3A08B": {
+    "facing": 1157991398,
+    "kind": "Magmadon",
+    "player": 1,
+    "position": [
+      428903,
+      -1093659
+    ]
+  },
+  "890D5B97-4B27-FC97-AAB2-D8BC2B47F046": {
+    "facing": 1157991479,
+    "kind": "Mainframe",
+    "player": 1,
+    "position": [
+      1212416,
+      -814746
+    ]
+  },
+  "89169B24-404E-34B4-C7F1-4CADB75E439B": {
+    "facing": 1157991398,
+    "kind": "MajorGaltCreep",
+    "player": 1,
+    "position": [
+      -566144,
+      -1277447
+    ]
+  },
+  "8919E74F-4BB5-B4E9-08E3-44A7138548C1": {
+    "facing": 1157991398,
+    "kind": "ManaShrine",
+    "player": 1,
+    "position": [
+      -1398512,
+      289470
+    ]
+  },
+  "8986EC37-4E48-60E7-0BE7-2C8AC091829C": {
+    "facing": 1157991398,
+    "kind": "MeatManorReward",
+    "player": 1,
+    "position": [
+      98304,
+      -622592
+    ]
+  },
+  "89A5A5B7-4CAE-BEDA-AB25-AFB3B1420900": {
+    "facing": 1157991290,
+    "kind": "MechBay",
+    "player": 1,
+    "position": [
+      -750712,
+      1220224
+    ]
+  },
+  "8A446DAA-4B0B-29DF-0B57-A9B264A3AC5A": {
+    "facing": 1157991236,
+    "kind": "MechaScout",
+    "player": 1,
+    "position": [
+      -1954193,
+      -513573
+    ]
+  },
+  "8A5D02E7-4C8E-08D8-4437-8690BC591CC5": {
+    "facing": 1157991452,
+    "kind": "MedTech",
+    "player": 1,
+    "position": [
+      -1733471,
+      -429095
+    ]
+  },
+  "8A7D3A0C-4A2E-4984-A462-49B49191A75F": {
+    "facing": 1157991452,
+    "kind": "MedTechEchelon",
+    "player": 1,
+    "position": [
+      -1732781,
+      -557269
+    ]
+  },
+  "8AD924C3-4933-F814-D5FB-ED9EC8EBA8EE": {
+    "facing": 1157991236,
+    "kind": "MegaHQA",
+    "player": 1,
+    "position": [
+      1223955,
+      1870332
+    ]
+  },
+  "8BC238A2-4532-70CD-0BD7-06976E96FEA3": {
+    "facing": 1157991182,
+    "kind": "MegaHQB",
+    "player": 1,
+    "position": [
+      -1267776,
+      1480350
+    ]
+  },
+  "8C5B15E2-4AA9-D5FC-C124-52A2E11B4372": {
+    "facing": 1157991182,
+    "kind": "MegaHQC",
+    "player": 1,
+    "position": [
+      -610774,
+      1349051
+    ]
+  },
+  "8D24B4F5-4049-3BC9-1164-B683215D1A8A": {
+    "facing": 1157991344,
+    "kind": "MercDragon",
+    "player": 1,
+    "position": [
+      1884106,
+      958726
+    ]
+  },
+  "8D6B462C-40E3-8CC3-8B91-9D9C6B727B6C": {
+    "facing": 1157991290,
+    "kind": "MercShop",
+    "player": 1,
+    "position": [
+      -208414,
+      170663
+    ]
+  },
+  "8D93D97B-47EE-7604-96C5-5D82E3F7CBF0": {
+    "facing": 1157991344,
+    "kind": "Mine",
+    "player": 1,
+    "position": [
+      308638,
+      1218677
+    ]
+  },
+  "8F3CD97D-42D0-19E4-3596-5DAF8E3507BF": {
+    "facing": 1157991398,
+    "kind": "MinionEasy",
+    "player": 1,
+    "position": [
+      -949170,
+      -1604960
+    ]
+  },
+  "8F444F39-4A93-E865-E7A5-C092D34F083A": {
+    "facing": 1157991533,
+    "kind": "MinionHard",
+    "player": 1,
+    "position": [
+      -821175,
+      -1607944
+    ]
+  },
+  "8FEE7969-4E74-9175-2C5F-949A4002DF28": {
+    "facing": 1157991479,
+    "kind": "MinionMedium",
+    "player": 1,
+    "position": [
+      -885986,
+      -1608492
+    ]
+  },
+  "901B820F-4875-9C9E-0CE9-F1B165A2AB91": {
+    "facing": 1157991182,
+    "kind": "MissileJeep",
+    "player": 1,
+    "position": [
+      -1662864,
+      1605871
+    ]
+  },
+  "90A6B3F0-404A-2C7B-8DF0-DE967AE0AEB3": {
+    "facing": 1157991371,
+    "kind": "MissileJeepDeployed",
+    "player": 1,
+    "position": [
+      -1610853,
+      -557056
+    ]
+  },
+  "90D4CC4D-42E3-6B8E-5DEB-ACACE42C298A": {
+    "facing": 1157991290,
+    "kind": "MissileTurret",
+    "player": 1,
+    "position": [
+      1629268,
+      1481456
+    ]
+  },
+  "915B36E4-4887-3BA8-041F-229B606B51C6": {
+    "facing": 1157991290,
+    "kind": "Mongrel",
+    "player": 1,
+    "position": [
+      1370965,
+      177335
+    ]
+  },
+  "91C735EB-4CC7-3070-2F75-65B44303E9F5": {
+    "facing": 1157991506,
+    "kind": "Mongrel_3v3_Creep",
+    "player": 1,
+    "position": [
+      -1013678,
+      -1205272
+    ]
+  },
+  "92444158-408A-E940-79E5-58AA2F38F802": {
+    "facing": 1157991398,
+    "kind": "MorphCore",
+    "player": 1,
+    "position": [
+      1456766,
+      -1219150
+    ]
+  },
+  "924BC191-4B4C-1640-862D-57809C5FCFEF": {
+    "facing": 1157991344,
+    "kind": "MorphCoreKastiel",
+    "player": 1,
+    "position": [
+      1413000,
+      -1158373
+    ]
+  },
+  "92D612E1-42F9-3C8B-E2E7-9B8617E9D419": {
+    "facing": 1157991344,
+    "kind": "Mortardon",
+    "player": 1,
+    "position": [
+      427833,
+      -1145654
+    ]
+  },
+  "932AA482-4CC0-9D1C-3A6F-0788FA81207C": {
+    "facing": 1157991317,
+    "kind": "MortardonHellforge",
+    "player": 1,
+    "position": [
+      163840,
+      -688128
+    ]
+  },
+  "932E16B9-442C-F72D-258F-C0A8C67C6195": {
+    "facing": 1157991344,
+    "kind": "Moth",
+    "player": 1,
+    "position": [
+      1108573,
+      40264
+    ]
+  },
+  "933CF47D-4FC9-0188-522E-B99E79AEAB37": {
+    "facing": 1157991452,
+    "kind": "MoveSpeedBuffer_Reward",
+    "player": 1,
+    "position": [
+      -886567,
+      -1870553
+    ]
+  },
+  "937C6A41-43F8-19E8-B685-99BD3EB369CF": {
+    "facing": 1157991506,
+    "kind": "MovementSpeed01_Reward",
+    "player": 1,
+    "position": [
+      -883991,
+      -1676850
+    ]
+  },
+  "9389F9E8-4B25-D12A-C099-139723FDD10D": {
+    "facing": 1157991506,
+    "kind": "MovementSpeed02_Reward",
+    "player": 1,
+    "position": [
+      -884792,
+      -1732609
+    ]
+  },
+  "93979B6D-4CD7-0A8C-7419-2DBC00BA5D58": {
+    "facing": 1157991344,
+    "kind": "MovementSpeed03_Reward",
+    "player": 1,
+    "position": [
+      -884732,
+      -1800580
+    ]
+  },
+  "95D0909E-4B6C-6AB7-EB2E-5C82AA779966": {
+    "facing": 1157991452,
+    "kind": "MovementSpeedTower",
+    "player": 1,
+    "position": [
+      -753664,
+      -1409024
+    ]
+  },
+  "95EF7CDB-4016-3F6F-E242-38BAF245CFCB": {
+    "facing": 1157991290,
+    "kind": "MovementSpeedTower_3v3",
+    "player": 1,
+    "position": [
+      -342912,
+      299666
+    ]
+  },
+  "9616118D-42C5-A6C3-2459-38B36A7C6A32": {
+    "facing": 1157991290,
+    "kind": "MunitionsFactory",
+    "player": 1,
+    "position": [
+      46612,
+      302575
+    ]
+  },
+  "96813374-40C3-448E-08E8-2E9B7D1558C2": {
+    "facing": 1157991452,
+    "kind": "MunitionsFactoryRyker",
+    "player": 1,
+    "position": [
+      -1589248,
+      -245760
+    ]
+  },
+  "975D5358-48DF-6082-9E65-7AA1F1DDED5C": {
+    "facing": 1157991479,
+    "kind": "MythiaArcshipGrounded",
+    "player": 1,
+    "position": [
+      1146880,
+      -557056
+    ]
+  },
+  "9790BFFF-4599-9DAC-6E39-2F8205F10869": {
+    "facing": 1157991398,
+    "kind": "MythiaArcshipTier1",
+    "player": 1,
+    "position": [
+      1141104,
+      -493915
+    ]
+  },
+  "97D95E14-4CBC-6676-3226-C9AC412DE045": {
+    "facing": 1157991452,
+    "kind": "MythiaArcshipTier2",
+    "player": 1,
+    "position": [
+      1350821,
+      -500446
+    ]
+  },
+  "987102E3-4662-F2E5-2A87-6E9EF5BC4DFD": {
+    "facing": 1157991398,
+    "kind": "MythiaArcshipTier3",
+    "player": 1,
+    "position": [
+      1541065,
+      -496024
+    ]
+  },
+  "9882476F-4EFD-1F3A-007D-4FBB18B9EBB1": {
+    "facing": 1157991290,
+    "kind": "NeutralExpansionHQ",
+    "player": 1,
+    "position": [
+      -472109,
+      172883
+    ]
+  },
+  "98DD8592-4155-262E-EAE8-2BADEFC3AF8A": {
+    "facing": 1157991290,
+    "kind": "Neutralizer",
+    "player": 1,
+    "position": [
+      1229237,
+      1219279
+    ]
+  },
+  "98F13DC6-4CA6-DAB9-7EE8-4D9BE4CB497C": {
+    "facing": 1157991290,
+    "kind": "Obelisk",
+    "player": 1,
+    "position": [
+      360448,
+      -753664
+    ]
+  },
+  "995C6555-43B8-7EE7-E117-35B273A89374": {
+    "facing": 1157991425,
+    "kind": "ObeliskSlow",
+    "player": 1,
+    "position": [
+      294912,
+      -753664
+    ]
+  },
+  "997DA073-458A-F88D-9EE5-CE8D93C685DC": {
+    "facing": 1157991236,
+    "kind": "Odyssey",
+    "player": 1,
+    "position": [
+      975957,
+      1478976
+    ]
+  },
+  "9A0FC337-44B4-A0D3-C4EC-679F698D9D2F": {
+    "facing": 1157991290,
+    "kind": "OozeFleshling",
+    "player": 1,
+    "position": [
+      -691377,
+      -1072601
+    ]
+  },
+  "9A13F947-4916-73E8-1041-A582BDE8003D": {
+    "facing": 1157991641,
+    "kind": "OozeReward",
+    "player": 1,
+    "position": [
+      -1608246,
+      -1082186
+    ]
+  },
+  "9A2E769F-48FA-B39F-F385-AEB0C8690073": {
+    "facing": 1157991398,
+    "kind": "OrbitalPlatform",
+    "player": 1,
+    "position": [
+      319706,
+      -88302
+    ]
+  },
+  "9C021FA9-4E22-B46E-2FC8-2CB30594E352": {
+    "facing": 1157991371,
+    "kind": "Outrunner",
+    "player": 1,
+    "position": [
+      -1308525,
+      -531462
+    ]
+  },
+  "9C15B431-4143-06D0-8A86-F09EBB2ACD94": {
+    "facing": 1157991398,
+    "kind": "PackMule",
+    "player": 1,
+    "position": [
+      -1648068,
+      161149
+    ]
+  },
+  "9C594E24-4C5F-E82D-B977-E5852296CFE4": {
+    "facing": 1693591578,
+    "kind": "Pandora",
+    "player": 0,
+    "position": [
+      684745,
+      -1331649
+    ]
+  },
+  "9CF896C4-4E4A-ACA7-BE7B-E5B2D5924941": {
+    "facing": 1157991236,
+    "kind": "PetChicken",
+    "player": 1,
+    "position": [
+      969510,
+      1736263
+    ]
+  },
+  "9D39C748-4C9F-38FE-AD8C-AEB75E0010FF": {
+    "facing": 1157991182,
+    "kind": "PetChocBear",
+    "player": 1,
+    "position": [
+      37253,
+      2002583
+    ]
+  },
+  "9E60CE37-411C-8E82-96E0-81B437A07D17": {
+    "facing": 1157991398,
+    "kind": "PetJerboa",
+    "player": 1,
+    "position": [
+      -272586,
+      -1714925
+    ]
+  },
+  "9EE95776-429F-B546-5ACB-60B4D8CE9BED": {
+    "facing": 1157991398,
+    "kind": "PetJerboaRetroArcade",
+    "player": 1,
+    "position": [
+      -313842,
+      -1670001
+    ]
+  },
+  "A0A02048-488D-B020-B48E-E788F20E3877": {
+    "facing": 1157991344,
+    "kind": "PetKitty",
+    "player": 1,
+    "position": [
+      -401866,
+      -1705212
+    ]
+  },
+  "A1992262-4133-CED2-517C-4392EC81B40B": {
+    "facing": 1157991398,
+    "kind": "PetMoth",
+    "player": 1,
+    "position": [
+      -242167,
+      -1670319
+    ]
+  },
+  "A1E39DE8-4335-24CE-4AB6-CCBDA8BD0492": {
+    "facing": 1157991398,
+    "kind": "PetPurpleKitty",
+    "player": 1,
+    "position": [
+      -401855,
+      -1670959
+    ]
+  },
+  "A2055B0A-4525-F631-CF73-5E8E1C4CCA47": {
+    "facing": 1157991398,
+    "kind": "PetSpookyMoth",
+    "player": 1,
+    "position": [
+      -232840,
+      -1723182
+    ]
+  },
+  "A287ED6D-4967-3407-8ADC-758564B6B8EB": {
+    "facing": 1157991398,
+    "kind": "PetSupporterJerboa",
+    "player": 1,
+    "position": [
+      -349133,
+      -1756164
+    ]
+  },
+  "A2DE18A5-4081-77DD-C6BC-1F844BCA8BC3": {
+    "facing": 1157991506,
+    "kind": "Phantom",
+    "player": 1,
+    "position": [
+      95558,
+      -1140574
+    ]
+  },
+  "A333DDED-41F1-FB3D-8383-3995673BACB3": {
+    "facing": 1157991398,
+    "kind": "Piper",
+    "player": 1,
+    "position": [
+      -1016352,
+      -1273327
+    ]
+  },
+  "A3676ED0-4BCA-7CB5-D689-85BC68419E04": {
+    "facing": 1157991398,
+    "kind": "PiperCreep",
+    "player": 1,
+    "position": [
+      -949668,
+      -1274925
+    ]
+  },
+  "A4384238-4E0E-23FF-A642-69BC55AE4248": {
+    "facing": 1157991290,
+    "kind": "Piper_3v3_Creep",
+    "player": 1,
+    "position": [
+      561627,
+      697495
+    ]
+  },
+  "A4F1ACBB-4707-7A66-CE54-909E90DFE377": {
+    "facing": 1157991344,
+    "kind": "PitFiend",
+    "player": 1,
+    "position": [
+      179096,
+      -1439646
+    ]
+  },
+  "A5AE510F-4482-549C-CFBE-A68374D2C905": {
+    "facing": 1157991479,
+    "kind": "PowerBank",
+    "player": 1,
+    "position": [
+      1015808,
+      -945818
+    ]
+  },
+  "A64790B0-4863-A681-0430-479BA19A0D56": {
+    "facing": 1157991182,
+    "kind": "PrecursorUplink",
+    "player": 1,
+    "position": [
+      -1013434,
+      2003809
+    ]
+  },
+  "A694E706-416F-103E-6FF8-42B9B2FAF4FC": {
+    "facing": 1157991398,
+    "kind": "PrimaryResource01_Reward",
+    "player": 1,
+    "position": [
+      -753097,
+      -1673107
+    ]
+  },
+  "A6A4198B-4558-A59D-C47C-37B219440C51": {
+    "facing": 1157991479,
+    "kind": "PrimaryResource02_Reward",
+    "player": 1,
+    "position": [
+      -750308,
+      -1741005
+    ]
+  },
+  "A6ABF4D7-494E-C90A-AD6B-A7B6291BE51C": {
+    "facing": 1157991479,
+    "kind": "PrimaryResource03_Reward",
+    "player": 1,
+    "position": [
+      -753946,
+      -1800074
+    ]
+  },
+  "A6F72CD8-486D-45A0-6DB8-CD806C62A605": {
+    "facing": 1157991344,
+    "kind": "Prism",
+    "player": 1,
+    "position": [
+      1210270,
+      -1276718
+    ]
+  },
+  "A7261043-4147-4931-7D86-00813436095C": {
+    "facing": 1157991344,
+    "kind": "Propagator",
+    "player": 1,
+    "position": [
+      564618,
+      430895
+    ]
+  },
+  "A79542C5-46AF-9680-6E5C-B680D4D522F0": {
+    "facing": 1157991506,
+    "kind": "ProtoDoorClosed",
+    "player": 1,
+    "position": [
+      -1523712,
+      51308
+    ]
+  },
+  "A7A78EC2-4B47-8184-B030-13A665C3BBB0": {
+    "facing": 1157991236,
+    "kind": "ProtoDoorOpen",
+    "player": 1,
+    "position": [
+      -1659138,
+      1217852
+    ]
+  },
+  "A7FBA2E8-45E5-B292-8B31-83B1B47AA369": {
+    "facing": 1157991317,
+    "kind": "ProxyHangarBay",
+    "player": 1,
+    "position": [
+      -1720320,
+      -360448
+    ]
+  },
+  "A899F180-4759-78D8-98FC-22926AFA4CE4": {
+    "facing": 1157991479,
+    "kind": "Purifier",
+    "player": 1,
+    "position": [
+      1540096,
+      -814746
+    ]
+  },
+  "A8AC5CCC-494B-4DB1-5670-ABADC783640F": {
+    "facing": 1157991452,
+    "kind": "PygmyJerboa",
+    "player": 1,
+    "position": [
+      -349593,
+      -1713119
+    ]
+  },
+  "A92A9313-445A-7CD8-1C0A-F2AA69E64A8E": {
+    "facing": 1157991236,
+    "kind": "Rampart",
+    "player": 1,
+    "position": [
+      -1769472,
+      -262144
+    ]
+  },
+  "A9776A61-46E8-9549-A5AC-DD952FB1F619": {
+    "facing": 1157991236,
+    "kind": "Raptor",
+    "player": 1,
+    "position": [
+      -752839,
+      699150
+    ]
+  },
+  "A99D4171-4383-8094-D786-FEB4C0401861": {
+    "facing": 1157991236,
+    "kind": "ReconDome",
+    "player": 1,
+    "position": [
+      -349282,
+      1733073
+    ]
+  },
+  "A9B6C052-403A-4B48-6F8E-A48F82DB1CB2": {
+    "facing": 1157991452,
+    "kind": "ReinforcementRecruitingStation",
+    "player": 1,
+    "position": [
+      1501795,
+      -345730
+    ]
+  },
+  "A9EA17A4-44BF-357F-FDF9-41B1A660010E": {
+    "facing": 1157991344,
+    "kind": "ResearchLab",
+    "player": 1,
+    "position": [
+      1882745,
+      568261
+    ]
+  },
+  "AA9A418D-40EB-1F16-66A5-7F9A26E9F4CA": {
+    "facing": 1157991344,
+    "kind": "ResourceAGlobe",
+    "player": 1,
+    "position": [
+      -1015808,
+      -1474560
+    ]
+  },
+  "AB6E51C8-4562-81C9-2497-62BB1A4C6BFA": {
+    "facing": 1157991479,
+    "kind": "ResourceATower",
+    "player": 1,
+    "position": [
+      -819200,
+      -1409024
+    ]
+  },
+  "AB8DE5E4-4567-8CD0-1EC2-96B5BE27007B": {
+    "facing": 1157991344,
+    "kind": "ResourceATower2",
+    "player": 1,
+    "position": [
+      -294912,
+      -1409024
+    ]
+  },
+  "AC80188C-4CBA-2692-8C59-9FBF144AD4E5": {
+    "facing": 1157991344,
+    "kind": "ResourceBGlobe",
+    "player": 1,
+    "position": [
+      -950272,
+      -1474560
+    ]
+  },
+  "AD167E8B-49AD-1DEB-109E-F3B733766772": {
+    "facing": 1157991236,
+    "kind": "ResourceBPickup",
+    "player": 1,
+    "position": [
+      -686017,
+      -1470455
+    ]
+  },
+  "AD1A79E3-4161-EB49-18E3-33920C5583C8": {
+    "facing": 1157991506,
+    "kind": "ResourceBSpiderCreep",
+    "player": 1,
+    "position": [
+      -1075092,
+      -1658791
+    ]
+  },
+  "AECBFB95-497C-3753-6120-1C8143F296C8": {
+    "facing": 1157991344,
+    "kind": "ResourceBTower",
+    "player": 1,
+    "position": [
+      -430536,
+      -1479798
+    ]
+  },
+  "AF12C0F4-4996-C3A4-B06D-8EA2A91515D1": {
+    "facing": 1157991344,
+    "kind": "ResourceBTower2",
+    "player": 1,
+    "position": [
+      -425984,
+      -1409024
+    ]
+  },
+  "AF1AC7ED-42D6-016B-E92A-CDB436802B6D": {
+    "facing": 1157991398,
+    "kind": "ResourceCreepEasy",
+    "player": 1,
+    "position": [
+      -1014814,
+      -1605047
+    ]
+  },
+  "AF28CB58-42FE-51B8-EAFB-42A9E071A4D5": {
+    "facing": 1157991236,
+    "kind": "ResourceCreepHard",
+    "player": 1,
+    "position": [
+      834755,
+      1737910
+    ]
+  },
+  "AF2D3A04-428F-A63B-4D4F-66AFF9ADB87C": {
+    "facing": 1157991290,
+    "kind": "ResourceCreepMedium",
+    "player": 1,
+    "position": [
+      1622152,
+      1872920
+    ]
+  },
+  "AF5CC1D1-4327-2A18-FB69-8FA4321AD94F": {
+    "facing": 1157991398,
+    "kind": "ResourceCreepVeryEasy",
+    "player": 1,
+    "position": [
+      -1077347,
+      -1606201
+    ]
+  },
+  "B036F13A-40AA-6FC1-7CF3-D19503ED8397": {
+    "facing": 1157991398,
+    "kind": "Reward_Default",
+    "player": 1,
+    "position": [
+      -620861,
+      -1473569
+    ]
+  },
+  "B073E51E-462B-37D3-7E9C-1ABE0E496CF9": {
+    "facing": 1157991344,
+    "kind": "RitualChamber",
+    "player": 1,
+    "position": [
+      425984,
+      -688128
+    ]
+  },
+  "B0A69980-453F-2C39-C8FC-0BA02D028CB5": {
+    "facing": 1157991479,
+    "kind": "RitualChamberMaloc",
+    "player": 1,
+    "position": [
+      622592,
+      -688128
+    ]
+  },
+  "B1A2015C-4BCA-9C56-2066-539CE1EC311E": {
+    "facing": 1157991452,
+    "kind": "RocketLauncherGunner",
+    "player": 1,
+    "position": [
+      1759931,
+      -219521
+    ]
+  },
+  "B23204D2-42BD-6FDA-0A85-0A8A4D8CFDAA": {
+    "facing": 1157991533,
+    "kind": "RoyalGuard",
+    "player": 1,
+    "position": [
+      -1800292,
+      -621322
+    ]
+  },
+  "B354B4C3-454B-1843-C8CE-65A185C210EE": {
+    "facing": 1157991533,
+    "kind": "Ruinframe",
+    "player": 1,
+    "position": [
+      -1535245,
+      -494155
+    ]
+  },
+  "B36B5347-4F72-A2D7-684D-03AAC0EA8520": {
+    "facing": 1157991128,
+    "kind": "RykerTopBarCaster",
+    "player": 1,
+    "position": [
+      -1411632,
+      2001221
+    ]
+  },
+  "B395838D-4A39-50BD-3340-6090E73B1438": {
+    "facing": 1097338439,
+    "kind": "Ryker_Ghost",
+    "player": 1,
+    "position": [
+      -1950700,
+      -473738
+    ]
+  },
+  "B3B2F6D6-422B-29E1-D25F-22ADF1F525CA": {
+    "facing": 1157991560,
+    "kind": "Ryker_Shadow",
+    "player": 1,
+    "position": [
+      -1913333,
+      -472079
+    ]
+  },
+  "B3E3C2A3-4EE7-1CA3-7E04-11B38B705673": {
+    "facing": 1157991290,
+    "kind": "Saber",
+    "player": 1,
+    "position": [
+      1677485,
+      -1476662
+    ]
+  },
+  "B40575F5-4F86-389C-95F0-7D87F44A2DC6": {
+    "facing": 1157991371,
+    "kind": "SaberStarforge",
+    "player": 1,
+    "position": [
+      1277952,
+      -814746
+    ]
+  },
+  "B42FB5C5-4A27-56E2-9953-CE92B8C7F958": {
+    "facing": 1157991344,
+    "kind": "Scanner",
+    "player": 1,
+    "position": [
+      1544270,
+      -1208916
+    ]
+  },
+  "B528E176-4A6A-5159-1B1B-9B989C2C7F00": {
+    "facing": 1157991344,
+    "kind": "ScannerDeployed",
+    "player": 1,
+    "position": [
+      1611796,
+      -1204948
+    ]
+  },
+  "B5650A3C-479B-0A7D-6872-E5B248BCA238": {
+    "facing": 1157991452,
+    "kind": "ScannerGrounded",
+    "player": 1,
+    "position": [
+      1471905,
+      -1276171
+    ]
+  },
+  "B569EAE3-4F3A-1F6A-88C0-12BB3E3C7EED": {
+    "facing": 1157991290,
+    "kind": "Scavenger_3v3_Creep",
+    "player": 1,
+    "position": [
+      -891989,
+      -1277319
+    ]
+  },
+  "B60461EE-4CDB-BF3F-EE2E-2B86CFC12961": {
+    "facing": 1157991560,
+    "kind": "Scavenger_Range",
+    "player": 1,
+    "position": [
+      -882606,
+      -1217443
+    ]
+  },
+  "B652458E-4EBA-AA6C-E16C-4C9A069EC3A1": {
+    "facing": 1157991290,
+    "kind": "Scout",
+    "player": 1,
+    "position": [
+      435453,
+      697030
+    ]
+  },
+  "B6C6A139-40B2-E484-CDF0-9F87E8152D4C": {
+    "facing": 1157991479,
+    "kind": "ScoutEchelon",
+    "player": 1,
+    "position": [
+      -1916236,
+      -517350
+    ]
+  },
+  "B6CA7A7B-4D40-B5CD-C901-E2901F199680": {
+    "facing": 1157991452,
+    "kind": "Scrapyard",
+    "player": 1,
+    "position": [
+      1886105,
+      -219056
+    ]
+  },
+  "B749A2EB-4635-D657-AAC0-CBBCD08F858B": {
+    "facing": 1157991344,
+    "kind": "Scythe",
+    "player": 1,
+    "position": [
+      1478073,
+      -1471453
+    ]
+  },
+  "B7541CC1-4A59-DD13-1F7C-DEA709499718": {
+    "facing": 1157991587,
+    "kind": "ScytheHall",
+    "player": 1,
+    "position": [
+      1474560,
+      -814746
+    ]
+  },
+  "B75A2CD6-48A3-C739-CDA1-378F770236F1": {
+    "facing": 1157991344,
+    "kind": "SecondaryResource01_Reward",
+    "player": 1,
+    "position": [
+      439136,
+      955071
+    ]
+  },
+  "B896F27B-46BD-4F93-6AA3-5EBCB30C0D69": {
+    "facing": 1157991398,
+    "kind": "SecondaryResource02_Reward",
+    "player": 1,
+    "position": [
+      -685285,
+      -1737147
+    ]
+  },
+  "B9E01681-4EC3-AB02-F9A2-D88294A3C5AB": {
+    "facing": 1157991398,
+    "kind": "SecondaryResource03_Reward",
+    "player": 1,
+    "position": [
+      -683253,
+      -1799605
+    ]
+  },
+  "BAB2D1E8-4067-CAE0-C0E6-219BAC481613": {
+    "facing": 1157991236,
+    "kind": "Seeker",
+    "player": 1,
+    "position": [
+      -346794,
+      695123
+    ]
+  },
+  "BAE92BF8-4919-BCAE-02CD-728415F832DD": {
+    "facing": 1157991398,
+    "kind": "SeekerDeployed",
+    "player": 1,
+    "position": [
+      1608703,
+      -1272777
+    ]
+  },
+  "BAFADA2B-4691-3AE7-A16F-44976375CBFF": {
+    "facing": 1157991452,
+    "kind": "SeekerGrounded",
+    "player": 1,
+    "position": [
+      1538080,
+      -1277817
+    ]
+  },
+  "BB191426-4A80-36B0-8A16-6189D0B29C02": {
+    "facing": 1157991344,
+    "kind": "SensorDrone",
+    "player": 1,
+    "position": [
+      438444,
+      430430
+    ]
+  },
+  "BB3CA5B5-43ED-24CC-40FD-769C877AE1C7": {
+    "facing": 1157991182,
+    "kind": "SensorDroneEchelon",
+    "player": 1,
+    "position": [
+      -758320,
+      2003701
+    ]
+  },
+  "BB5D8EF2-459B-5AAA-AF32-2EB44812FBC3": {
+    "facing": 1157991398,
+    "kind": "SentryPost",
+    "player": 1,
+    "position": [
+      -1523712,
+      -311296
+    ]
+  },
+  "BBD961EE-4BA2-0235-3E34-D0AE96195209": {
+    "facing": 1157991317,
+    "kind": "SentryPostBob",
+    "player": 1,
+    "position": [
+      -1531974,
+      -364290
+    ]
+  },
+  "BCCBDB85-4CBF-9156-F343-529E65D11614": {
+    "facing": 1157991371,
+    "kind": "SentryPostEmpath",
+    "player": 1,
+    "position": [
+      -1474560,
+      -376832
+    ]
+  },
+  "BD4AE5B9-4B49-06CD-B3D8-5D93A5437DCF": {
+    "facing": 1157991398,
+    "kind": "SentryPostGunner",
+    "player": 1,
+    "position": [
+      -1376256,
+      -311296
+    ]
+  },
+  "BD75EBFA-484B-B884-3EDA-9C8A2F8B076E": {
+    "facing": 1157991344,
+    "kind": "SentryPostLancer",
+    "player": 1,
+    "position": [
+      -1343488,
+      -376832
+    ]
+  },
+  "BE08106E-4858-8DB4-2A69-DA844F2E9990": {
+    "facing": 1157991344,
+    "kind": "SentryPostMedtech",
+    "player": 1,
+    "position": [
+      -1441792,
+      -311296
+    ]
+  },
+  "BE2FD5F9-4144-C66D-F8D7-01AB0996626A": {
+    "facing": 1157991371,
+    "kind": "SentryPostRoyalGuard",
+    "player": 1,
+    "position": [
+      -1413595,
+      -378060
+    ]
+  },
+  "BE4F1CC5-439D-0840-0B39-699B1B049272": {
+    "facing": 1157991398,
+    "kind": "SentryPostScout",
+    "player": 1,
+    "position": [
+      1112178,
+      -350429
+    ]
+  },
+  "BEB5ED18-4A51-67B7-0525-0F9DCB70630A": {
+    "facing": 1157991344,
+    "kind": "Seraphim",
+    "player": 1,
+    "position": [
+      1673698,
+      -1211443
+    ]
+  },
+  "BED469CA-49E7-0826-4541-C99ADF125764": {
+    "facing": 1157991560,
+    "kind": "SeraphimHall",
+    "player": 1,
+    "position": [
+      1409024,
+      -814746
+    ]
+  },
+  "BED7CF4E-4AED-E3F1-C592-59B4FEC24A24": {
+    "facing": 1157991425,
+    "kind": "Shade",
+    "player": 1,
+    "position": [
+      -1317164,
+      13409
+    ]
+  },
+  "BF1972F7-4425-9B13-DEB5-2B89D481BE61": {
+    "facing": 14522658,
+    "kind": "ShadowCleft",
+    "player": 1,
+    "position": [
+      557056,
+      -753664
+    ]
+  },
+  "BF2C26B9-4698-9C9B-9D5E-B7BA016F0B83": {
+    "facing": 1157991479,
+    "kind": "ShadowDemonCreep",
+    "player": 1,
+    "position": [
+      -854480,
+      -1029141
+    ]
+  },
+  "C1124A32-4D0E-F49D-BC17-1387494151DE": {
+    "facing": 1157991452,
+    "kind": "ShadowDemonReward",
+    "player": 1,
+    "position": [
+      -1481973,
+      -1076204
+    ]
+  },
+  "C2B1CF7A-46A5-A1EB-1FA6-CAB05AE89A4D": {
+    "facing": 1157991398,
+    "kind": "ShadowMastiffCreep",
+    "player": 1,
+    "position": [
+      -958918,
+      -1084568
+    ]
+  },
+  "C2E0DE84-4FA2-980B-E4AF-04A4A49270BF": {
+    "facing": 1157991560,
+    "kind": "ShadowMastiffReward",
+    "player": 1,
+    "position": [
+      -1936760,
+      -1076878
+    ]
+  },
+  "C2ECE59F-4414-C34C-63AA-31B45A5B036E": {
+    "facing": 1157991290,
+    "kind": "ShadowMastiff_3v3_Creep",
+    "player": 1,
+    "position": [
+      -1056527,
+      -1076082
+    ]
+  },
+  "C329BBC6-4719-F7F0-4734-06B24373FF79": {
+    "facing": 1157991344,
+    "kind": "Shadow_3v3_DemonCreep",
+    "player": 1,
+    "position": [
+      -956675,
+      -1031409
+    ]
+  },
+  "C3FA963F-48C7-F79D-8FB6-699E8DC932C4": {
+    "facing": 1157991290,
+    "kind": "Shadowflyer",
+    "player": 1,
+    "position": [
+      225115,
+      -1079733
+    ]
+  },
+  "C437D7E2-4A05-00AB-70B9-7C96AE4071A5": {
+    "facing": 1157991344,
+    "kind": "ShadowflyerMaloc",
+    "player": 1,
+    "position": [
+      158904,
+      -1082748
+    ]
+  },
+  "C4686B14-4185-45A4-1210-DE82071A6BEB": {
+    "facing": 1157991344,
+    "kind": "Shadowrider",
+    "player": 1,
+    "position": [
+      181197,
+      175362
+    ]
+  },
+  "C49A8F2F-44FE-031B-9466-85AFF5E056DE": {
+    "facing": 1157991290,
+    "kind": "Shambler",
+    "player": 1,
+    "position": [
+      1622821,
+      1738743
+    ]
+  },
+  "C5FAAB45-42B8-CDEB-D083-2CAE3C31AEB6": {
+    "facing": 1157991371,
+    "kind": "Sharon",
+    "player": 1,
+    "position": [
+      -449515,
+      -1111394
+    ]
+  },
+  "C640052B-48EF-BC34-C24B-A18397D2A9EC": {
+    "facing": 1157991344,
+    "kind": "Shooter",
+    "player": 1,
+    "position": [
+      1756571,
+      567796
+    ]
+  },
+  "C680AD91-4728-C920-D7CB-C2A500F4D853": {
+    "facing": 1157991344,
+    "kind": "Shrike",
+    "player": 1,
+    "position": [
+      1409925,
+      -1537726
+    ]
+  },
+  "C731B041-4D8A-E2BA-A208-95975E7DFAA0": {
+    "facing": 1157991452,
+    "kind": "ShrikeGhost",
+    "player": 1,
+    "position": [
+      1407630,
+      -1475300
+    ]
+  },
+  "C74C05E4-4381-C946-0BC6-59B64630DB91": {
+    "facing": 1157991398,
+    "kind": "SiegeTower",
+    "player": 1,
+    "position": [
+      -563316,
+      -1405654
+    ]
+  },
+  "C75F6FE3-44A9-FB52-C08F-02AF9907F48C": {
+    "facing": 1157991614,
+    "kind": "SiegeTower2",
+    "player": 1,
+    "position": [
+      -884736,
+      -1409024
+    ]
+  },
+  "C76C8000-4F7C-C32E-8EF6-43ADDD21E165": {
+    "facing": 1157991182,
+    "kind": "Siege_Reward",
+    "player": 1,
+    "position": [
+      705727,
+      1736693
+    ]
+  },
+  "C7778F0B-403B-9FD2-213B-F585FCD1DBC5": {
+    "facing": 1157991398,
+    "kind": "SilenceStake",
+    "player": 1,
+    "position": [
+      434305,
+      -757207
+    ]
+  },
+  "C778112D-47D6-99A5-C6CE-AFA3E0D8FDA3": {
+    "facing": 1157991290,
+    "kind": "SkullOfShedda_Unit",
+    "player": 1,
+    "position": [
+      1229906,
+      1085103
+    ]
+  },
+  "C848DFB4-4284-758C-72EE-D18EF42109A3": {
+    "facing": 1157991398,
+    "kind": "Skunkworks",
+    "player": 1,
+    "position": [
+      1632944,
+      43317
+    ]
+  },
+  "C92F6A90-4212-99C5-70C3-E5B8B47404EF": {
+    "facing": 1157991128,
+    "kind": "Skymine",
+    "player": 1,
+    "position": [
+      -1928205,
+      1869335
+    ]
+  },
+  "C9682EED-4154-A89E-D3DC-ECA49956AA38": {
+    "facing": 1157991479,
+    "kind": "Slaughterpit",
+    "player": 1,
+    "position": [
+      -1753088,
+      -1474560
+    ]
+  },
+  "CA09CB52-490A-A30E-B673-4382041C5995": {
+    "facing": 1157991236,
+    "kind": "SlimeFleshling",
+    "player": 1,
+    "position": [
+      -692958,
+      -1143406
+    ]
+  },
+  "CA648D8C-4582-7FF4-7FBB-32B800943DB6": {
+    "facing": 1157991290,
+    "kind": "SolarHabitat",
+    "player": 1,
+    "position": [
+      -1507328,
+      -229376
+    ]
+  },
+  "CA6EB11F-4B7A-9431-F7D5-C6A97DFE4286": {
+    "facing": 1157991452,
+    "kind": "SoulCannonProjectileUnit",
+    "player": 1,
+    "position": [
+      1893616,
+      -85220
+    ]
+  },
+  "CA7A7F8C-459D-7E1A-E223-868A8BEC31EC": {
+    "facing": 1157991398,
+    "kind": "SparkNode",
+    "player": 1,
+    "position": [
+      1409024,
+      -950272
+    ]
+  },
+  "CA8B7469-482B-9369-1B69-BF90BCECA74E": {
+    "facing": 1157991371,
+    "kind": "SparkNodeKastiel",
+    "player": 1,
+    "position": [
+      1277952,
+      -945818
+    ]
+  },
+  "CB1BA040-4D2C-710A-A6FE-76BF5C94DA35": {
+    "facing": 1157991506,
+    "kind": "SpawnerReward",
+    "player": 1,
+    "position": [
+      -1806653,
+      -1075145
+    ]
+  },
+  "CB97187B-4C64-346B-73CE-CF95EBC024BC": {
+    "facing": 1157991182,
+    "kind": "SpeedDrone",
+    "player": 1,
+    "position": [
+      -1409308,
+      1868797
+    ]
+  },
+  "CB9CC969-410E-ABAC-E34F-2FA1B3B6C0A0": {
+    "facing": 1157991344,
+    "kind": "Spriggan",
+    "player": 1,
+    "position": [
+      492118,
+      -1217695
+    ]
+  },
+  "CBA006C6-404F-B44D-175C-73B284E55650": {
+    "facing": 1157991290,
+    "kind": "Sprinter",
+    "player": 1,
+    "position": [
+      -876886,
+      1219759
+    ]
+  },
+  "CBCBB984-4B94-FB7D-7022-B79833949446": {
+    "facing": 1157991236,
+    "kind": "Squif",
+    "player": 1,
+    "position": [
+      -91877,
+      1348513
+    ]
+  },
+  "CC01FE08-4C92-4BF6-A67B-D4859E6A84AC": {
+    "facing": 1157991290,
+    "kind": "SquifSpawnPlaceholder",
+    "player": 1,
+    "position": [
+      1625309,
+      700793
+    ]
+  },
+  "CC5549C5-4404-F85B-345E-C993B5CCB0AA": {
+    "facing": 1157991344,
+    "kind": "StasisCore",
+    "player": 1,
+    "position": [
+      1414795,
+      -1222598
+    ]
+  },
+  "CD350E60-42AC-1D4C-E92E-12BF02D3756B": {
+    "facing": 1157991290,
+    "kind": "StasisDroneAir",
+    "player": 1,
+    "position": [
+      565586,
+      1478158
+    ]
+  },
+  "CD62C3F9-415E-B528-4212-E18F69B20153": {
+    "facing": 1157991182,
+    "kind": "StasisDroneGround",
+    "player": 1,
+    "position": [
+      -1532522,
+      1349703
+    ]
+  },
+  "CDDE2371-4EB0-C7FE-CD65-E9B1915A1EE9": {
+    "facing": 1157991236,
+    "kind": "StasisField_Unit",
+    "player": 1,
+    "position": [
+      1226915,
+      1351703
+    ]
+  },
+  "CF25D1BB-47E4-FD32-2201-908F0F4A76F8": {
+    "facing": 1157991479,
+    "kind": "StormCreator",
+    "player": 1,
+    "position": [
+      -1414479,
+      -951651
+    ]
+  },
+  "CFA2B71E-4E42-FB93-D00C-74993AB3E4D7": {
+    "facing": 1157991506,
+    "kind": "StormDuplicator",
+    "player": 1,
+    "position": [
+      -1539543,
+      -1341987
+    ]
+  },
+  "CFA9B31B-4143-654C-5F9B-428CA709093D": {
+    "facing": 1157991533,
+    "kind": "StormEmpowerer",
+    "player": 1,
+    "position": [
+      -1932960,
+      -1328995
+    ]
+  },
+  "D02DB04C-4272-CC97-771A-38A2D389283B": {
+    "facing": 1157991344,
+    "kind": "StormHarvester",
+    "player": 1,
+    "position": [
+      -1679470,
+      -1339096
+    ]
+  },
+  "D099092C-4D66-2979-151B-7BBD04E79FF9": {
+    "facing": 1157991398,
+    "kind": "Stormflyer",
+    "player": 1,
+    "position": [
+      -867767,
+      -349484
+    ]
+  },
+  "D0C81B03-4964-5F06-FB5C-4E92A66E02FF": {
+    "facing": 1157991371,
+    "kind": "Stormgate",
+    "player": 1,
+    "position": [
+      -1916928,
+      -1474560
+    ]
+  },
+  "D1A43817-4092-9C65-22EF-47A9411F3675": {
+    "facing": 1157991290,
+    "kind": "StormgateDummyUnitTier1CloningMatrix",
+    "player": 1,
+    "position": [
+      721408,
+      -87162
+    ]
+  },
+  "D1DBE349-4A37-2164-2C38-9593A266ADC5": {
+    "facing": 1157991344,
+    "kind": "StormgateDummyUnitTier1Healer",
+    "player": 1,
+    "position": [
+      1756374,
+      1221294
+    ]
+  },
+  "D26D6137-47C1-D34B-50D0-22BE0F5EC663": {
+    "facing": 1157991290,
+    "kind": "StormgateDummyUnitTier1Ooze",
+    "player": 1,
+    "position": [
+      1110179,
+      827351
+    ]
+  },
+  "D2953C04-40EF-F1BA-DF5F-0D962F923B5F": {
+    "facing": 1157991236,
+    "kind": "StormgateDummyUnitTier1ShadowMastiff",
+    "player": 1,
+    "position": [
+      -1403355,
+      1083568
+    ]
+  },
+  "D315FBEE-43F9-22F1-607D-E8AC96D072BB": {
+    "facing": 1157991344,
+    "kind": "StormgateDummyUnitTier1StructureRelic",
+    "player": 1,
+    "position": [
+      310196,
+      955644
+    ]
+  },
+  "D33FD089-48ED-6F77-FA53-C1AC1B78116A": {
+    "facing": 1157991182,
+    "kind": "StormgateDummyUnitTier1WorkerRelic",
+    "player": 1,
+    "position": [
+      -610577,
+      695553
+    ]
+  },
+  "D3827695-408D-BD8D-872C-E2BEA918EBAD": {
+    "facing": 1157991290,
+    "kind": "StormgateDummyUnitTier2AntiAir",
+    "player": 1,
+    "position": [
+      -749846,
+      432550
+    ]
+  },
+  "D3CA701D-4F65-2E4C-9324-A5BD650CB1BA": {
+    "facing": 1157991290,
+    "kind": "StormgateDummyUnitTier2Avatar",
+    "player": 1,
+    "position": [
+      715850,
+      41267
+    ]
+  },
+  "D3E50E4A-4F9A-6074-7E82-D0B19BB8FDCD": {
+    "facing": 1157991182,
+    "kind": "StormgateDummyUnitTier2CloningMatrix",
+    "player": 1,
+    "position": [
+      -1797619,
+      1607518
+    ]
+  },
+  "D3EC4979-4F26-10F1-F6BF-CB8EC16A35D9": {
+    "facing": 1157991182,
+    "kind": "StormgateDummyUnitTier2Exploder",
+    "player": 1,
+    "position": [
+      -1915805,
+      826819
+    ]
+  },
+  "D4305179-45E4-C7CA-A544-61B8340581A1": {
+    "facing": 1157991344,
+    "kind": "StormgateDummyUnitTier2Fortress",
+    "player": 1,
+    "position": [
+      315754,
+      827214
+    ]
+  },
+  "D448AD5D-4FC7-D8E5-ED40-2188CDD2C27C": {
+    "facing": 1157991236,
+    "kind": "StormgateDummyUnitTier2Siege",
+    "player": 1,
+    "position": [
+      -1404024,
+      1217744
+    ]
+  },
+  "D4BA82BE-4C7A-520C-4527-9B85B819FC67": {
+    "facing": 1157991182,
+    "kind": "StormgateDummyUnitTier2Transport",
+    "player": 1,
+    "position": [
+      -1661265,
+      696778
+    ]
+  },
+  "D4DB9156-49F0-C593-43BC-51B4472F0EB8": {
+    "facing": 1157991398,
+    "kind": "StormgateDummyUnitTier3Avatar",
+    "player": 1,
+    "position": [
+      1238352,
+      -349964
+    ]
+  },
+  "D4EC6EBE-4AD7-A8E5-43D9-218D36505101": {
+    "facing": 1157991290,
+    "kind": "StormgateDummyUnitTier3CloningMatrix",
+    "player": 1,
+    "position": [
+      1112835,
+      -1430779
+    ]
+  },
+  "D65F7DED-4724-B629-651E-9E9BB2B86B35": {
+    "facing": 1157991236,
+    "kind": "StormgateDummyUnitTier3GiantExploder",
+    "player": 1,
+    "position": [
+      711898,
+      956784
+    ]
+  },
+  "D6C8860D-4374-CEC1-3C18-7095CE96C6EF": {
+    "facing": 1157991182,
+    "kind": "StormgateDummyUnitTier3ShadowDemon",
+    "player": 1,
+    "position": [
+      -1402192,
+      1477333
+    ]
+  },
+  "D6D52235-4F5E-7927-A51C-DAA58761A5AA": {
+    "facing": 1157991236,
+    "kind": "StormgateDummyUnitTier3Spawner",
+    "player": 1,
+    "position": [
+      -601334,
+      825164
+    ]
+  },
+  "D714DAD1-461C-8BFD-54FE-758D89F12E8C": {
+    "facing": 1157991236,
+    "kind": "StormgateDummyUnitTier3Tornado",
+    "player": 1,
+    "position": [
+      -1917409,
+      39732
+    ]
+  },
+  "D746BCCB-4C16-4248-8010-05BAB06EC06D": {
+    "facing": 1157991398,
+    "kind": "StormgateLuminite_Reward",
+    "player": 1,
+    "position": [
+      -491498,
+      -1481019
+    ]
+  },
+  "D76F266F-452E-B63A-3394-0A9D96A5F6EA": {
+    "facing": 1157991398,
+    "kind": "StormgateObjectiveLv1",
+    "player": 1,
+    "position": [
+      -1654784,
+      -802816
+    ]
+  },
+  "D7974E50-4A5D-9CA0-A5C7-779288ED2EEF": {
+    "facing": 1157991290,
+    "kind": "StormgateObjectiveLv2",
+    "player": 1,
+    "position": [
+      -1507328,
+      -802816
+    ]
+  },
+  "D7B69A5C-4A47-B223-F36C-3F929DC7FB1A": {
+    "facing": 1157991452,
+    "kind": "StormgateObjectiveLv3",
+    "player": 1,
+    "position": [
+      -1359872,
+      -802816
+    ]
+  },
+  "D80B23FE-412E-CC09-77E1-1D93E5DD0582": {
+    "facing": 1157991425,
+    "kind": "StormgateObjectiveSubmerged",
+    "player": 1,
+    "position": [
+      -1949696,
+      -802816
+    ]
+  },
+  "D81AFA35-441F-0D2B-781D-2387A8F71FCD": {
+    "facing": 1157991452,
+    "kind": "StormgateObjectiveSubmergedCaptured",
+    "player": 1,
+    "position": [
+      -1802240,
+      -802816
+    ]
+  },
+  "D9428540-441F-6538-82CC-3AAA688CC308": {
+    "facing": 1157991344,
+    "kind": "StormgateTherium_Reward",
+    "player": 1,
+    "position": [
+      437578,
+      1218104
+    ]
+  },
+  "D9C7B4F2-400F-1A5E-9739-00B4A4E9F170": {
+    "facing": 1157991587,
+    "kind": "StructureRelic",
+    "player": 1,
+    "position": [
+      -1613972,
+      -955735
+    ]
+  },
+  "D9C858F4-4F4D-2015-15CD-2C8C7E57878C": {
+    "facing": 1157991290,
+    "kind": "SuperPrismCollector",
+    "player": 1,
+    "position": [
+      1277643,
+      -1277589
+    ]
+  },
+  "DA06B960-400A-5D4F-3F00-70A38E605BAE": {
+    "facing": 1157991425,
+    "kind": "SuperPrismDepositor",
+    "player": 1,
+    "position": [
+      -1804361,
+      -1342955
+    ]
+  },
+  "DABA11D3-4B4B-D474-D0DA-009614885F99": {
+    "facing": 1157991290,
+    "kind": "Support",
+    "player": 1,
+    "position": [
+      -1139022,
+      958945
+    ]
+  },
+  "DB3290C6-4EDE-1BD6-0778-1DA747653D6A": {
+    "facing": 1157991128,
+    "kind": "SupportCasterB",
+    "player": 1,
+    "position": [
+      -1925245,
+      1350706
+    ]
+  },
+  "DB3E3E57-4F09-7E3E-B825-B2B828E1211B": {
+    "facing": 1157991344,
+    "kind": "Tank",
+    "player": 1,
+    "position": [
+      181000,
+      828860
+    ]
+  },
+  "DB7B2FD2-474F-D12E-DDEC-52941528EAE7": {
+    "facing": 1157991290,
+    "kind": "TargetDummy",
+    "player": 1,
+    "position": [
+      -213972,
+      299093
+    ]
+  },
+  "DC29C759-4B13-25D5-9C02-9D91183CEB36": {
+    "facing": 1157991182,
+    "kind": "TargetStructure",
+    "player": 1,
+    "position": [
+      -1664422,
+      1868905
+    ]
+  },
+  "DC683FE8-4D85-8569-D43E-46B3BD65A92E": {
+    "facing": 1157991236,
+    "kind": "TempPet",
+    "player": 1,
+    "position": [
+      1619830,
+      2005344
+    ]
+  },
+  "DC7A1128-46D5-8A32-90DC-D58EC5307AAA": {
+    "facing": 1157991344,
+    "kind": "TemporalReflectionAmara_Thronos_Unit",
+    "player": 1,
+    "position": [
+      1882548,
+      1221759
+    ]
+  },
+  "DC864C70-44B8-0F2A-38B0-458CCD090B49": {
+    "facing": 1157991236,
+    "kind": "TemporalReflectionAmara_Unit",
+    "player": 1,
+    "position": [
+      -346991,
+      1348621
+    ]
+  },
+  "DCB6247D-471E-8B99-657C-22A1ADA67864": {
+    "facing": 1157991290,
+    "kind": "Thronos",
+    "player": 1,
+    "position": [
+      -750043,
+      1086048
+    ]
+  },
+  "DCBC1616-4A6D-AE0E-8713-8CBF3BCA34B5": {
+    "facing": 1157991290,
+    "kind": "ThronosWisp",
+    "player": 1,
+    "position": [
+      -1005374,
+      -1730837
+    ]
+  },
+  "DE2F218D-4C89-4E17-A4D5-6BAC1120C1CA": {
+    "facing": 1157991398,
+    "kind": "Tornado_Unit",
+    "player": 1,
+    "position": [
+      -1653626,
+      289578
+    ]
+  },
+  "DECD411E-4217-ED8E-3CB5-DABCEC184BE6": {
+    "facing": 1157991290,
+    "kind": "TransmissionWidgetHolder",
+    "player": 1,
+    "position": [
+      846681,
+      176073
+    ]
+  },
+  "DF3E1447-46D2-F9DF-5F5C-C2B70EF0F01D": {
+    "facing": 1157991290,
+    "kind": "TributePyre",
+    "player": 1,
+    "position": [
+      227992,
+      -627294
+    ]
+  },
+  "DF6DD8A7-47FA-82C4-085C-9884BE9B31D7": {
+    "facing": 1157991236,
+    "kind": "TrojanYeti",
+    "player": 1,
+    "position": [
+      -218051,
+      1348048
+    ]
+  },
+  "E099E34E-4737-22AA-0600-28904D8A3921": {
+    "facing": 1157991506,
+    "kind": "TutorialTargetDummyVanguard",
+    "player": 1,
+    "position": [
+      -1052481,
+      -1003082
+    ]
+  },
+  "E0BBA511-4A1C-2BE6-58EA-4EB406540D1A": {
+    "facing": 1157991425,
+    "kind": "TwilightSpire",
+    "player": 1,
+    "position": [
+      32768,
+      -753664
+    ]
+  },
+  "E0F32E3F-4631-436A-7B11-4086A88C5914": {
+    "facing": 1157991479,
+    "kind": "TwilightSpireMaloc",
+    "player": 1,
+    "position": [
+      98304,
+      -753664
+    ]
+  },
+  "E12652AF-4F1D-6CFA-202B-5095C8F0DA07": {
+    "facing": 1157991479,
+    "kind": "Uber",
+    "player": 1,
+    "position": [
+      -1742179,
+      121774
+    ]
+  },
+  "E2B8A8FC-45A9-A972-4127-A89AEFE5E2C6": {
+    "facing": 1157991479,
+    "kind": "Unit_Adamma",
+    "player": 1,
+    "position": [
+      -358811,
+      -592450
+    ]
+  },
+  "E3763EA6-46A2-D585-1EEF-E89F42C10171": {
+    "facing": 1157991371,
+    "kind": "Unit_Amara",
+    "player": 1,
+    "position": [
+      -697330,
+      -520317
+    ]
+  },
+  "E3E21A2D-4E5D-3D7A-D524-4B8BA1E967AA": {
+    "facing": 1157991398,
+    "kind": "Unit_AmaraThronos",
+    "player": 1,
+    "position": [
+      -701897,
+      -577031
+    ]
+  },
+  "E40B068A-4F69-001C-681F-ECB2F7D315B2": {
+    "facing": 1157991452,
+    "kind": "Unit_Barclay",
+    "player": 1,
+    "position": [
+      -829168,
+      -575592
+    ]
+  },
+  "E483D588-4676-5AC5-2E89-5298683F2F38": {
+    "facing": 1157991479,
+    "kind": "Unit_Knox",
+    "player": 1,
+    "position": [
+      -554410,
+      -571675
+    ]
+  },
+  "E49BD05F-426F-191C-C0A5-86A14E95628D": {
+    "facing": 1157991506,
+    "kind": "Unit_Maloch",
+    "player": 1,
+    "position": [
+      -904095,
+      -671024
+    ]
+  },
+  "E4EA3836-48FC-0E89-A287-A4A07E6A67D6": {
+    "facing": 1157991479,
+    "kind": "Unit_Ryker",
+    "player": 1,
+    "position": [
+      -961444,
+      -668368
+    ]
+  },
+  "E544CBE4-4D7B-1754-36A6-859310494515": {
+    "facing": 1157991506,
+    "kind": "Unit_Sutter",
+    "player": 1,
+    "position": [
+      -553283,
+      -630280
+    ]
+  },
+  "E5A3BE4F-4B6D-12C4-6AEE-59B49D8118A5": {
+    "facing": 1157991344,
+    "kind": "Unit_Suyin",
+    "player": 1,
+    "position": [
+      -359049,
+      -636524
+    ]
+  },
+  "E601B76E-4012-8515-D98B-8B8247E53B42": {
+    "facing": 1157991398,
+    "kind": "Unit_Taggart",
+    "player": 1,
+    "position": [
+      -313651,
+      -583989
+    ]
+  },
+  "E6A22E3D-4A41-07D1-44FF-66B778C5F658": {
+    "facing": 1157991398,
+    "kind": "Unit_Tara",
+    "player": 1,
+    "position": [
+      -319855,
+      -628359
+    ]
+  },
+  "E6EB2AD7-4091-D6FA-7C69-9A8029E89806": {
+    "facing": 1157991290,
+    "kind": "Unit_Top",
+    "player": 1,
+    "position": [
+      169271,
+      1737199
+    ]
+  },
+  "E786C71B-42CE-F2D8-2F0D-12989B14C3F4": {
+    "facing": 1157991533,
+    "kind": "Unit_Warz",
+    "player": 1,
+    "position": [
+      -827017,
+      -670151
+    ]
+  },
+  "E7BF46DC-40C7-2AA5-F310-21AF55AD12BA": {
+    "facing": 1157991236,
+    "kind": "V5RocketLauncher",
+    "player": 1,
+    "position": [
+      -1658941,
+      564354
+    ]
+  },
+  "E879E9BA-4B7D-8768-86AD-E0A499D3C8A1": {
+    "facing": 1157991398,
+    "kind": "V5RocketLauncherCreep",
+    "player": 1,
+    "position": [
+      -470303,
+      -351399
+    ]
+  },
+  "E955E783-47E7-C82E-FB8F-B3B12448ADCF": {
+    "facing": 1157991425,
+    "kind": "V5RocketLauncherReward",
+    "player": 1,
+    "position": [
+      -1549787,
+      -1076577
+    ]
+  },
+  "E97A5630-45DF-AD5D-24C3-D196018B3EF9": {
+    "facing": 1157991182,
+    "kind": "V6AnnihilatorReward",
+    "player": 1,
+    "position": [
+      -1535482,
+      1868332
+    ]
+  },
+  "E9AFD834-4CFA-50AC-F6FB-03AE2B9EA608": {
+    "facing": 1157991236,
+    "kind": "ValentinesPromo",
+    "player": 1,
+    "position": [
+      -220342,
+      1732500
+    ]
+  },
+  "E9D588C1-4DAF-91B1-0158-9082889F9150": {
+    "facing": 1157991398,
+    "kind": "VanguardAmaraTopBarCaster",
+    "player": 1,
+    "position": [
+      -475861,
+      -222971
+    ]
+  },
+  "EA50C706-4629-90C4-FD9A-F3AB5A965EAC": {
+    "facing": 1157991290,
+    "kind": "VanguardAutoHarvester",
+    "player": 1,
+    "position": [
+      171759,
+      699249
+    ]
+  },
+  "EAA5C875-42BC-2009-DDF8-A48F01490B11": {
+    "facing": 1157991344,
+    "kind": "VanguardBarclayTopBarCaster",
+    "player": 1,
+    "position": [
+      1628992,
+      958834
+    ]
+  },
+  "EBBD2FAD-4399-CE75-E67D-F68775D6AFA4": {
+    "facing": 1157991236,
+    "kind": "VanguardExpansionHQ",
+    "player": 1,
+    "position": [
+      -1142707,
+      700904
+    ]
+  },
+  "EE45F0A8-4917-8713-D30A-4F8DEFD11246": {
+    "facing": 1157991236,
+    "kind": "VanguardTopBarCaster",
+    "player": 1,
+    "position": [
+      -1010441,
+      1737208
+    ]
+  },
+  "EF4EEA79-42BA-2793-E175-B5BDDD4B0218": {
+    "facing": 1157991290,
+    "kind": "VenomTrap_Unit",
+    "player": 1,
+    "position": [
+      228871,
+      -1019943
+    ]
+  },
+  "EFA8803F-4A53-CD14-D278-33A27BC1A6E5": {
+    "facing": 1157991236,
+    "kind": "VisionTower",
+    "player": 1,
+    "position": [
+      -688128,
+      -1409024
+    ]
+  },
+  "F0289903-4E27-AEBE-C8DD-ECB75F95EC41": {
+    "facing": 1157991398,
+    "kind": "VisionTowerReward",
+    "player": 1,
+    "position": [
+      -622592,
+      -1409024
+    ]
+  },
+  "F0C6AE4F-420F-AF11-68F6-A58CA28F867D": {
+    "facing": 1157991236,
+    "kind": "VisionTower_3v3",
+    "player": 1,
+    "position": [
+      -1657383,
+      301321
+    ]
+  },
+  "F1770494-4897-0E30-2FBC-9D810B1CEF4F": {
+    "facing": 1157991344,
+    "kind": "Vision_Reward",
+    "player": 1,
+    "position": [
+      -822384,
+      -1673090
+    ]
+  },
+  "F1C17318-4E48-543F-D003-A38CD79EA8AC": {
+    "facing": 1157991452,
+    "kind": "Vision_Reward_Hard",
+    "player": 1,
+    "position": [
+      -817980,
+      -1735172
+    ]
+  },
+  "F2714078-4EF9-7921-B02B-06BE4DC1CA38": {
+    "facing": 1157991290,
+    "kind": "Vision_Reward_Med",
+    "player": 1,
+    "position": [
+      -816582,
+      -1806845
+    ]
+  },
+  "F334B22B-4695-F673-D635-F09D82E7F18A": {
+    "facing": 1855235065,
+    "kind": "VoidBrute",
+    "player": 0,
+    "position": [
+      680894,
+      -1487699
+    ]
+  },
+  "F35A46F7-479A-8421-2725-1389D5BB29A2": {
+    "facing": 1157991506,
+    "kind": "VoidBruteVault",
+    "player": 1,
+    "position": [
+      569678,
+      -624906
+    ]
+  },
+  "F3B127D8-4CF7-B368-9B19-738BE32BC359": {
+    "facing": 1157991344,
+    "kind": "VoidSpriggan",
+    "player": 1,
+    "position": [
+      422099,
+      -1614573
+    ]
+  },
+  "F4D99379-446A-B1AC-BB47-879F1C990134": {
+    "facing": 1157991425,
+    "kind": "VoidSprigganSpire",
+    "player": 1,
+    "position": [
+      229376,
+      -753664
+    ]
+  },
+  "F58B5F31-4305-14A0-7F19-EEA518815868": {
+    "facing": 1157991425,
+    "kind": "VoidWeaver",
+    "player": 1,
+    "position": [
+      177580,
+      -1286472
+    ]
+  },
+  "F5BE8EB8-43F5-FCD9-7681-DE8010786CB8": {
+    "facing": 1157991425,
+    "kind": "VoidWeaverChamber",
+    "player": 1,
+    "position": [
+      556201,
+      -691741
+    ]
+  },
+  "F7F29A83-4FCC-B731-9830-AE87D0C0B553": {
+    "facing": 1157991344,
+    "kind": "Warforge",
+    "player": 1,
+    "position": [
+      -210215,
+      37074
+    ]
+  },
+  "F93F55AE-4DDF-271C-FF7B-7A889469C9A7": {
+    "facing": 1157991452,
+    "kind": "WarpNode",
+    "player": 1,
+    "position": [
+      1074574,
+      -945825
+    ]
+  },
+  "F95E1177-4CE6-9693-1765-829C170A5B98": {
+    "facing": 1157991425,
+    "kind": "WarpNodeKastiel",
+    "player": 1,
+    "position": [
+      1343351,
+      -953061
+    ]
+  },
+  "F982F2B9-4A6E-D72A-3B34-7282D2C203E5": {
+    "facing": 1157991344,
+    "kind": "WarzGaunt",
+    "player": 1,
+    "position": [
+      361639,
+      -1081965
+    ]
+  },
+  "F988C74A-48FA-408C-B814-E994E7CEFD41": {
+    "facing": 1157991398,
+    "kind": "Waystone",
+    "player": 1,
+    "position": [
+      184952,
+      -86656
+    ]
+  },
+  "F989C8D8-4C20-BC05-DCC7-10B4CEF62F47": {
+    "facing": 1157991479,
+    "kind": "Weaver",
+    "player": 1,
+    "position": [
+      148432,
+      -1356157
+    ]
+  },
+  "F9C680C8-4C39-7B65-BC08-A2967962066D": {
+    "facing": 1157991425,
+    "kind": "Wellspring",
+    "player": 1,
+    "position": [
+      -870588,
+      -859165
+    ]
+  },
+  "FA37A58D-4E76-D33A-95F7-9F8A13FF456D": {
+    "facing": 1157991398,
+    "kind": "Wellspring1v1",
+    "player": 1,
+    "position": [
+      -670255,
+      -865067
+    ]
+  },
+  "FAAF399F-4902-EAA3-29D3-0DA3BF1808D7": {
+    "facing": 1157991344,
+    "kind": "WellspringBruiser",
+    "player": 1,
+    "position": [
+      -569001,
+      -1209803
+    ]
+  },
+  "FB499AE9-4B08-F350-0994-029D098B6C57": {
+    "facing": 1157991236,
+    "kind": "WellspringCleaver",
+    "player": 1,
+    "position": [
+      46691,
+      1478695
+    ]
+  },
+  "FB6F6373-474F-C90D-B77B-5AA6ED697531": {
+    "facing": 1157991128,
+    "kind": "WhisperParasite",
+    "player": 1,
+    "position": [
+      -1926647,
+      1606301
+    ]
+  },
+  "FBE88EDD-4E90-3176-D654-32992260AB2F": {
+    "facing": 1157991290,
+    "kind": "Wildfire_Unit",
+    "player": 1,
+    "position": [
+      -602938,
+      38077
+    ]
+  },
+  "FBFA90D5-448E-8F36-773B-C6846DB8825F": {
+    "facing": 1157991398,
+    "kind": "Worker",
+    "player": 1,
+    "position": [
+      -206608,
+      -353619
+    ]
+  },
+  "FC632823-4B65-CC37-4714-EDBC12EAA01A": {
+    "facing": 1157991182,
+    "kind": "_BossCreep0",
+    "player": 1,
+    "position": [
+      708018,
+      1352241
+    ]
+  },
+  "FCC415BE-4E91-1CE4-2889-82B667EE70D4": {
+    "facing": 1157991398,
+    "kind": "gunner_vat",
+    "player": 1,
+    "position": [
+      -1782823,
+      162796
+    ]
+  },
+  "FD44EA8A-4BDD-6F58-BB5B-C1B3622B31B5": {
+    "facing": 1157991398,
+    "kind": "nexus",
+    "player": 1,
+    "position": [
+      53972,
+      -350137
+    ]
+  },
+  "FE0C4FCB-4C60-85EE-825B-E3B496173EFA": {
+    "facing": 1157991425,
+    "kind": "Vulcan",
+    "player": 1,
+    "position": [
+      -1537067,
+      -432489
+    ]
+  },
+  "version": 1
+}
